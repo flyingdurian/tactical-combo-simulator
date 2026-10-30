@@ -3,6 +3,7 @@ extends SceneTree
 var checks := 0
 var failures := 0
 const PREVIEW := "res://moves/director_drafts/chunli_neutral_b_preview.tres"
+const BASELINE := "res://moves/director_drafts/chunli_neutral_b_baseline.tres"
 
 func ok(condition: bool, description: String) -> void:
     checks += 1
@@ -19,12 +20,17 @@ func run() -> void:
         quit(1)
         return
     ok(move.character == "chunli" and move.category == "normal", "correct preview identity")
-    ok(move.poses.size() == 10 and move.hit_events.size() == 5, "ten poses and five authored hits")
+    ok(move.poses.size() == 20 and move.hit_events.size() == 9, "twenty poses and nine authored kick contacts")
     var pose_sum := 0
     for pose in move.poses:
         pose_sum += int(pose.ticks)
-    ok(pose_sum == move.duration_ticks and move.duration_ticks == 88, "pose tick budget exact")
-    ok(move.staging.get("exit_end") == 88, "clean staging exit boundary")
+    ok(pose_sum == move.duration_ticks and move.duration_ticks == 156, "156 tick pose budget / 2.6 seconds")
+    ok(move.duration_ticks >= 120 and move.duration_ticks <= 300, "regular attack length 2 to 5 seconds")
+    ok(move.staging.get("exit_end") == 156, "clean staging exit boundary")
+    var previous: SequenceData = load(BASELINE)
+    ok(previous != null and previous.duration_ticks == 88 and previous.hit_events.size() == 5, "88-tick reference preserved")
+    for index in range(5):
+        ok(move.hit_events[index].tick == previous.hit_events[index].tick and move.hit_events[index].region == previous.hit_events[index].region, "user-accepted first five hit regions unchanged " + str(index))
     var d: BattleDemo = load("res://scenes/BattleDemo.tscn").instantiate()
     root.add_child(d)
     d.versus_mode = false
@@ -33,7 +39,7 @@ func run() -> void:
     d.set_physics_process(false)
     d.fx.audio_enabled = false
     for definition in d.definitions:
-        ok(not definition.main_sequences.has(PREVIEW), "preview excluded from roster: " + definition.character_id)
+        ok(not definition.main_sequences.has(PREVIEW) and not definition.main_sequences.has(BASELINE), "both previews excluded from roster: " + definition.character_id)
     for mirrored in [false, true]:
         d.roles.assign([1,0,2]) # Main Chun-Li
         if mirrored:
@@ -47,8 +53,8 @@ func run() -> void:
             d.simulate_tick()
             d._process(1.0/60)
         var contacts := d.hit_log.size()
-        ok(contacts > 0 and contacts <= move.hit_events.size(),
-            "bounded actual target contact " + str(mirrored) + ": " + str(contacts))
+        ok(contacts == move.hit_events.size(),
+            "all nine sourced contacts connect " + str(mirrored) + ": " + str(contacts))
         var honest := true
         for h in d.hit_log:
             honest = honest and h.strike.has_point(h.contact) and h.hurt.has_point(h.contact)
