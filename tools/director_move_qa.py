@@ -93,6 +93,9 @@ def assess_new_normal(move: dict, peers: list[dict]) -> dict:
         errors.append("Hit events invalid or not chronological")
     if len({e["id"] for e in events}) != len(events):
         errors.append("Duplicate hit event ID")
+    for event in events[:-1]:
+        if event.get("reaction") == "finish":
+            errors.append(f"Premature finisher prevents follow-up kicks: {event.get('id')}")
     own_hit_poses = hit_pose_paths(move)
     if not own_hit_poses:
         errors.append("Normal has no contact proposals")
