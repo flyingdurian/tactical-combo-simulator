@@ -13,7 +13,11 @@ from collections import Counter, defaultdict
 from hashlib import sha256
 import html
 import json
+import sys
 from pathlib import Path
+
+if __package__ in (None, ""):
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.director_repertoire import (
     ROOT, BLUEPRINT, SOURCE, ALL_SLOTS, MAIN_SLOTS,
