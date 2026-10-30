@@ -10,8 +10,12 @@ import copy
 import hashlib
 import json
 import math
+import sys
 from pathlib import Path
 from PIL import Image
+
+if __package__ in (None, ""):
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from tools.choreography_director import pose_for_tick
 
 ROOT = Path(__file__).resolve().parents[1]
