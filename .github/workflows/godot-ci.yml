@@ -134,7 +134,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          for suite in RosterAcceptance RosterSafety VersusAcceptance DirectorPreviewAcceptance; do
+          for suite in RosterAcceptance RosterSafety VersusAcceptance DirectorPreviewAcceptance DirectorDualPilotAcceptance; do
             echo "::group::$suite"
             timeout 600s "$RUNNER_TEMP/godot" --headless --path . --script "res://tests/${suite}.gd" \
               2>&1 | tee "godot-${suite}.log"
