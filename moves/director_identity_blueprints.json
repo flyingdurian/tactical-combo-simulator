@@ -1,0 +1,1000 @@
+{
+  "schema_version": 1,
+  "status": "DESIGN_INTENT_UNVERIFIED",
+  "source_note": "Conceptual choreographic differentiation; no canonical move, sprite identity, limb anchor or animation contact is asserted.",
+  "normal_target_ticks": [
+    120,
+    300
+  ],
+  "required_normal_slots": [
+    "neutral_a",
+    "neutral_b",
+    "juggle",
+    "launcher",
+    "wall_carry"
+  ],
+  "optional_normal_slot": "finisher_or_neutral_c",
+  "required_special_slots": [
+    "super_a",
+    "super_b"
+  ],
+  "required_ultimate": "ultimate",
+  "characters": {
+    "captain_commando": {
+      "archetype_intent": "Superhero gadget and martial brawler",
+      "rhythm_direction": "bold silhouettes, gadget punctuation, dynamic lunges",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "heroic jab/kick introduction",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "gadget-assisted multi-strike",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "powered controlled aerial taps",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "gadget uppercut launch",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "armored sprinting strikes",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "dramatic superhero finish",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "gadget combo burst",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "powered heroic rush",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "full gadget cinematic finishing attack",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "chunli": {
+      "archetype_intent": "Fast grounded and airborne kick technician",
+      "rhythm_direction": "rhythmic acceleration, low-to-high changes, balanced footwork",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "grounded precision kick pair",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "accelerating multi-height kick chain",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "repeated controlled airborne taps",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "rising upward kick",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "forward traveling kicks",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "rotating kick stop with crisp landing",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "rapid-kick assault with clear cadence",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "vertical acrobatic kick sequence",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "signature cinematic kick finisher with recoil",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "dante": {
+      "archetype_intent": "Sword-and-firearm style switching",
+      "rhythm_direction": "showy timing, dynamic angles, confident pauses",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "sword starter / handgun punctuation",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "sword-to-gun alternating rush",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "aerial juggle with spaced gunshots",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "rising sword cut",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "forward drive and gun pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "dramatic heavy sword finish",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "gun/sword style-string sequence",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "aerial weapon combination",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "distinct cinematic demonic power finisher",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "juri_han": {
+      "archetype_intent": "Taunting spinning kick fighter",
+      "rhythm_direction": "unorthodox pose shifts, sharp low-high rhythms",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "low kick punctuated by high kick",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "unpredictable alternating spinning kicks",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "rapid airborne multi-kick pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "rising spin lift",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "forward corkscrew pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "taunting heel-drop ending",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "spinning kick barrage",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "feint-to-airborne kick escalation",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "taunt/reversal cinematic finisher",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "ken": {
+      "archetype_intent": "Aggressive flame-assisted martial arts",
+      "rhythm_direction": "forward pressure, aggressive spin, fast accelerating strikes",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "rapid advancing fists",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "turning kicks into close pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "multi-hit rising kick relay",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "explosive uppercut-style rise",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "step-through spinning pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "flaming spinning close-out",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "fire-accented forward rush",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "rising fire-streak combination",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "flame-driven decisive cinematic finisher",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "kosmos": {
+      "archetype_intent": "Mechanical gunblade / ether weapons",
+      "rhythm_direction": "precise, heavy, controlled mechanical transitions",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "close blade thrust > timed retraction",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "two-angle blade-pressure cross",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "sustained high-frequency strikes",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "powered upward blade lift",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "advancing armored thrust chain",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "slow impact / deliberate reset",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "weapon deployment volley",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "ether-assisted aerial control",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "distinct heavy weapon reveal and powered finisher",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "morrigan": {
+      "archetype_intent": "Aerial demon-form and wing attacks",
+      "rhythm_direction": "floating movement, angular silhouettes, wing sweeps",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "short claw / wing opener",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "bat-wing layered pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "hovering multi-hit wing strikes",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "wing assisted upward lift",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "gliding forward displacement",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "descending claw and landing beat",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "wing and projectile pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "aerial dive / projectile contrast",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "cinematic transformed wing finisher",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "natsu": {
+      "archetype_intent": "Agile blade/sword fighting",
+      "rhythm_direction": "sweeping arcs, fast redirections, acrobatics",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "short sword arc starter",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "cross-body redirected slashes",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "airborne weapon taps",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "sword-assisted upward lift",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "dash slash advance",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "grounded cutting finish",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "fast multi-angle sword rush",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "airborne blade sequence",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "acrobatic cinematic slash finale",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "reiji": {
+      "archetype_intent": "Paired blade-and-firearm martial combat",
+      "rhythm_direction": "unsheathe, sidearm timing, decisive pauses",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "compact blade / firearm alternating opener",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "forward gun-to-blade crossover",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "aerial blade hits with pistol pauses",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "blade lift into rising firearm punctuation",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "dashing slash / shot pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "two-hand final strike and sheath",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "paired weapon barrage",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "directional crossfire sequence",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "distinct dual-weapon cinematic conclusion",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "ryu": {
+      "archetype_intent": "Disciplined grounded martial arts",
+      "rhythm_direction": "economical movement, grounded weight, deliberate recovery",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "tight punch-to-kick sequence",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "alternating body/head pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "rising controlled striking chain",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "strong upward punch",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "step-in forceful body carry",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "planted finishing strike",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "measured power wave into fists",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "vertical burst into follow-up",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "focused disciplined cinematic strike",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "saya": {
+      "archetype_intent": "Unorthodox blade and supernatural pressure",
+      "rhythm_direction": "deceptive pauses, abrupt angle changes",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "deceptive short strike",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "lateral slash reversal",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "airborne repeated slice sequence",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "upward slicing lift",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "forward lunging stagger",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "quiet pause / sudden finisher",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "multi-angle supernatural strikes",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "airborne weapon pursuit",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "cinematic abrupt reversal payoff",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "sheath": {
+      "archetype_intent": "Sword / gun coordination",
+      "rhythm_direction": "draw speed, angular movement, rhythm changes",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "controlled draw-strike",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "weapon swap into close pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "airborne blade follow-ups",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "upward weapon sweep",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "driving slash push",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "single drawn-blade punctuation",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "ranged-to-melee burst",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "weapon-transform escalation",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "cinematic draw-and-finish signature",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "t_elos": {
+      "archetype_intent": "Heavy synthetic close combat",
+      "rhythm_direction": "mechanical weight, controlled releases, brutal stops",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "short armored strike entry",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "elbow and heavy kick changes",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "precise mechanical sustain taps",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "powered vertical counterstrike",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "forward body-pressure chain",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "single heavy system-stop hit",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "close-range barrage with impact holds",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "high-power technology contrast",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "weapon-system cinematic overdrive",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "vergil": {
+      "archetype_intent": "Iaijutsu and precise dimensional cuts",
+      "rhythm_direction": "minimal windup, lightning-fast impact, controlled reset",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "single precise draw cut",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "rapid offset blade cuts",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "short aerial precision strikes",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "vertical draw slash",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "instant step / precision drive",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "sheath pause then decisive cut",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "rapid precise cut sequence",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "spatial cut cascade",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "cinematic isolation and final dimensional slash",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "xiaomu": {
+      "archetype_intent": "Agile paired weapon and talisman performer",
+      "rhythm_direction": "quick feints, footwork, abrupt magical punctuations",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "short blade / talisman rhythm",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "lateral dart-and-strike phrase",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "multi-height follow-ups",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "spinning rising weapon burst",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "rapid forward slash displacement",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "distinct charm-based punctuated finisher",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "trickster rush with abrupt stops",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "airborne charm and weapon relay",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "cinematic trick reveal and finishing seal",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    },
+    "xiaoyu": {
+      "archetype_intent": "Evasive acrobatic palm and kick fighter",
+      "rhythm_direction": "low stance, feints, spinning redirects",
+      "confidence": "unverified_concept_only",
+      "slots": {
+        "neutral_a": {
+          "unique_identity": "low evasive palm entries",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "neutral_b": {
+          "unique_identity": "rotating palm-kick mix-up",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "juggle": {
+          "unique_identity": "alternating rising palms and short kicks",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "launcher": {
+          "unique_identity": "spiral upward turn",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "wall_carry": {
+          "unique_identity": "sidestep then forward pressure",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "finisher": {
+          "unique_identity": "low sweep into reorientation",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_a": {
+          "unique_identity": "mobile evasive flurry",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "super_b": {
+          "unique_identity": "air-turn strike crescendo",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        },
+        "ultimate": {
+          "unique_identity": "cinematic spinning evasive reversal",
+          "status": "DESIGN_INTENT_UNVERIFIED",
+          "sprite_pose_ids": [],
+          "contact_approved": false
+        }
+      }
+    }
+  }
+}
