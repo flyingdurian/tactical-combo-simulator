@@ -2,7 +2,7 @@ extends SceneTree
 ## F2-only Director pilot validation: real scheduler, projectile system and hurtboxes.
 var checks: int = 0
 var failures: int = 0
-const PILOTS: Array[Dictionary] = [
+const PILOTS = [
 	{"file":"res://moves/director_drafts/dante_blade_gun_break_preview.tres",
 	 "fighter":"dante","duration":182,"pose_count":19,"hit_count":6,
 	 "projectiles":2},
@@ -53,7 +53,10 @@ func run() -> void:
 				projectiles += 1
 			ids.append(str(event.id))
 		ok(projectiles == spec.projectiles, "ranged identity count")
-		ok(ids.size() == ids.duplicate().size(), "hit event ids preserved")
+		var unique_ids: Dictionary = {}
+		for id in ids:
+			unique_ids[id] = true
+		ok(unique_ids.size() == ids.size(), "distinct hit event ids")
 		var actor_index: int = -1
 		for j in range(d.definitions.size()):
 			if d.definitions[j].character_id == spec.fighter:
