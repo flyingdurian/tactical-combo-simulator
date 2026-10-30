@@ -60,6 +60,14 @@ class NewNormalQualityTests(unittest.TestCase):
         b=["stance","kick_c","kick_d","recover"]
         self.assertEqual(longest_common_run(a,b),1)
 
+    def test_kick_combos_cannot_knock_down_before_later_hits(self):
+        self.assertEqual(self.new["hit_events"][6]["reaction"], "sustain")
+        self.assertEqual(self.new["hit_events"][6]["launch"], 65)
+        bad=copy.deepcopy(self.new)
+        bad["hit_events"][6]["reaction"]="finish"
+        self.assertTrue(any("Premature finisher" in x
+                            for x in assess_new_normal(bad,[])["errors"]))
+
     def test_hit_ids_are_unique(self):
         changed=copy.deepcopy(self.new)
         changed["hit_events"][1]["id"]=changed["hit_events"][0]["id"]
