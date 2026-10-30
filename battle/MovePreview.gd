@@ -19,6 +19,10 @@ func _ready() -> void:
 		paths.append_array(data.main_sequences);paths.append_array(data.special_sequences);paths.append_array(data.assist_variants);paths.append(data.ultimate_sequence)
 		for path in paths:
 			if not path.is_empty() and not move_paths.has(path):move_paths.append(path)
+	# Director-only sandbox move: visible in F2 Move Preview, not the playable roster.
+	var director_preview := "res://moves/director_drafts/chunli_neutral_b_preview.tres"
+	if ResourceLoader.exists(director_preview) and not move_paths.has(director_preview):
+		move_paths.append(director_preview)
 	var panel := PanelContainer.new()
 	panel.position = Vector2(25, 270)
 	panel.size = Vector2(310, 270)
