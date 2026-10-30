@@ -32,6 +32,7 @@ jobs:
           python tools/director_transition_quality.py --source /tmp/director-role --out /tmp/director-transition
           python tools/director_move_qa.py --out /tmp/director-normal-quality.json
           python tools/director_pose_vocabulary.py --out /tmp/director-pose-vocabulary
+          python tools/director_pose_review_studio.py --out /tmp/director-pose-review-studio
           python tools/director_repertoire.py --out /tmp/director-repertoire
       - name: Upload normal-move duration and originality report
         if: always()
@@ -92,6 +93,15 @@ jobs:
         with:
           name: director-pose-vocabulary
           path: /tmp/director-pose-vocabulary/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Upload offline 16-fighter sprite review studio (private)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: director-pose-review-studio
+          path: /tmp/director-pose-review-studio/
           if-no-files-found: ignore
           retention-days: 7
 
