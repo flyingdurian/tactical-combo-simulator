@@ -301,6 +301,8 @@ def main() -> None:
         target = out / name
         target.mkdir(parents=True, exist_ok=True)
         (target / "storyboards.json").write_text(json.dumps(result, indent=2) + "\n")
+        from tools.director_phrase_preview import render_review
+        render_review(result, target / "review.html", ROOT)
         print(f"{name}: 3 distinct unapproved neutral-combo storyboards; "
               f"frame counts {[len(c['frame_track']) for c in result['candidates'].values()]}")
     print(f"Coverage: {len(roster['roster'])} characters, "
