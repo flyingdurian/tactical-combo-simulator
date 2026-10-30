@@ -32,7 +32,7 @@ def _safe_thumb(path: str, root: Path, out: Path) -> tuple[str, list[int]]:
         dest.parent.mkdir(parents=True, exist_ok=True)
         if not dest.exists():
             img.save(dest, optimize=True)
-    return "../../thumbs/" + dest.name, dimensions
+    return "../thumbs/" + dest.name, dimensions
 
 
 def fighter_html(name: str, poses: dict, images: dict, summary: dict) -> str:
