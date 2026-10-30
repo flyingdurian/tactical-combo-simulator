@@ -26,6 +26,13 @@ func _ready() -> void:
 	var director_baseline := "res://moves/director_drafts/chunli_neutral_b_baseline.tres"
 	if ResourceLoader.exists(director_baseline) and not move_paths.has(director_baseline):
 		move_paths.append(director_baseline)
+	# Experimental Director pilots: F2-only; never included in normal match/CPU rosters.
+	for pilot in [
+		"res://moves/director_drafts/dante_blade_gun_break_preview.tres",
+		"res://moves/director_drafts/kosmos_heavy_break_preview.tres",
+	]:
+		if ResourceLoader.exists(pilot) and not move_paths.has(pilot):
+			move_paths.append(pilot)
 	var panel := PanelContainer.new()
 	panel.position = Vector2(25, 270)
 	panel.size = Vector2(310, 270)
