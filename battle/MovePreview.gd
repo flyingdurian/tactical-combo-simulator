@@ -23,6 +23,9 @@ func _ready() -> void:
 	var director_preview := "res://moves/director_drafts/chunli_neutral_b_preview.tres"
 	if ResourceLoader.exists(director_preview) and not move_paths.has(director_preview):
 		move_paths.append(director_preview)
+	var director_baseline := "res://moves/director_drafts/chunli_neutral_b_baseline.tres"
+	if ResourceLoader.exists(director_baseline) and not move_paths.has(director_baseline):
+		move_paths.append(director_baseline)
 	var panel := PanelContainer.new()
 	panel.position = Vector2(25, 270)
 	panel.size = Vector2(310, 270)
