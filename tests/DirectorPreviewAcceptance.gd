@@ -53,6 +53,23 @@ func run() -> void:
             d.simulate_tick()
             d._process(1.0/60)
         var contacts := d.hit_log.size()
+        var confirmed_ids: Array[String] = []
+        for accepted in d.hit_log:
+            confirmed_ids.append(str(accepted.get("token", "")).split(":")[-1])
+        for authored_event in move.hit_events:
+            var event_id := str(authored_event.get("id", ""))
+            if confirmed_ids.has(event_id):
+                continue
+            var attempts: Array[String] = []
+            for entry in d.contact_log:
+                if str(entry.get("token", "")).ends_with(":" + event_id):
+                    attempts.append("%s strike=%s hurt=%s attacker=%s target=%s" % [
+                        str(entry.get("result", "")),
+                        str(entry.get("strike", "")),
+                        str(entry.get("hurt", "")),
+                        str(entry.get("attacker", "")),
+                        str(entry.get("target", ""))])
+            print("DIRECTOR MISS DETAIL facing=", mirrored, " event=", event_id, " attempts=", attempts)
         ok(contacts == move.hit_events.size(),
             "all nine sourced contacts connect " + str(mirrored) + ": " + str(contacts))
         var honest := true
