@@ -1,0 +1,51 @@
+{
+  "image_format_and_alpha": "RGBA PNG, complete",
+  "source_hashes_preserved": true,
+  "frames_checked": 1612,
+  "blank_frames": [],
+  "opaque_magenta_pixels": 0,
+  "opaque_grid_lines_detected": 0,
+  "character_counts": {
+    "T-elos": {
+      "poses": 98,
+      "candidate_sequences": 7
+    },
+    "Ryu": {
+      "poses": 270,
+      "candidate_sequences": 19
+    },
+    "Ken": {
+      "poses": 252,
+      "candidate_sequences": 16
+    },
+    "Sheath": {
+      "poses": 74,
+      "candidate_sequences": 6
+    },
+    "Saya": {
+      "poses": 67,
+      "candidate_sequences": 5
+    },
+    "Dante": {
+      "poses": 296,
+      "candidate_sequences": 31
+    },
+    "Vergil": {
+      "poses": 257,
+      "candidate_sequences": 31
+    },
+    "Captain Commando": {
+      "poses": 59,
+      "candidate_sequences": 5
+    },
+    "Natsu": {
+      "poses": 158,
+      "candidate_sequences": 10
+    },
+    "Juri Han": {
+      "poses": 81,
+      "candidate_sequences": 5
+    }
+  },
+  "validated": "static checks only, no Godot run"
+}

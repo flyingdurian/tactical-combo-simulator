@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "xiaoyu_assist"
+display_name = "Phoenix Relay / knee to rising heel"
+character = "xiaoyu"
+role = "assist"
+duration_ticks = 62
+poses = Array[Dictionary]([{"path": "res://assets/characters/xiaoyu/frames/assist_00.png", "source_rectangle": [242, 1445, 360, 1563], "canvas_offset": [69, 66], "offset": [0, 0], "ticks": 6, "anchor": [140, 178], "native_facing": -1, "attack_direction": -1, "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation", "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png"}, {"path": "res://assets/characters/xiaoyu/frames/assist_01.png", "source_rectangle": [362, 1445, 480, 1563], "canvas_offset": [69, 66], "offset": [0, 0], "ticks": 10, "anchor": [140, 178], "native_facing": -1, "attack_direction": -1, "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation", "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png"}, {"path": "res://assets/characters/xiaoyu/frames/assist_02.png", "source_rectangle": [482, 1445, 600, 1563], "canvas_offset": [69, 66], "offset": [0, 0], "ticks": 10, "anchor": [140, 178], "native_facing": -1, "attack_direction": -1, "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation", "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png"}, {"path": "res://assets/characters/xiaoyu/frames/assist_03.png", "source_rectangle": [602, 1445, 720, 1563], "canvas_offset": [69, 66], "offset": [0, 0], "ticks": 8, "anchor": [140, 178], "native_facing": -1, "attack_direction": -1, "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation", "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png"}, {"path": "res://assets/characters/xiaoyu/frames/assist_04.png", "source_rectangle": [722, 1445, 840, 1563], "canvas_offset": [69, 66], "offset": [0, 0], "ticks": 10, "anchor": [140, 178], "native_facing": -1, "attack_direction": -1, "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation", "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png"}, {"path": "res://assets/characters/xiaoyu/frames/assist_05.png", "source_rectangle": [842, 1445, 960, 1563], "canvas_offset": [69, 66], "offset": [0, 0], "ticks": 18, "anchor": [140, 178], "native_facing": -1, "attack_direction": -1, "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation", "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png"}])
+hit_events = Array[Dictionary]([{"tick": 17, "end_tick": 19, "id": "xiaoyu_assist_1", "region": [25, -112, 34, 30], "damage": 7, "hitstun": 44, "hitstop": 3, "launch": 90, "reaction": "sustain", "knockback": 3, "xp": 6, "effect": "arc", "camera": 1.5, "impact_profile": "res://impacts/light.tres", "reaction_profile": "res://reactions/light_stagger.tres"}, {"tick": 26, "end_tick": 28, "id": "xiaoyu_assist_2", "region": [38, -169, 32, 32], "damage": 13, "hitstun": 44, "hitstop": 3, "launch": 290, "reaction": "rescue", "knockback": 3, "xp": 8, "effect": "arc", "camera": 1.5, "impact_profile": "res://impacts/launcher.tres", "reaction_profile": "res://reactions/vertical_launch.tres"}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([])
+chain_open = 48
+chain_close = 62
+resource_cost = 0
+resource_gain = 0
+reach = 400.0
+staging = {"distance": 61, "entry_offset": 180, "approach_start": 4, "approach_end": 16, "commit_tick": 12, "exit_start": 44, "exit_end": 62, "max_correction": 650, "alignment_limit": 20, "height_ratio": 1.0, "max_elevation": 140}
+category = "assist"
+purpose = "Two-hit rescue, bounded entry elevation; late aerial calls can miss."

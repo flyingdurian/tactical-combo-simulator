@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "natsu_neutral"
+display_name = "Scarlet Blade Run / prototype"
+character = "natsu"
+role = "main"
+category = "normal"
+purpose = "neutral"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/natsu/frames/playable_characters_natsu_r003_c06.png", "ticks": 16, "anchor": [67, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [682, 1778, 815, 1917], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Natsu.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/natsu/frames/playable_characters_natsu_r003_c08.png", "ticks": 8, "anchor": [67, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [954, 1778, 1087, 1917], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Natsu.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/natsu/frames/playable_characters_natsu_r003_c10.png", "ticks": 8, "anchor": [67, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1226, 1778, 1359, 1917], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Natsu.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/natsu/frames/playable_characters_natsu_r003_c12.png", "ticks": 8, "anchor": [67, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1498, 1778, 1631, 1917], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Natsu.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/natsu/frames/playable_characters_natsu_r003_c15.png", "ticks": 8, "anchor": [67, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1906, 1778, 2039, 1917], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Natsu.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/natsu/frames/playable_characters_natsu_r004_c10.png", "ticks": 16, "anchor": [67, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1226, 1920, 1359, 2059], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Natsu.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 64
+hit_events = Array[Dictionary]([{"id": "natsu_neutral_0", "tick": 18, "end_tick": 20, "kind": "melee", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 0, "knockback": 0, "xp": 7, "reaction": "ground", "impact_profile": "res://impacts/light.tres", "region": [35.0, -102.3, 32, 38]}, {"id": "natsu_neutral_1", "tick": 34, "end_tick": 36, "kind": "melee", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/light.tres", "region": [35.0, -73.4, 32, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "attack"}])
+chain_open = 50
+chain_close = 63
+cancel_open = 12
+cancel_close = 49
+staging = {"distance": 69, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 50, "exit_end": 64, "max_correction": 850, "alignment_limit": 20, "height_ratio": 0.8, "max_elevation": 130}

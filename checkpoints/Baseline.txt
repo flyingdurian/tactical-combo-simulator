@@ -1,0 +1,3 @@
+Recoverable baseline: ImpactCinema4.zip, Library version 2, libfile_0ae112076b0881918b53dbbbed6172ff
+SHA256 91d82c5befb6feaf191c0ac85ba6008baf47efd9a5488ba0f39b432cd535d3f3
+Original local archive retained unchanged.

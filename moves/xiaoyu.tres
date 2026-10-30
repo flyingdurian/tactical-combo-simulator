@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="CharacterDefinition" load_steps=3 format=3]
+[ext_resource type="Script" path="res://battle/CharacterDefinition.gd" id="1"]
+[ext_resource type="Resource" path="res://sounds/xiaoyu.tres" id="voice"]
+[resource]
+script = ExtResource("1")
+character_id = "xiaoyu"
+display_name = "Ling Xiaoyu"
+idle_texture = "res://assets/characters/xiaoyu/frames/idle.png"
+native_facing = -1
+artwork_status = "Supplied assembled poses / provisional authored playback"
+main_sequences = Array[String](["res://moves/xiaoyu_neutral.tres", "res://moves/xiaoyu_left.tres", "res://moves/xiaoyu_up.tres", "res://moves/xiaoyu_down.tres", "res://moves/xiaoyu_right.tres"])
+assist_sequence = "res://moves/xiaoyu_assist.tres"
+assist_variants = Array[String](["res://moves/xiaoyu_assist.tres"])
+special_sequences = Array[String](["res://moves/xiaoyu_special_1.tres", "res://moves/xiaoyu_special_2.tres"])
+ultimate_sequence = "res://moves/xiaoyu_ultimate.tres"
+supported_roles = Array[String](["main", "assist"])
+source_manifest = "res://assets/characters/roster_manifest.json"
+availability_note = "Prototype choreography. Empty slots unavailable. Native original timing unverified."
+completion_status = "provisional"
+portrait_texture = "res://assets/characters/xiaoyu/frames/idle.png"
+pivot = Vector2(128,176)
+tint = Color(1,0.63,0.25,1)
+effect_palette = Color(1,0.63,0.25,1)
+
+sound_profile = ExtResource("voice")

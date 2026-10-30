@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="CharacterDefinition" load_steps=3 format=3]
+[ext_resource type="Script" path="res://battle/CharacterDefinition.gd" id="1"]
+[ext_resource type="Resource" path="res://sounds/morrigan.tres" id="voice"]
+[resource]
+script = ExtResource("1")
+character_id = "morrigan"
+display_name = "Morrigan Aensland"
+idle_texture = "res://assets/characters/morrigan/frames/i_0_0.png"
+native_facing = -1
+artwork_status = "Supplied assembled poses / provisional authored playback"
+main_sequences = Array[String](["res://moves/morrigan_neutral.tres", "res://moves/morrigan_left.tres", "res://moves/morrigan_up.tres", "res://moves/morrigan_down.tres", "res://moves/morrigan_right.tres"])
+assist_sequence = "res://moves/morrigan_assist.tres"
+assist_variants = Array[String](["res://moves/morrigan_assist.tres"])
+special_sequences = Array[String](["res://moves/morrigan_special_1.tres", "res://moves/morrigan_special_2.tres"])
+ultimate_sequence = "res://moves/morrigan_ultimate.tres"
+supported_roles = Array[String](["main", "assist"])
+source_manifest = "res://assets/characters/roster_manifest.json"
+availability_note = "Prototype choreography. Empty slots unavailable. Native original timing unverified."
+completion_status = "provisional"
+portrait_texture = "res://assets/characters/morrigan/frames/i_0_0.png"
+pivot = Vector2(128,176)
+tint = Color(0.72,0.5,1,1)
+effect_palette = Color(0.72,0.5,1,1)
+
+sound_profile = ExtResource("voice")

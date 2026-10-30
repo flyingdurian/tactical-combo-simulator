@@ -1,0 +1,57 @@
+character,id,name,category,role,ticks,hit_events,cost,status
+kosmos,kosmos_arc,Twin Ether / neutral opener,normal,main,78,2,0,prototype
+chunli,chunli_assist,Rapid Kicks / prototype,assist,assist,58,3,0,prototype
+xiaoyu,xiaoyu_assist,Phoenix Relay / knee to rising heel,assist,assist,62,2,0,prototype
+kosmos,kosmos_assist,Ether Relay / assist,assist,assist,78,2,0,prototype
+kosmos,kosmos_barrage,Ether Volley / sustain,normal,main,70,3,0,prototype
+placeholder_cpu,cpu_0,Telegraphed twin jab,normal,cpu,126,2,0,prototype
+placeholder_cpu,cpu_1,Delayed hammer,normal,cpu,126,2,0,prototype
+kosmos,kosmos_up,Rising Circuit / launcher,normal,main,78,2,0,prototype
+kosmos,kosmos_right,Vector Drive / wall carry,normal,main,76,3,0,prototype
+kosmos,kosmos_down,Gravity Heel / knockdown,normal,main,78,3,0,prototype
+kosmos,kosmos_special_1,Focused Ether / concentrated volley,special,main,74,5,90,prototype
+kosmos,kosmos_special_2,Vector Lift / rescue chain,special,main,84,3,120,prototype
+kosmos,kosmos_ultimate,Aether Lance / prototype heavy-energy ultimate,ultimate,main,420,9,300,prototype
+chunli,chunli_neutral,Blue Rhythm / prototype,normal,main,74,2,0,prototype
+chunli,chunli_left,Silk Leg Cadence / prototype,normal,main,70,4,0,prototype
+chunli,chunli_down,Turning Heel / prototype,normal,main,74,2,0,prototype
+xiaoyu,xiaoyu_neutral,Twin Palm Flow / prototype,normal,main,77,2,0,prototype
+xiaoyu,xiaoyu_left,Turning Circle / prototype,normal,main,82,3,0,prototype
+xiaoyu,xiaoyu_down,Low Wing Sweep / prototype,normal,main,95,2,0,prototype
+chunli,chunli_up,Sky Step / prototype,normal,main,84,2,0,prototype
+chunli,chunli_right,Driving Split / prototype,normal,main,78,3,0,prototype
+chunli,chunli_special_1,Hundred-Petal Burst / prototype,special,main,90,7,90,prototype
+chunli,chunli_special_2,Rising Lotus / prototype,special,main,96,3,120,prototype
+chunli,chunli_ultimate,Azure Spiral Finale / prototype,ultimate,main,252,8,300,prototype
+xiaoyu,xiaoyu_up,Phoenix Rise / prototype,normal,main,69,2,0,prototype
+xiaoyu,xiaoyu_right,Wheel Turn / prototype,normal,main,111,3,0,prototype
+xiaoyu,xiaoyu_special_1,Double-Palm Echo / prototype,special,main,94,3,90,prototype
+xiaoyu,xiaoyu_special_2,Phoenix Rescue / prototype,special,main,110,3,120,prototype
+xiaoyu,xiaoyu_ultimate,Phoenix Orbit / prototype,ultimate,main,286,6,300,prototype
+reiji,reiji_neutral,Twin Steel Draw / prototype,normal,main,80,2,0,prototype
+reiji,reiji_assist,Cross-Draw Support / prototype,normal,assist,61,2,0,prototype
+xiaomu,xiaomu_neutral,Fox Step / prototype,normal,main,78,2,0,prototype
+xiaomu,xiaomu_assist,Foxfire Cover / prototype,normal,assist,77,2,0,prototype
+morrigan,morrigan_neutral,Velvet Turn / prototype,normal,main,84,2,0,prototype
+morrigan,morrigan_assist,Night Wing / prototype,normal,assist,86,2,0,prototype
+reiji,reiji_left,Covering Steel / prototype,normal,main,77,2,0,prototype
+reiji,reiji_up,Rising Draw / prototype,normal,main,80,2,0,prototype
+reiji,reiji_down,Severing Arc / prototype,normal,main,89,2,0,prototype
+reiji,reiji_right,Steel Pursuit / prototype,normal,main,78,2,0,prototype
+reiji,reiji_special_1,Gunmetal Salvo / prototype,special,main,89,4,90,prototype
+reiji,reiji_special_2,Guard-Break Ascent / prototype,special,main,86,3,120,prototype
+reiji,reiji_ultimate,Crimson Arsenal / prototype,ultimate,main,279,6,300,prototype
+xiaomu,xiaomu_left,Foxfire Fan / prototype,normal,main,76,2,0,prototype
+xiaomu,xiaomu_up,Fox Tail Rise / prototype,normal,main,87,2,0,prototype
+xiaomu,xiaomu_down,Crescent Landing / prototype,normal,main,89,2,0,prototype
+xiaomu,xiaomu_right,Fox Chase / prototype,normal,main,79,2,0,prototype
+xiaomu,xiaomu_special_1,Golden Fan Volley / prototype,special,main,96,4,90,prototype
+xiaomu,xiaomu_special_2,Foxfire Lift / prototype,special,main,89,2,120,prototype
+xiaomu,xiaomu_ultimate,Golden Fox Procession / prototype,ultimate,main,271,7,300,prototype
+morrigan,morrigan_left,Night Orb / prototype,normal,main,64,2,0,prototype
+morrigan,morrigan_up,Rising Wing Blade / prototype,normal,main,96,2,0,prototype
+morrigan,morrigan_down,Velvet Descent / prototype,normal,main,93,2,0,prototype
+morrigan,morrigan_right,Batwing Drive / prototype,normal,main,95,3,0,prototype
+morrigan,morrigan_special_1,Violet Soul Volley / prototype,special,main,84,3,90,prototype
+morrigan,morrigan_special_2,Nightwing Rescue / prototype,special,main,97,2,120,prototype
+morrigan,morrigan_ultimate,Nightfall Masquerade / prototype,ultimate,main,304,6,300,prototype

@@ -1,0 +1,109 @@
+config_version=5
+[application]
+config/name="TacticalComboPrototype — Impact Cinema 4"
+run/main_scene="res://scenes/BattleDemo.tscn"
+config/features=PackedStringArray("4.4", "GL Compatibility")
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
+[physics]
+common/physics_ticks_per_second=60
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.03, 0.05, 0.09, 1)
+
+[input]
+attack={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":74)]
+}
+select_left={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194319)]
+}
+select_up={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194320)]
+}
+select_down={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194322)]
+}
+select_right={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194321)]
+}
+assist_1={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":85)]
+}
+assist_2={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":73)]
+}
+special_1={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":75)]
+}
+special_2={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":76)]
+}
+ultimate={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":79)]
+}
+cancel_block={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":32)]
+}
+dodge={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194325)]
+}
+reset_match={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":82)]
+}
+debug_panel={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194332)]
+}
+move_lab={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194333)]
+}
+swap_sides={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194334)]
+}
+miss_test={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194335)]
+}
+late_test={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194336)]
+}
+toggle_cpu={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194337)]
+}
+preview_return={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194305)]
+}
+preview_step={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194321)]
+}
+preview_pause={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":32)]
+}

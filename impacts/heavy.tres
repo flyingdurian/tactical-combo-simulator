@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="ImpactProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/ImpactProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+profile_id = "heavy"
+color = Color(1.0,0.7294117647058823,0.396078431372549,1)
+spark_count = 10
+directional_streaks = 5
+radius = 48
+shock_ring = true
+debris = 5
+hitstop = 6
+camera_impulse = 2.8
+number_scale = 1.35
+rim_strength = 0.5
+sound_layers = Array[String](["crack", "bass"])

@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="ImpactProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/ImpactProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+profile_id = "electrical"
+color = Color(0.6901960784313725,0.6352941176470588,1.0,1)
+spark_count = 5
+directional_streaks = 2
+radius = 34
+electrical_branches = 4
+arc_lifetime = 0.4
+hitstop = 4
+camera_impulse = 1.8
+number_scale = 1.15
+sound_layers = Array[String](["electric", "tap"])

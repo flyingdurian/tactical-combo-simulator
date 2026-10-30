@@ -1,0 +1,128 @@
+{
+  "sources": [
+    {
+      "filename": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "dimensions": [
+        2500,
+        1910
+      ],
+      "sha256": "4cc5b2776e728d9c300605848026595ede1be3f01a85d30b9d33c44e37d6ce9a",
+      "grid_rows_detected": 5
+    },
+    {
+      "filename": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "dimensions": [
+        2500,
+        1716
+      ],
+      "sha256": "9d419b26cde330ed2ba8a04273cdbdca092833944904cb790fce589e223c385e",
+      "grid_rows_detected": 5
+    },
+    {
+      "filename": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "dimensions": [
+        2500,
+        2253
+      ],
+      "sha256": "28e8d3ccef2840a483b40a135b06fc3f20334f2dfb48508dd212d0ff5cfbab5a",
+      "grid_rows_detected": 6
+    },
+    {
+      "filename": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "dimensions": [
+        2500,
+        2301
+      ],
+      "sha256": "ba3aad2f1e9d303372c7a246b1dbc997aaf5c0d73f882390494b117fba02fdee",
+      "grid_rows_detected": 7
+    },
+    {
+      "filename": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "dimensions": [
+        2500,
+        1914
+      ],
+      "sha256": "ffe5fede88375b97f0f8c036300ebdbe8d6a7c547faa0a466160b3d043ff08ed",
+      "grid_rows_detected": 4
+    },
+    {
+      "filename": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png",
+      "dimensions": [
+        2500,
+        12870
+      ],
+      "sha256": "ef620d491fb5d7493c6ee9f243b2735238b3eb1f4d022bd1eece7df8a7df0611",
+      "grid_rows_detected": 53
+    },
+    {
+      "filename": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "dimensions": [
+        2500,
+        2916
+      ],
+      "sha256": "273aff39586edb6c80586e1075012529aad1a48e69ce68d319ff474dc8e3bf0f",
+      "grid_rows_detected": 10
+    },
+    {
+      "filename": "3DS - Project X Zone 2 - Playable Characters - Ryu & Ken Masters.png",
+      "dimensions": [
+        2500,
+        6902
+      ],
+      "sha256": "30a8ceabb122c0ba7e043999db36fe6f4d919750fed940e1cb5581de6806c2f9",
+      "grid_rows_detected": 27
+    }
+  ],
+  "character_exports": {
+    "T-elos": {
+      "frames": 98,
+      "sequences": 7,
+      "path": "characters/t_elos/manifest.json"
+    },
+    "Ryu": {
+      "frames": 270,
+      "sequences": 19,
+      "path": "characters/ryu/manifest.json"
+    },
+    "Ken": {
+      "frames": 252,
+      "sequences": 16,
+      "path": "characters/ken/manifest.json"
+    },
+    "Sheath": {
+      "frames": 74,
+      "sequences": 6,
+      "path": "characters/sheath/manifest.json"
+    },
+    "Saya": {
+      "frames": 67,
+      "sequences": 5,
+      "path": "characters/saya/manifest.json"
+    },
+    "Dante": {
+      "frames": 296,
+      "sequences": 31,
+      "path": "characters/dante/manifest.json"
+    },
+    "Vergil": {
+      "frames": 257,
+      "sequences": 31,
+      "path": "characters/vergil/manifest.json"
+    },
+    "Captain Commando": {
+      "frames": 59,
+      "sequences": 5,
+      "path": "characters/captain_commando/manifest.json"
+    },
+    "Natsu": {
+      "frames": 158,
+      "sequences": 10,
+      "path": "characters/natsu/manifest.json"
+    },
+    "Juri Han": {
+      "frames": 81,
+      "sequences": 5,
+      "path": "characters/juri_han/manifest.json"
+    }
+  }
+}

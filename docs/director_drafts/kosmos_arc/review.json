@@ -1,0 +1,102 @@
+{
+  "source_sequence_id": "kosmos_arc",
+  "project_source": "moves/choreography.json",
+  "mode": "non_destructive_proposal",
+  "approval": "NOT_APPROVED",
+  "candidates": {
+    "source": {
+      "errors": [],
+      "warnings": [
+        "Exact same pose PNG reused in sequence",
+        "Last hit occurs before 60% of duration (check recovery pacing)"
+      ],
+      "metrics": {
+        "duration": 78,
+        "poses": 7,
+        "unique_poses": 3,
+        "hits": 2,
+        "first_hit_tick": 18,
+        "final_hit_tick": 36,
+        "recovery_ticks": 42,
+        "hit_gaps_ticks": [
+          18
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          18,
+          6,
+          7,
+          5,
+          6,
+          13,
+          23
+        ]
+      }
+    },
+    "snap": {
+      "errors": [],
+      "warnings": [
+        "Exact same pose PNG reused in sequence",
+        "Last hit occurs before 60% of duration (check recovery pacing)",
+        "Unapproved director draft; no automatic gameplay sign-off"
+      ],
+      "metrics": {
+        "duration": 78,
+        "poses": 7,
+        "unique_poses": 3,
+        "hits": 2,
+        "first_hit_tick": 18,
+        "final_hit_tick": 34,
+        "recovery_ticks": 44,
+        "hit_gaps_ticks": [
+          16
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          18,
+          5,
+          6,
+          5,
+          5,
+          14,
+          25
+        ]
+      }
+    },
+    "heavy": {
+      "errors": [],
+      "warnings": [
+        "Exact same pose PNG reused in sequence",
+        "Last hit occurs before 60% of duration (check recovery pacing)",
+        "Unapproved director draft; no automatic gameplay sign-off"
+      ],
+      "metrics": {
+        "duration": 78,
+        "poses": 7,
+        "unique_poses": 3,
+        "hits": 2,
+        "first_hit_tick": 22,
+        "final_hit_tick": 40,
+        "recovery_ticks": 38,
+        "hit_gaps_ticks": [
+          18
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          22,
+          6,
+          7,
+          5,
+          6,
+          12,
+          20
+        ]
+      }
+    }
+  },
+  "limits": [
+    "No pose reorder, procedural new animation, semantic sprite tagging or audio assignment",
+    "Contact shape, target physics, hit damage, staging and cancel windows unchanged",
+    "Browser preview is not a Godot gameplay test or proof of contact"
+  ]
+}

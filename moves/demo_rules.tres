@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="DemoRules" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/DemoRules.gd" id="1"]
+[resource]
+script = ExtResource("1")
+intro_ticks = 45
+sequence_charges = 4
+grace_ticks = 150
+buffer_ticks = 18
+cross_window = 6
+cross_suspend_ticks = 12
+cross_cooldown_ticks = 36
+cross_limit_per_phase = 2
+juggle_limit = 24
+combo_scaling_step = 0.06
+minimum_scaling = 0.55
+target_hp = 400

@@ -1,0 +1,3732 @@
+{
+  "character": "T-elos",
+  "source_game": "Project X Zone 2",
+  "source_original_archive": "Project x Zone 2 - 10 character Sprite pack.zip",
+  "count_assembled_poses": 98,
+  "count_candidate_sequences": 7,
+  "state": "asset-import-candidate-not-runtime-verified",
+  "coordinate_convention": "0-based pixel x0/y0/x1/y1 inclusive",
+  "images": [
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c01",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1030,
+        152,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 1,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        46,
+        41,
+        92,
+        144
+      ],
+      "visible_pixels": 2497,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 940,
+        "red": 319,
+        "blue": 468,
+        "warm": 21,
+        "pixels": 2497
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c02",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        155,
+        1030,
+        305,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 2,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        46,
+        41,
+        92,
+        144
+      ],
+      "visible_pixels": 2496,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 943,
+        "red": 332,
+        "blue": 445,
+        "warm": 22,
+        "pixels": 2496
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c03",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        308,
+        1030,
+        458,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 3,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        38,
+        42,
+        92,
+        146
+      ],
+      "visible_pixels": 2260,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 1075,
+        "red": 120,
+        "blue": 443,
+        "warm": 1,
+        "pixels": 2260
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c04",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        461,
+        1030,
+        611,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 4,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        49,
+        26,
+        96,
+        152
+      ],
+      "visible_pixels": 2636,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 776,
+        "red": 410,
+        "blue": 648,
+        "warm": 30,
+        "pixels": 2636
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c05",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        614,
+        1030,
+        764,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 5,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        48,
+        20,
+        106,
+        142
+      ],
+      "visible_pixels": 2386,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 712,
+        "red": 371,
+        "blue": 570,
+        "warm": 13,
+        "pixels": 2386
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c06",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        767,
+        1030,
+        917,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 6,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        48,
+        48,
+        142,
+        142
+      ],
+      "visible_pixels": 2412,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 711,
+        "red": 384,
+        "blue": 564,
+        "warm": 11,
+        "pixels": 2412
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c07",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        920,
+        1030,
+        1070,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 7,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        27,
+        44,
+        126,
+        135
+      ],
+      "visible_pixels": 2458,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 592,
+        "red": 533,
+        "blue": 583,
+        "warm": 35,
+        "pixels": 2458
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c08",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1073,
+        1030,
+        1223,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 8,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        12,
+        50,
+        109,
+        125
+      ],
+      "visible_pixels": 2607,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 494,
+        "red": 654,
+        "blue": 695,
+        "warm": 84,
+        "pixels": 2607
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c09",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        1030,
+        1376,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 9,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        10,
+        28,
+        109,
+        125
+      ],
+      "visible_pixels": 2829,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 582,
+        "red": 690,
+        "blue": 715,
+        "warm": 89,
+        "pixels": 2829
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c10",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1379,
+        1030,
+        1529,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 10,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        10,
+        28,
+        109,
+        125
+      ],
+      "visible_pixels": 2687,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 503,
+        "red": 690,
+        "blue": 716,
+        "warm": 89,
+        "pixels": 2687
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c11",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1532,
+        1030,
+        1682,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 11,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        28,
+        45,
+        96,
+        137
+      ],
+      "visible_pixels": 2940,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 500,
+        "red": 646,
+        "blue": 751,
+        "warm": 75,
+        "pixels": 2940
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c12",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1685,
+        1030,
+        1835,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 12,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        30,
+        58,
+        99,
+        150
+      ],
+      "visible_pixels": 2649,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 558,
+        "red": 448,
+        "blue": 652,
+        "warm": 71,
+        "pixels": 2649
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c13",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1838,
+        1030,
+        1988,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 13,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        14,
+        47,
+        122,
+        146
+      ],
+      "visible_pixels": 2842,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 482,
+        "red": 735,
+        "blue": 701,
+        "warm": 73,
+        "pixels": 2842
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c14",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1991,
+        1030,
+        2141,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 14,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        46,
+        42,
+        112,
+        146
+      ],
+      "visible_pixels": 2531,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 894,
+        "red": 401,
+        "blue": 446,
+        "warm": 19,
+        "pixels": 2531
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r001_c15",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r001_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2144,
+        1030,
+        2294,
+        1182
+      ],
+      "grid_row": 1,
+      "grid_column": 15,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        43,
+        42,
+        98,
+        147
+      ],
+      "visible_pixels": 2646,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 571,
+        "red": 502,
+        "blue": 723,
+        "warm": 65,
+        "pixels": 2646
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c01",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1185,
+        152,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 1,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        20,
+        54,
+        110,
+        118
+      ],
+      "visible_pixels": 2400,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 364,
+        "red": 630,
+        "blue": 623,
+        "warm": 82,
+        "pixels": 2400
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c02",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        155,
+        1185,
+        305,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 2,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        41,
+        74,
+        107,
+        129
+      ],
+      "visible_pixels": 2111,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 495,
+        "red": 376,
+        "blue": 499,
+        "warm": 23,
+        "pixels": 2111
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c03",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        308,
+        1185,
+        458,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 3,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        11,
+        51,
+        149,
+        111
+      ],
+      "visible_pixels": 2726,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 664,
+        "red": 611,
+        "blue": 598,
+        "warm": 31,
+        "pixels": 2726
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c04",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        461,
+        1185,
+        611,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 4,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        11,
+        59,
+        149,
+        111
+      ],
+      "visible_pixels": 2574,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 577,
+        "red": 611,
+        "blue": 595,
+        "warm": 31,
+        "pixels": 2574
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c05",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        614,
+        1185,
+        764,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 5,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        19,
+        33,
+        128,
+        114
+      ],
+      "visible_pixels": 2732,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 653,
+        "red": 639,
+        "blue": 555,
+        "warm": 54,
+        "pixels": 2732
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c06",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        767,
+        1185,
+        917,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 6,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        23,
+        33,
+        127,
+        114
+      ],
+      "visible_pixels": 2697,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 653,
+        "red": 625,
+        "blue": 540,
+        "warm": 54,
+        "pixels": 2697
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c07",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        920,
+        1185,
+        1070,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 7,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        16,
+        33,
+        120,
+        114
+      ],
+      "visible_pixels": 2697,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 653,
+        "red": 625,
+        "blue": 540,
+        "warm": 54,
+        "pixels": 2697
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c08",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1073,
+        1185,
+        1223,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 8,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        21,
+        33,
+        122,
+        114
+      ],
+      "visible_pixels": 2676,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 653,
+        "red": 619,
+        "blue": 527,
+        "warm": 54,
+        "pixels": 2676
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c09",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        1185,
+        1376,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 9,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        16,
+        61,
+        120,
+        114
+      ],
+      "visible_pixels": 2219,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 608,
+        "red": 541,
+        "blue": 432,
+        "warm": 54,
+        "pixels": 2219
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c10",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1379,
+        1185,
+        1529,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 10,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        34,
+        56,
+        118,
+        131
+      ],
+      "visible_pixels": 2378,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 659,
+        "red": 367,
+        "blue": 627,
+        "warm": 6,
+        "pixels": 2378
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c11",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1532,
+        1185,
+        1682,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 11,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        40,
+        27,
+        123,
+        142
+      ],
+      "visible_pixels": 2678,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 900,
+        "red": 378,
+        "blue": 659,
+        "warm": 12,
+        "pixels": 2678
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c12",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1685,
+        1185,
+        1835,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 12,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        40,
+        1,
+        92,
+        143
+      ],
+      "visible_pixels": 2601,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 806,
+        "red": 366,
+        "blue": 602,
+        "warm": 12,
+        "pixels": 2601
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c13",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1838,
+        1185,
+        1988,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 13,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        21,
+        40,
+        108,
+        143
+      ],
+      "visible_pixels": 2767,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 858,
+        "red": 468,
+        "blue": 577,
+        "warm": 23,
+        "pixels": 2767
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c14",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1991,
+        1185,
+        2141,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 14,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        21,
+        40,
+        107,
+        143
+      ],
+      "visible_pixels": 3003,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 1020,
+        "red": 501,
+        "blue": 591,
+        "warm": 27,
+        "pixels": 3003
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r002_c15",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r002_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2144,
+        1185,
+        2294,
+        1337
+      ],
+      "grid_row": 2,
+      "grid_column": 15,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        49,
+        45,
+        101,
+        139
+      ],
+      "visible_pixels": 2433,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 761,
+        "red": 325,
+        "blue": 511,
+        "warm": 22,
+        "pixels": 2433
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c01",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1340,
+        152,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 1,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        40,
+        39,
+        100,
+        130
+      ],
+      "visible_pixels": 2608,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 681,
+        "red": 517,
+        "blue": 546,
+        "warm": 49,
+        "pixels": 2608
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c02",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        155,
+        1340,
+        305,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 2,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        41,
+        66,
+        105,
+        121
+      ],
+      "visible_pixels": 1984,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 252,
+        "red": 536,
+        "blue": 517,
+        "warm": 42,
+        "pixels": 1984
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c03",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        308,
+        1340,
+        458,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 3,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        34,
+        56,
+        103,
+        131
+      ],
+      "visible_pixels": 2223,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 668,
+        "red": 327,
+        "blue": 585,
+        "warm": 5,
+        "pixels": 2223
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c04",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        461,
+        1340,
+        611,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 4,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        33,
+        44,
+        96,
+        142
+      ],
+      "visible_pixels": 2272,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 602,
+        "red": 349,
+        "blue": 542,
+        "warm": 29,
+        "pixels": 2272
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c05",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        614,
+        1340,
+        764,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 5,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        20,
+        47,
+        94,
+        143
+      ],
+      "visible_pixels": 2175,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 457,
+        "red": 479,
+        "blue": 530,
+        "warm": 108,
+        "pixels": 2175
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c06",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        767,
+        1340,
+        917,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 6,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        29,
+        44,
+        108,
+        135
+      ],
+      "visible_pixels": 2366,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 347,
+        "red": 498,
+        "blue": 641,
+        "warm": 114,
+        "pixels": 2366
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c07",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        920,
+        1340,
+        1070,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 7,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        30,
+        43,
+        107,
+        133
+      ],
+      "visible_pixels": 2608,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 492,
+        "red": 578,
+        "blue": 664,
+        "warm": 128,
+        "pixels": 2608
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c08",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1073,
+        1340,
+        1223,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 8,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        28,
+        48,
+        118,
+        119
+      ],
+      "visible_pixels": 2595,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 561,
+        "red": 452,
+        "blue": 651,
+        "warm": 72,
+        "pixels": 2595
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c09",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        1340,
+        1376,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 9,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        14,
+        47,
+        122,
+        146
+      ],
+      "visible_pixels": 2842,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 482,
+        "red": 735,
+        "blue": 701,
+        "warm": 73,
+        "pixels": 2842
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c10",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1379,
+        1340,
+        1529,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 10,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        17,
+        35,
+        114,
+        135
+      ],
+      "visible_pixels": 2852,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 724,
+        "red": 561,
+        "blue": 570,
+        "warm": 42,
+        "pixels": 2852
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c11",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1532,
+        1340,
+        1682,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 11,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        30,
+        25,
+        98,
+        114
+      ],
+      "visible_pixels": 2861,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 1013,
+        "red": 452,
+        "blue": 474,
+        "warm": 47,
+        "pixels": 2861
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c12",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1685,
+        1340,
+        1835,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 12,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        30,
+        34,
+        98,
+        114
+      ],
+      "visible_pixels": 2452,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 700,
+        "red": 434,
+        "blue": 439,
+        "warm": 47,
+        "pixels": 2452
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c13",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1838,
+        1340,
+        1988,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 13,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        30,
+        44,
+        98,
+        114
+      ],
+      "visible_pixels": 2244,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 607,
+        "red": 433,
+        "blue": 396,
+        "warm": 47,
+        "pixels": 2244
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c14",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1991,
+        1340,
+        2141,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 14,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        28,
+        67,
+        98,
+        114
+      ],
+      "visible_pixels": 1918,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 640,
+        "red": 284,
+        "blue": 369,
+        "warm": 13,
+        "pixels": 1918
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r003_c15",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r003_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2144,
+        1340,
+        2294,
+        1492
+      ],
+      "grid_row": 3,
+      "grid_column": 15,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        44,
+        39,
+        91,
+        144
+      ],
+      "visible_pixels": 2352,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 509,
+        "red": 427,
+        "blue": 662,
+        "warm": 34,
+        "pixels": 2352
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c01",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1495,
+        152,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 1,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        41,
+        40,
+        95,
+        144
+      ],
+      "visible_pixels": 2314,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 1065,
+        "red": 114,
+        "blue": 430,
+        "warm": 1,
+        "pixels": 2314
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c02",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        155,
+        1495,
+        305,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 2,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        41,
+        42,
+        89,
+        144
+      ],
+      "visible_pixels": 2298,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 820,
+        "red": 268,
+        "blue": 477,
+        "warm": 32,
+        "pixels": 2298
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c03",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        308,
+        1495,
+        458,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 3,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        28,
+        40,
+        94,
+        145
+      ],
+      "visible_pixels": 2410,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 462,
+        "red": 338,
+        "blue": 705,
+        "warm": 58,
+        "pixels": 2410
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c04",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        461,
+        1495,
+        611,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 4,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        33,
+        43,
+        117,
+        148
+      ],
+      "visible_pixels": 2557,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 432,
+        "red": 540,
+        "blue": 719,
+        "warm": 80,
+        "pixels": 2557
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c05",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        614,
+        1495,
+        764,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 5,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        22,
+        44,
+        98,
+        149
+      ],
+      "visible_pixels": 2680,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 687,
+        "red": 552,
+        "blue": 599,
+        "warm": 88,
+        "pixels": 2680
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c06",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        767,
+        1495,
+        917,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 6,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        17,
+        44,
+        88,
+        148
+      ],
+      "visible_pixels": 2708,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 962,
+        "red": 407,
+        "blue": 561,
+        "warm": 37,
+        "pixels": 2708
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c07",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        920,
+        1495,
+        1070,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 7,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        24,
+        44,
+        98,
+        148
+      ],
+      "visible_pixels": 2601,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 961,
+        "red": 344,
+        "blue": 468,
+        "warm": 14,
+        "pixels": 2601
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c08",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1073,
+        1495,
+        1223,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 8,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        45,
+        40,
+        107,
+        140
+      ],
+      "visible_pixels": 2693,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 585,
+        "red": 532,
+        "blue": 727,
+        "warm": 87,
+        "pixels": 2693
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c09",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        1495,
+        1376,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 9,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        19,
+        43,
+        92,
+        148
+      ],
+      "visible_pixels": 3017,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 894,
+        "red": 619,
+        "blue": 630,
+        "warm": 99,
+        "pixels": 3017
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c10",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1379,
+        1495,
+        1529,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 10,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        17,
+        43,
+        97,
+        141
+      ],
+      "visible_pixels": 3089,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 982,
+        "red": 568,
+        "blue": 673,
+        "warm": 93,
+        "pixels": 3089
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c11",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1532,
+        1495,
+        1682,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 11,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        7,
+        49,
+        108,
+        135
+      ],
+      "visible_pixels": 2746,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 756,
+        "red": 595,
+        "blue": 651,
+        "warm": 71,
+        "pixels": 2746
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c12",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1685,
+        1495,
+        1835,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 12,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        15,
+        53,
+        102,
+        130
+      ],
+      "visible_pixels": 2696,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 801,
+        "red": 498,
+        "blue": 603,
+        "warm": 46,
+        "pixels": 2696
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c13",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1838,
+        1495,
+        1988,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 13,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        7,
+        52,
+        107,
+        131
+      ],
+      "visible_pixels": 2536,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 643,
+        "red": 554,
+        "blue": 568,
+        "warm": 47,
+        "pixels": 2536
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c14",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1991,
+        1495,
+        2141,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 14,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        1,
+        44,
+        94,
+        143
+      ],
+      "visible_pixels": 2846,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 838,
+        "red": 572,
+        "blue": 515,
+        "warm": 55,
+        "pixels": 2846
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r004_c15",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r004_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2144,
+        1495,
+        2294,
+        1647
+      ],
+      "grid_row": 4,
+      "grid_column": 15,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        6,
+        40,
+        116,
+        145
+      ],
+      "visible_pixels": 2879,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 905,
+        "red": 554,
+        "blue": 535,
+        "warm": 31,
+        "pixels": 2879
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r005_c01",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r005_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1650,
+        152,
+        1802
+      ],
+      "grid_row": 5,
+      "grid_column": 1,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        15,
+        39,
+        99,
+        142
+      ],
+      "visible_pixels": 3014,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 773,
+        "red": 540,
+        "blue": 534,
+        "warm": 59,
+        "pixels": 3014
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r005_c02",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r005_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        155,
+        1650,
+        305,
+        1802
+      ],
+      "grid_row": 5,
+      "grid_column": 2,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        18,
+        39,
+        99,
+        142
+      ],
+      "visible_pixels": 2706,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 612,
+        "red": 540,
+        "blue": 534,
+        "warm": 59,
+        "pixels": 2706
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r005_c03",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r005_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        308,
+        1650,
+        458,
+        1802
+      ],
+      "grid_row": 5,
+      "grid_column": 3,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        26,
+        39,
+        99,
+        142
+      ],
+      "visible_pixels": 2504,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 557,
+        "red": 540,
+        "blue": 534,
+        "warm": 59,
+        "pixels": 2504
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r005_c04",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r005_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        461,
+        1650,
+        611,
+        1802
+      ],
+      "grid_row": 5,
+      "grid_column": 4,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        34,
+        39,
+        99,
+        142
+      ],
+      "visible_pixels": 2379,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 380,
+        "red": 540,
+        "blue": 534,
+        "warm": 59,
+        "pixels": 2379
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r005_c05",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r005_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        614,
+        1650,
+        764,
+        1802
+      ],
+      "grid_row": 5,
+      "grid_column": 5,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        34,
+        39,
+        99,
+        142
+      ],
+      "visible_pixels": 2544,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 434,
+        "red": 561,
+        "blue": 583,
+        "warm": 61,
+        "pixels": 2544
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r005_c06",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r005_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        767,
+        1650,
+        917,
+        1802
+      ],
+      "grid_row": 5,
+      "grid_column": 6,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        17,
+        39,
+        100,
+        142
+      ],
+      "visible_pixels": 3064,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 761,
+        "red": 551,
+        "blue": 623,
+        "warm": 61,
+        "pixels": 3064
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r005_c07",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r005_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        920,
+        1650,
+        1070,
+        1802
+      ],
+      "grid_row": 5,
+      "grid_column": 7,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        18,
+        39,
+        100,
+        142
+      ],
+      "visible_pixels": 2949,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 656,
+        "red": 551,
+        "blue": 623,
+        "warm": 61,
+        "pixels": 2949
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r005_c08",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r005_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1073,
+        1650,
+        1223,
+        1802
+      ],
+      "grid_row": 5,
+      "grid_column": 8,
+      "canvas_size": [
+        151,
+        153
+      ],
+      "bbox_inside_canvas": [
+        26,
+        39,
+        100,
+        142
+      ],
+      "visible_pixels": 2735,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 563,
+        "red": 551,
+        "blue": 623,
+        "warm": 61,
+        "pixels": 2735
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c01",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1807,
+        99,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 1,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        30,
+        4,
+        79,
+        109
+      ],
+      "visible_pixels": 2717,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 461,
+        "red": 579,
+        "blue": 783,
+        "warm": 75,
+        "pixels": 2717
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c02",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        102,
+        1807,
+        199,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 2,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        30,
+        4,
+        79,
+        109
+      ],
+      "visible_pixels": 2769,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 475,
+        "red": 638,
+        "blue": 760,
+        "warm": 73,
+        "pixels": 2769
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c03",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        202,
+        1807,
+        299,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 3,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        29,
+        9,
+        79,
+        110
+      ],
+      "visible_pixels": 2579,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 518,
+        "red": 571,
+        "blue": 668,
+        "warm": 63,
+        "pixels": 2579
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c04",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        302,
+        1807,
+        399,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 4,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        30,
+        4,
+        79,
+        109
+      ],
+      "visible_pixels": 3043,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 600,
+        "red": 636,
+        "blue": 724,
+        "warm": 86,
+        "pixels": 3043
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c05",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        402,
+        1807,
+        499,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 5,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        22,
+        4,
+        89,
+        109
+      ],
+      "visible_pixels": 3074,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 584,
+        "red": 662,
+        "blue": 772,
+        "warm": 86,
+        "pixels": 3074
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c06",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        502,
+        1807,
+        599,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 6,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        15,
+        4,
+        93,
+        109
+      ],
+      "visible_pixels": 3381,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 824,
+        "red": 617,
+        "blue": 772,
+        "warm": 125,
+        "pixels": 3381
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c07",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        602,
+        1807,
+        699,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 7,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        16,
+        4,
+        93,
+        109
+      ],
+      "visible_pixels": 3271,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 728,
+        "red": 617,
+        "blue": 772,
+        "warm": 125,
+        "pixels": 3271
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c08",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        702,
+        1807,
+        799,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 8,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        13,
+        4,
+        93,
+        109
+      ],
+      "visible_pixels": 3314,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 726,
+        "red": 617,
+        "blue": 772,
+        "warm": 125,
+        "pixels": 3314
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c09",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        802,
+        1807,
+        899,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 9,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        16,
+        4,
+        89,
+        109
+      ],
+      "visible_pixels": 3123,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 666,
+        "red": 582,
+        "blue": 739,
+        "warm": 99,
+        "pixels": 3123
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c10",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        902,
+        1807,
+        999,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 10,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        20,
+        4,
+        88,
+        109
+      ],
+      "visible_pixels": 3161,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 739,
+        "red": 582,
+        "blue": 739,
+        "warm": 99,
+        "pixels": 3161
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c11",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1002,
+        1807,
+        1099,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 11,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        20,
+        4,
+        90,
+        109
+      ],
+      "visible_pixels": 3227,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 907,
+        "red": 612,
+        "blue": 691,
+        "warm": 99,
+        "pixels": 3227
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c12",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1102,
+        1807,
+        1199,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 12,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        30,
+        4,
+        79,
+        109
+      ],
+      "visible_pixels": 2692,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 529,
+        "red": 576,
+        "blue": 649,
+        "warm": 98,
+        "pixels": 2692
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c13",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1202,
+        1807,
+        1299,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 13,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        30,
+        4,
+        79,
+        109
+      ],
+      "visible_pixels": 2731,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 628,
+        "red": 515,
+        "blue": 690,
+        "warm": 79,
+        "pixels": 2731
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c14",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1302,
+        1807,
+        1399,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 14,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        30,
+        4,
+        81,
+        109
+      ],
+      "visible_pixels": 2850,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 591,
+        "red": 612,
+        "blue": 691,
+        "warm": 99,
+        "pixels": 2850
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c15",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1402,
+        1807,
+        1499,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 15,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        28,
+        4,
+        87,
+        109
+      ],
+      "visible_pixels": 3000,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 618,
+        "red": 582,
+        "blue": 739,
+        "warm": 99,
+        "pixels": 3000
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c16",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1502,
+        1807,
+        1599,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 16,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        7,
+        1,
+        93,
+        109
+      ],
+      "visible_pixels": 2979,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 908,
+        "red": 571,
+        "blue": 655,
+        "warm": 100,
+        "pixels": 2979
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c17",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1602,
+        1807,
+        1699,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 17,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        1,
+        5,
+        86,
+        109
+      ],
+      "visible_pixels": 2458,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 530,
+        "red": 481,
+        "blue": 624,
+        "warm": 61,
+        "pixels": 2458
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c18",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c18.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1702,
+        1807,
+        1799,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 18,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        7,
+        5,
+        86,
+        109
+      ],
+      "visible_pixels": 2779,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 744,
+        "red": 481,
+        "blue": 624,
+        "warm": 61,
+        "pixels": 2779
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c19",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c19.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1802,
+        1807,
+        1899,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 19,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        7,
+        1,
+        86,
+        109
+      ],
+      "visible_pixels": 2933,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 917,
+        "red": 481,
+        "blue": 624,
+        "warm": 61,
+        "pixels": 2933
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c20",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c20.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        1902,
+        1807,
+        1999,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 20,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        34,
+        8,
+        85,
+        110
+      ],
+      "visible_pixels": 2458,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 495,
+        "red": 567,
+        "blue": 551,
+        "warm": 92,
+        "pixels": 2458
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c21",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c21.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2002,
+        1807,
+        2099,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 21,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        34,
+        8,
+        83,
+        110
+      ],
+      "visible_pixels": 2524,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 548,
+        "red": 558,
+        "blue": 582,
+        "warm": 92,
+        "pixels": 2524
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c22",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c22.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2102,
+        1807,
+        2199,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 22,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        34,
+        8,
+        80,
+        110
+      ],
+      "visible_pixels": 2522,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 544,
+        "red": 576,
+        "blue": 569,
+        "warm": 92,
+        "pixels": 2522
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c23",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c23.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2202,
+        1807,
+        2299,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 23,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        14,
+        10,
+        87,
+        110
+      ],
+      "visible_pixels": 2711,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 658,
+        "red": 570,
+        "blue": 541,
+        "warm": 102,
+        "pixels": 2711
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r006_c24",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r006_c24.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2302,
+        1807,
+        2399,
+        1921
+      ],
+      "grid_row": 6,
+      "grid_column": 24,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        17,
+        10,
+        85,
+        110
+      ],
+      "visible_pixels": 2720,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 704,
+        "red": 570,
+        "blue": 541,
+        "warm": 102,
+        "pixels": 2720
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r007_c01",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r007_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1924,
+        99,
+        2038
+      ],
+      "grid_row": 7,
+      "grid_column": 1,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        31,
+        10,
+        84,
+        110
+      ],
+      "visible_pixels": 2441,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 415,
+        "red": 570,
+        "blue": 541,
+        "warm": 102,
+        "pixels": 2441
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r007_c02",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r007_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        102,
+        1924,
+        199,
+        2038
+      ],
+      "grid_row": 7,
+      "grid_column": 2,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        38,
+        9,
+        85,
+        113
+      ],
+      "visible_pixels": 2244,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 515,
+        "red": 414,
+        "blue": 617,
+        "warm": 40,
+        "pixels": 2244
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r007_c03",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r007_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        202,
+        1924,
+        299,
+        2038
+      ],
+      "grid_row": 7,
+      "grid_column": 3,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        23,
+        7,
+        81,
+        114
+      ],
+      "visible_pixels": 2460,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 717,
+        "red": 434,
+        "blue": 627,
+        "warm": 17,
+        "pixels": 2460
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r007_c04",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r007_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        302,
+        1924,
+        399,
+        2038
+      ],
+      "grid_row": 7,
+      "grid_column": 4,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        30,
+        10,
+        80,
+        114
+      ],
+      "visible_pixels": 2311,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 1046,
+        "red": 220,
+        "blue": 439,
+        "warm": 5,
+        "pixels": 2311
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r007_c05",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r007_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        402,
+        1924,
+        499,
+        2038
+      ],
+      "grid_row": 7,
+      "grid_column": 5,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        41,
+        6,
+        96,
+        109
+      ],
+      "visible_pixels": 2658,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 901,
+        "red": 361,
+        "blue": 550,
+        "warm": 25,
+        "pixels": 2658
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_r007_c06",
+      "png": "frames/t_x_zone_2_enemies_t_elos_r007_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - T-elos.png",
+      "crop_xyxy_inclusive": [
+        502,
+        1924,
+        599,
+        2038
+      ],
+      "grid_row": 7,
+      "grid_column": 6,
+      "canvas_size": [
+        98,
+        115
+      ],
+      "bbox_inside_canvas": [
+        41,
+        6,
+        91,
+        109
+      ],
+      "visible_pixels": 2518,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 946,
+        "red": 307,
+        "blue": 516,
+        "warm": 25,
+        "pixels": 2518
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    }
+  ],
+  "animations": [
+    {
+      "id": "t_x_zone_2_enemies_t_elos_row001_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_t_elos_r001_c01.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c02.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c03.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c04.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c05.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c06.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c07.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c08.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c09.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c10.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c11.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c12.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c13.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c14.png",
+        "frames/t_x_zone_2_enemies_t_elos_r001_c15.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_row": 1,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_row002_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_t_elos_r002_c01.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c02.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c03.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c04.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c05.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c06.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c07.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c08.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c09.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c10.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c11.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c12.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c13.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c14.png",
+        "frames/t_x_zone_2_enemies_t_elos_r002_c15.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_row": 2,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_row003_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_t_elos_r003_c01.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c02.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c03.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c04.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c05.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c06.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c07.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c08.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c09.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c10.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c11.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c12.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c13.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c14.png",
+        "frames/t_x_zone_2_enemies_t_elos_r003_c15.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_row": 3,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_row004_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_t_elos_r004_c01.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c02.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c03.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c04.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c05.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c06.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c07.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c08.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c09.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c10.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c11.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c12.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c13.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c14.png",
+        "frames/t_x_zone_2_enemies_t_elos_r004_c15.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_row": 4,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_row005_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_t_elos_r005_c01.png",
+        "frames/t_x_zone_2_enemies_t_elos_r005_c02.png",
+        "frames/t_x_zone_2_enemies_t_elos_r005_c03.png",
+        "frames/t_x_zone_2_enemies_t_elos_r005_c04.png",
+        "frames/t_x_zone_2_enemies_t_elos_r005_c05.png",
+        "frames/t_x_zone_2_enemies_t_elos_r005_c06.png",
+        "frames/t_x_zone_2_enemies_t_elos_r005_c07.png",
+        "frames/t_x_zone_2_enemies_t_elos_r005_c08.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source_row": 5,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_row006_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_t_elos_r006_c01.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c02.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c03.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c04.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c05.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c06.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c07.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c08.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c09.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c10.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c11.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c12.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c13.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c14.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c15.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c16.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c17.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c18.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c19.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c20.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c21.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c22.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c23.png",
+        "frames/t_x_zone_2_enemies_t_elos_r006_c24.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "source_row": 6,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_t_elos_row007_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_t_elos_r007_c01.png",
+        "frames/t_x_zone_2_enemies_t_elos_r007_c02.png",
+        "frames/t_x_zone_2_enemies_t_elos_r007_c03.png",
+        "frames/t_x_zone_2_enemies_t_elos_r007_c04.png",
+        "frames/t_x_zone_2_enemies_t_elos_r007_c05.png",
+        "frames/t_x_zone_2_enemies_t_elos_r007_c06.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_row": 7,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    }
+  ],
+  "default_animation": "static_idle_placeholder",
+  "import_notes": [
+    "Use nearest pixel filtering. Use common canvas and explicit pivot for final runtime sequences.",
+    "Animation order/duration not embedded in PNG; groups provisional and must be reviewed.",
+    "Shared-sheet character identification uses color scoring. Review medium/low-confidence assignments.",
+    "Original source PNG retained separately and unchanged."
+  ],
+  "default_still_pose_png": "frames/t_x_zone_2_enemies_t_elos_r001_c01.png",
+  "default_still_pose_selection": "first assembled-pose sequence, not first atlas cell; provisional static idle"
+}

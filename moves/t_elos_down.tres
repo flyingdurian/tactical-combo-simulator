@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "t_elos_down"
+display_name = "Descending Circuit / prototype"
+character = "t_elos"
+role = "main"
+category = "normal"
+purpose = "down"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r003_c01.png", "ticks": 16, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [2, 1340, 152, 1492], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r003_c03.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [308, 1340, 458, 1492], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r003_c05.png", "ticks": 8, "anchor": [76, 145], "native_facing": -1, "offset": [0, 0], "source_rectangle": [614, 1340, 764, 1492], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r003_c07.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [920, 1340, 1070, 1492], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r003_c08.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1073, 1340, 1223, 1492], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r003_c11.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1532, 1340, 1682, 1492], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r003_c15.png", "ticks": 16, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [2144, 1340, 2294, 1492], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 72
+hit_events = Array[Dictionary]([{"id": "t_elos_down_0", "tick": 26, "end_tick": 28, "kind": "melee", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 0, "knockback": 0, "xp": 7, "reaction": "ground", "impact_profile": "res://impacts/light.tres", "region": [46.9, -109.1, 32, 38]}, {"id": "t_elos_down_1", "tick": 42, "end_tick": 44, "kind": "melee", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 0, "knockback": 0, "xp": 7, "reaction": "finish", "impact_profile": "res://impacts/finisher.tres", "region": [53.7, -121.0, 32, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "attack"}])
+chain_open = 58
+chain_close = 71
+cancel_open = 12
+cancel_close = 57
+staging = {"distance": 84, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 58, "exit_end": 72, "max_correction": 850, "alignment_limit": 20, "height_ratio": 0.8, "max_elevation": 130}

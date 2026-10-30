@@ -1,0 +1,5988 @@
+{
+  "character": "Natsu",
+  "source_game": "Project X Zone 2",
+  "source_original_archive": "Project x Zone 2 - 10 character Sprite pack.zip",
+  "count_assembled_poses": 158,
+  "count_candidate_sequences": 10,
+  "state": "asset-import-candidate-not-runtime-verified",
+  "coordinate_convention": "0-based pixel x0/y0/x1/y1 inclusive",
+  "images": [
+    {
+      "id": "playable_characters_natsu_r001_c01",
+      "png": "frames/playable_characters_natsu_r001_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1494,
+        135,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        22,
+        86,
+        125
+      ],
+      "visible_pixels": 2592,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 42,
+        "red": 1399,
+        "blue": 0,
+        "warm": 663,
+        "pixels": 2592
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c02",
+      "png": "frames/playable_characters_natsu_r001_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        1494,
+        271,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        53,
+        22,
+        107,
+        125
+      ],
+      "visible_pixels": 2580,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 41,
+        "red": 1385,
+        "blue": 0,
+        "warm": 663,
+        "pixels": 2580
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c03",
+      "png": "frames/playable_characters_natsu_r001_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        1494,
+        407,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        24,
+        46,
+        106,
+        109
+      ],
+      "visible_pixels": 2381,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 20,
+        "red": 1408,
+        "blue": 0,
+        "warm": 547,
+        "pixels": 2381
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c04",
+      "png": "frames/playable_characters_natsu_r001_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        1494,
+        543,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        31,
+        23,
+        85,
+        126
+      ],
+      "visible_pixels": 2592,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 42,
+        "red": 1399,
+        "blue": 0,
+        "warm": 663,
+        "pixels": 2592
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c05",
+      "png": "frames/playable_characters_natsu_r001_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        1494,
+        679,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        35,
+        27,
+        99,
+        123
+      ],
+      "visible_pixels": 2390,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 33,
+        "red": 1287,
+        "blue": 0,
+        "warm": 653,
+        "pixels": 2390
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c06",
+      "png": "frames/playable_characters_natsu_r001_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        1494,
+        815,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        18,
+        56,
+        109,
+        119
+      ],
+      "visible_pixels": 2274,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 41,
+        "red": 1163,
+        "blue": 0,
+        "warm": 598,
+        "pixels": 2274
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c07",
+      "png": "frames/playable_characters_natsu_r001_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        1494,
+        951,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        28,
+        59,
+        118,
+        126
+      ],
+      "visible_pixels": 2326,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 34,
+        "red": 1218,
+        "blue": 0,
+        "warm": 554,
+        "pixels": 2326
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c08",
+      "png": "frames/playable_characters_natsu_r001_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        1494,
+        1087,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        53,
+        40,
+        111,
+        116
+      ],
+      "visible_pixels": 1879,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 25,
+        "red": 937,
+        "blue": 0,
+        "warm": 532,
+        "pixels": 1879
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c09",
+      "png": "frames/playable_characters_natsu_r001_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        1494,
+        1223,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        24,
+        37,
+        107,
+        110
+      ],
+      "visible_pixels": 2963,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 73,
+        "red": 1682,
+        "blue": 0,
+        "warm": 753,
+        "pixels": 2963
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c10",
+      "png": "frames/playable_characters_natsu_r001_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        1494,
+        1359,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        14,
+        35,
+        116,
+        115
+      ],
+      "visible_pixels": 2834,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 88,
+        "red": 1495,
+        "blue": 0,
+        "warm": 616,
+        "pixels": 2834
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c11",
+      "png": "frames/playable_characters_natsu_r001_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        1494,
+        1495,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        17,
+        118,
+        124
+      ],
+      "visible_pixels": 2835,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 73,
+        "red": 1614,
+        "blue": 0,
+        "warm": 697,
+        "pixels": 2835
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c12",
+      "png": "frames/playable_characters_natsu_r001_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1498,
+        1494,
+        1631,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 12,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        1,
+        22,
+        108,
+        132
+      ],
+      "visible_pixels": 2931,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 78,
+        "red": 1561,
+        "blue": 0,
+        "warm": 721,
+        "pixels": 2931
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c13",
+      "png": "frames/playable_characters_natsu_r001_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1634,
+        1494,
+        1767,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 13,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        42,
+        1,
+        115,
+        133
+      ],
+      "visible_pixels": 2733,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 65,
+        "red": 1442,
+        "blue": 0,
+        "warm": 659,
+        "pixels": 2733
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c14",
+      "png": "frames/playable_characters_natsu_r001_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1770,
+        1494,
+        1903,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 14,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        38,
+        55,
+        120,
+        134
+      ],
+      "visible_pixels": 2629,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 84,
+        "red": 1358,
+        "blue": 0,
+        "warm": 600,
+        "pixels": 2629
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c15",
+      "png": "frames/playable_characters_natsu_r001_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1906,
+        1494,
+        2039,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 15,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        15,
+        52,
+        119,
+        117
+      ],
+      "visible_pixels": 2448,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 57,
+        "red": 1301,
+        "blue": 0,
+        "warm": 636,
+        "pixels": 2448
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c16",
+      "png": "frames/playable_characters_natsu_r001_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2042,
+        1494,
+        2175,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 16,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        15,
+        34,
+        101,
+        124
+      ],
+      "visible_pixels": 2447,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 51,
+        "red": 1055,
+        "blue": 0,
+        "warm": 579,
+        "pixels": 2447
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r001_c17",
+      "png": "frames/playable_characters_natsu_r001_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        1494,
+        2311,
+        1633
+      ],
+      "grid_row": 1,
+      "grid_column": 17,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        14,
+        90,
+        126
+      ],
+      "visible_pixels": 2514,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 53,
+        "red": 1214,
+        "blue": 0,
+        "warm": 644,
+        "pixels": 2514
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c01",
+      "png": "frames/playable_characters_natsu_r002_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1636,
+        135,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        24,
+        15,
+        112,
+        129
+      ],
+      "visible_pixels": 2481,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 138,
+        "red": 1416,
+        "blue": 0,
+        "warm": 516,
+        "pixels": 2481
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c02",
+      "png": "frames/playable_characters_natsu_r002_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        1636,
+        271,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        12,
+        14,
+        112,
+        120
+      ],
+      "visible_pixels": 2364,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 74,
+        "red": 1486,
+        "blue": 0,
+        "warm": 537,
+        "pixels": 2364
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c03",
+      "png": "frames/playable_characters_natsu_r002_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        1636,
+        407,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        19,
+        16,
+        111,
+        125
+      ],
+      "visible_pixels": 2461,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 58,
+        "red": 1319,
+        "blue": 0,
+        "warm": 608,
+        "pixels": 2461
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c04",
+      "png": "frames/playable_characters_natsu_r002_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        1636,
+        543,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        19,
+        19,
+        111,
+        138
+      ],
+      "visible_pixels": 2553,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 108,
+        "red": 1415,
+        "blue": 0,
+        "warm": 596,
+        "pixels": 2553
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c05",
+      "png": "frames/playable_characters_natsu_r002_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        1636,
+        679,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        17,
+        111,
+        131
+      ],
+      "visible_pixels": 2594,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 61,
+        "red": 1262,
+        "blue": 0,
+        "warm": 663,
+        "pixels": 2594
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c06",
+      "png": "frames/playable_characters_natsu_r002_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        1636,
+        815,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        29,
+        15,
+        113,
+        139
+      ],
+      "visible_pixels": 2410,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 82,
+        "red": 1293,
+        "blue": 0,
+        "warm": 513,
+        "pixels": 2410
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c07",
+      "png": "frames/playable_characters_natsu_r002_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        1636,
+        951,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        9,
+        57,
+        112,
+        129
+      ],
+      "visible_pixels": 2161,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 117,
+        "red": 980,
+        "blue": 0,
+        "warm": 490,
+        "pixels": 2161
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c08",
+      "png": "frames/playable_characters_natsu_r002_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        1636,
+        1087,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        35,
+        38,
+        105,
+        112
+      ],
+      "visible_pixels": 2300,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 128,
+        "red": 1209,
+        "blue": 0,
+        "warm": 739,
+        "pixels": 2300
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c09",
+      "png": "frames/playable_characters_natsu_r002_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        1636,
+        1223,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        33,
+        23,
+        84,
+        117
+      ],
+      "visible_pixels": 2290,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 129,
+        "red": 1102,
+        "blue": 0,
+        "warm": 543,
+        "pixels": 2290
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c10",
+      "png": "frames/playable_characters_natsu_r002_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        1636,
+        1359,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        45,
+        16,
+        101,
+        127
+      ],
+      "visible_pixels": 2621,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 16,
+        "red": 1643,
+        "blue": 0,
+        "warm": 728,
+        "pixels": 2621
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c11",
+      "png": "frames/playable_characters_natsu_r002_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        1636,
+        1495,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        20,
+        108,
+        129
+      ],
+      "visible_pixels": 2905,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 19,
+        "red": 1853,
+        "blue": 0,
+        "warm": 800,
+        "pixels": 2905
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c12",
+      "png": "frames/playable_characters_natsu_r002_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1498,
+        1636,
+        1631,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 12,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        36,
+        26,
+        113,
+        124
+      ],
+      "visible_pixels": 2727,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 15,
+        "red": 1835,
+        "blue": 0,
+        "warm": 851,
+        "pixels": 2727
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c13",
+      "png": "frames/playable_characters_natsu_r002_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1634,
+        1636,
+        1767,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 13,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        33,
+        18,
+        104,
+        117
+      ],
+      "visible_pixels": 2757,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 10,
+        "red": 1854,
+        "blue": 0,
+        "warm": 885,
+        "pixels": 2757
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c14",
+      "png": "frames/playable_characters_natsu_r002_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1770,
+        1636,
+        1903,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 14,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        16,
+        96,
+        104
+      ],
+      "visible_pixels": 2554,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 22,
+        "red": 1615,
+        "blue": 0,
+        "warm": 777,
+        "pixels": 2554
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c15",
+      "png": "frames/playable_characters_natsu_r002_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1906,
+        1636,
+        2039,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 15,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        5,
+        18,
+        90,
+        100
+      ],
+      "visible_pixels": 2704,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 24,
+        "red": 1622,
+        "blue": 0,
+        "warm": 735,
+        "pixels": 2704
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c16",
+      "png": "frames/playable_characters_natsu_r002_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2042,
+        1636,
+        2175,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 16,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        34,
+        29,
+        88,
+        127
+      ],
+      "visible_pixels": 2390,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 27,
+        "red": 1210,
+        "blue": 0,
+        "warm": 675,
+        "pixels": 2390
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r002_c17",
+      "png": "frames/playable_characters_natsu_r002_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        1636,
+        2311,
+        1775
+      ],
+      "grid_row": 2,
+      "grid_column": 17,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        38,
+        33,
+        107,
+        124
+      ],
+      "visible_pixels": 1743,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 883,
+        "blue": 0,
+        "warm": 511,
+        "pixels": 1743
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c01",
+      "png": "frames/playable_characters_natsu_r003_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1778,
+        135,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        62,
+        113,
+        108
+      ],
+      "visible_pixels": 1824,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 24,
+        "red": 961,
+        "blue": 0,
+        "warm": 532,
+        "pixels": 1824
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c02",
+      "png": "frames/playable_characters_natsu_r003_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        1778,
+        271,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        47,
+        60,
+        103,
+        119
+      ],
+      "visible_pixels": 1713,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 31,
+        "red": 879,
+        "blue": 0,
+        "warm": 497,
+        "pixels": 1713
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c03",
+      "png": "frames/playable_characters_natsu_r003_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        1778,
+        407,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        35,
+        29,
+        89,
+        99
+      ],
+      "visible_pixels": 1925,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 32,
+        "red": 995,
+        "blue": 0,
+        "warm": 561,
+        "pixels": 1925
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c04",
+      "png": "frames/playable_characters_natsu_r003_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        1778,
+        543,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        43,
+        30,
+        85,
+        113
+      ],
+      "visible_pixels": 1836,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 28,
+        "red": 945,
+        "blue": 0,
+        "warm": 512,
+        "pixels": 1836
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c05",
+      "png": "frames/playable_characters_natsu_r003_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        1778,
+        679,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        47,
+        24,
+        83,
+        132
+      ],
+      "visible_pixels": 1763,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 27,
+        "red": 904,
+        "blue": 0,
+        "warm": 492,
+        "pixels": 1763
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c06",
+      "png": "frames/playable_characters_natsu_r003_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        1778,
+        815,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        21,
+        91,
+        126
+      ],
+      "visible_pixels": 2571,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 41,
+        "red": 1537,
+        "blue": 0,
+        "warm": 717,
+        "pixels": 2571
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c07",
+      "png": "frames/playable_characters_natsu_r003_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        1778,
+        951,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        24,
+        95,
+        125
+      ],
+      "visible_pixels": 2579,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 44,
+        "red": 1591,
+        "blue": 0,
+        "warm": 739,
+        "pixels": 2579
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c08",
+      "png": "frames/playable_characters_natsu_r003_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        1778,
+        1087,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        22,
+        28,
+        120,
+        124
+      ],
+      "visible_pixels": 2608,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 42,
+        "red": 1620,
+        "blue": 0,
+        "warm": 771,
+        "pixels": 2608
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c09",
+      "png": "frames/playable_characters_natsu_r003_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        1778,
+        1223,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        18,
+        33,
+        112,
+        122
+      ],
+      "visible_pixels": 2532,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 38,
+        "red": 1563,
+        "blue": 0,
+        "warm": 754,
+        "pixels": 2532
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c10",
+      "png": "frames/playable_characters_natsu_r003_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        1778,
+        1359,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        28,
+        27,
+        108,
+        123
+      ],
+      "visible_pixels": 2563,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 23,
+        "red": 1558,
+        "blue": 0,
+        "warm": 694,
+        "pixels": 2563
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c11",
+      "png": "frames/playable_characters_natsu_r003_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        1778,
+        1495,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        35,
+        48,
+        117,
+        123
+      ],
+      "visible_pixels": 2524,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 25,
+        "red": 1437,
+        "blue": 0,
+        "warm": 632,
+        "pixels": 2524
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c12",
+      "png": "frames/playable_characters_natsu_r003_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1498,
+        1778,
+        1631,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 12,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        57,
+        119,
+        120
+      ],
+      "visible_pixels": 2414,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 19,
+        "red": 1421,
+        "blue": 0,
+        "warm": 558,
+        "pixels": 2414
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c13",
+      "png": "frames/playable_characters_natsu_r003_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1634,
+        1778,
+        1767,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 13,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        51,
+        21,
+        108,
+        116
+      ],
+      "visible_pixels": 2350,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 1326,
+        "blue": 0,
+        "warm": 655,
+        "pixels": 2350
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c14",
+      "png": "frames/playable_characters_natsu_r003_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1770,
+        1778,
+        1903,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 14,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        51,
+        27,
+        106,
+        117
+      ],
+      "visible_pixels": 2471,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 1407,
+        "blue": 0,
+        "warm": 670,
+        "pixels": 2471
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c15",
+      "png": "frames/playable_characters_natsu_r003_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1906,
+        1778,
+        2039,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 15,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        52,
+        33,
+        101,
+        117
+      ],
+      "visible_pixels": 2291,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 23,
+        "red": 1345,
+        "blue": 0,
+        "warm": 600,
+        "pixels": 2291
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c16",
+      "png": "frames/playable_characters_natsu_r003_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2042,
+        1778,
+        2175,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 16,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        30,
+        23,
+        96,
+        136
+      ],
+      "visible_pixels": 2405,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 33,
+        "red": 1395,
+        "blue": 0,
+        "warm": 582,
+        "pixels": 2405
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r003_c17",
+      "png": "frames/playable_characters_natsu_r003_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        1778,
+        2311,
+        1917
+      ],
+      "grid_row": 3,
+      "grid_column": 17,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        22,
+        39,
+        100,
+        133
+      ],
+      "visible_pixels": 2434,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 36,
+        "red": 1337,
+        "blue": 0,
+        "warm": 559,
+        "pixels": 2434
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c01",
+      "png": "frames/playable_characters_natsu_r004_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1920,
+        135,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        31,
+        36,
+        125,
+        120
+      ],
+      "visible_pixels": 2363,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 22,
+        "red": 1167,
+        "blue": 0,
+        "warm": 566,
+        "pixels": 2363
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c02",
+      "png": "frames/playable_characters_natsu_r004_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        1920,
+        271,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        17,
+        102,
+        116
+      ],
+      "visible_pixels": 2455,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 21,
+        "red": 1295,
+        "blue": 0,
+        "warm": 628,
+        "pixels": 2455
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c03",
+      "png": "frames/playable_characters_natsu_r004_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        1920,
+        407,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        42,
+        86,
+        122
+      ],
+      "visible_pixels": 1722,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 23,
+        "red": 950,
+        "blue": 0,
+        "warm": 469,
+        "pixels": 1722
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c04",
+      "png": "frames/playable_characters_natsu_r004_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        1920,
+        543,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        50,
+        26,
+        102,
+        108
+      ],
+      "visible_pixels": 1770,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 21,
+        "red": 987,
+        "blue": 0,
+        "warm": 508,
+        "pixels": 1770
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c05",
+      "png": "frames/playable_characters_natsu_r004_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        1920,
+        679,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        33,
+        32,
+        90,
+        137
+      ],
+      "visible_pixels": 2103,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 25,
+        "red": 1186,
+        "blue": 0,
+        "warm": 502,
+        "pixels": 2103
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c06",
+      "png": "frames/playable_characters_natsu_r004_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        1920,
+        815,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        43,
+        25,
+        101,
+        105
+      ],
+      "visible_pixels": 1916,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 1124,
+        "blue": 0,
+        "warm": 525,
+        "pixels": 1916
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c07",
+      "png": "frames/playable_characters_natsu_r004_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        1920,
+        951,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        41,
+        113,
+        86
+      ],
+      "visible_pixels": 1862,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 23,
+        "red": 1042,
+        "blue": 0,
+        "warm": 485,
+        "pixels": 1862
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c08",
+      "png": "frames/playable_characters_natsu_r004_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        1920,
+        1087,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        25,
+        43,
+        85,
+        100
+      ],
+      "visible_pixels": 1696,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 22,
+        "red": 1006,
+        "blue": 0,
+        "warm": 550,
+        "pixels": 1696
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c09",
+      "png": "frames/playable_characters_natsu_r004_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        1920,
+        1223,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        47,
+        35,
+        104,
+        113
+      ],
+      "visible_pixels": 1871,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 24,
+        "red": 1089,
+        "blue": 0,
+        "warm": 523,
+        "pixels": 1871
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c10",
+      "png": "frames/playable_characters_natsu_r004_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        1920,
+        1359,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        34,
+        24,
+        105,
+        124
+      ],
+      "visible_pixels": 2643,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 31,
+        "red": 1713,
+        "blue": 0,
+        "warm": 854,
+        "pixels": 2643
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c11",
+      "png": "frames/playable_characters_natsu_r004_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        1920,
+        1495,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        8,
+        22,
+        132,
+        131
+      ],
+      "visible_pixels": 2869,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 84,
+        "red": 1582,
+        "blue": 0,
+        "warm": 740,
+        "pixels": 2869
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c12",
+      "png": "frames/playable_characters_natsu_r004_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1498,
+        1920,
+        1631,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 12,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        20,
+        22,
+        100,
+        132
+      ],
+      "visible_pixels": 2401,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 76,
+        "red": 1315,
+        "blue": 0,
+        "warm": 675,
+        "pixels": 2401
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c13",
+      "png": "frames/playable_characters_natsu_r004_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1634,
+        1920,
+        1767,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 13,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        20,
+        23,
+        101,
+        134
+      ],
+      "visible_pixels": 2443,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 76,
+        "red": 1313,
+        "blue": 0,
+        "warm": 558,
+        "pixels": 2443
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c14",
+      "png": "frames/playable_characters_natsu_r004_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1770,
+        1920,
+        1903,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 14,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        11,
+        20,
+        110,
+        134
+      ],
+      "visible_pixels": 2512,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 73,
+        "red": 1345,
+        "blue": 0,
+        "warm": 546,
+        "pixels": 2512
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c15",
+      "png": "frames/playable_characters_natsu_r004_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1906,
+        1920,
+        2039,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 15,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        21,
+        108,
+        134
+      ],
+      "visible_pixels": 2670,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 73,
+        "red": 1404,
+        "blue": 0,
+        "warm": 541,
+        "pixels": 2670
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c16",
+      "png": "frames/playable_characters_natsu_r004_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2042,
+        1920,
+        2175,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 16,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        29,
+        16,
+        107,
+        134
+      ],
+      "visible_pixels": 2668,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 102,
+        "red": 1354,
+        "blue": 0,
+        "warm": 527,
+        "pixels": 2668
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r004_c17",
+      "png": "frames/playable_characters_natsu_r004_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        1920,
+        2311,
+        2059
+      ],
+      "grid_row": 4,
+      "grid_column": 17,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        46,
+        8,
+        89,
+        134
+      ],
+      "visible_pixels": 2522,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 98,
+        "red": 1177,
+        "blue": 0,
+        "warm": 544,
+        "pixels": 2522
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c01",
+      "png": "frames/playable_characters_natsu_r005_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        2062,
+        135,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        49,
+        7,
+        88,
+        134
+      ],
+      "visible_pixels": 2423,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 106,
+        "red": 1267,
+        "blue": 0,
+        "warm": 631,
+        "pixels": 2423
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c02",
+      "png": "frames/playable_characters_natsu_r005_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        2062,
+        271,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        36,
+        12,
+        100,
+        134
+      ],
+      "visible_pixels": 2752,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 128,
+        "red": 1757,
+        "blue": 0,
+        "warm": 750,
+        "pixels": 2752
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c03",
+      "png": "frames/playable_characters_natsu_r005_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        2062,
+        407,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        49,
+        7,
+        91,
+        134
+      ],
+      "visible_pixels": 2396,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 75,
+        "red": 1340,
+        "blue": 0,
+        "warm": 605,
+        "pixels": 2396
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c04",
+      "png": "frames/playable_characters_natsu_r005_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        2062,
+        543,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        15,
+        100,
+        135
+      ],
+      "visible_pixels": 2517,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 101,
+        "red": 1149,
+        "blue": 0,
+        "warm": 450,
+        "pixels": 2517
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c05",
+      "png": "frames/playable_characters_natsu_r005_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        2062,
+        679,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        21,
+        21,
+        122,
+        135
+      ],
+      "visible_pixels": 2781,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 117,
+        "red": 1345,
+        "blue": 0,
+        "warm": 535,
+        "pixels": 2781
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c06",
+      "png": "frames/playable_characters_natsu_r005_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        2062,
+        815,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        20,
+        113,
+        126
+      ],
+      "visible_pixels": 2726,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 114,
+        "red": 1289,
+        "blue": 0,
+        "warm": 449,
+        "pixels": 2726
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c07",
+      "png": "frames/playable_characters_natsu_r005_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        2062,
+        951,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        37,
+        113,
+        120
+      ],
+      "visible_pixels": 2456,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 106,
+        "red": 1083,
+        "blue": 0,
+        "warm": 354,
+        "pixels": 2456
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c08",
+      "png": "frames/playable_characters_natsu_r005_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        2062,
+        1087,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        29,
+        48,
+        110,
+        114
+      ],
+      "visible_pixels": 2130,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 104,
+        "red": 885,
+        "blue": 0,
+        "warm": 256,
+        "pixels": 2130
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c09",
+      "png": "frames/playable_characters_natsu_r005_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        2062,
+        1223,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        31,
+        33,
+        100,
+        124
+      ],
+      "visible_pixels": 1743,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 883,
+        "blue": 0,
+        "warm": 511,
+        "pixels": 1743
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c10",
+      "png": "frames/playable_characters_natsu_r005_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        2062,
+        1359,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        60,
+        114,
+        102
+      ],
+      "visible_pixels": 1827,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 29,
+        "red": 932,
+        "blue": 0,
+        "warm": 496,
+        "pixels": 1827
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r005_c11",
+      "png": "frames/playable_characters_natsu_r005_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        2062,
+        1495,
+        2201
+      ],
+      "grid_row": 5,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        25,
+        62,
+        103,
+        109
+      ],
+      "visible_pixels": 1894,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 28,
+        "red": 1001,
+        "blue": 0,
+        "warm": 561,
+        "pixels": 1894
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c01",
+      "png": "frames/playable_characters_natsu_r006_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        2206,
+        135,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        22,
+        86,
+        125
+      ],
+      "visible_pixels": 2592,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 42,
+        "red": 1399,
+        "blue": 0,
+        "warm": 663,
+        "pixels": 2592
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c02",
+      "png": "frames/playable_characters_natsu_r006_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        2206,
+        271,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        53,
+        22,
+        107,
+        125
+      ],
+      "visible_pixels": 2580,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 41,
+        "red": 1385,
+        "blue": 0,
+        "warm": 663,
+        "pixels": 2580
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c03",
+      "png": "frames/playable_characters_natsu_r006_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        2206,
+        407,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        24,
+        46,
+        106,
+        109
+      ],
+      "visible_pixels": 2381,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 20,
+        "red": 1408,
+        "blue": 0,
+        "warm": 547,
+        "pixels": 2381
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c04",
+      "png": "frames/playable_characters_natsu_r006_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        2206,
+        543,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        31,
+        23,
+        85,
+        126
+      ],
+      "visible_pixels": 2592,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 42,
+        "red": 1399,
+        "blue": 0,
+        "warm": 663,
+        "pixels": 2592
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c05",
+      "png": "frames/playable_characters_natsu_r006_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        2206,
+        679,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        35,
+        27,
+        99,
+        123
+      ],
+      "visible_pixels": 2390,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 33,
+        "red": 1287,
+        "blue": 0,
+        "warm": 653,
+        "pixels": 2390
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c06",
+      "png": "frames/playable_characters_natsu_r006_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        2206,
+        815,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        18,
+        56,
+        109,
+        119
+      ],
+      "visible_pixels": 2274,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 41,
+        "red": 1163,
+        "blue": 0,
+        "warm": 598,
+        "pixels": 2274
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c07",
+      "png": "frames/playable_characters_natsu_r006_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        2206,
+        951,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        28,
+        59,
+        118,
+        126
+      ],
+      "visible_pixels": 2326,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 34,
+        "red": 1218,
+        "blue": 0,
+        "warm": 554,
+        "pixels": 2326
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c08",
+      "png": "frames/playable_characters_natsu_r006_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        2206,
+        1087,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        53,
+        40,
+        111,
+        116
+      ],
+      "visible_pixels": 1879,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 25,
+        "red": 937,
+        "blue": 0,
+        "warm": 532,
+        "pixels": 1879
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c09",
+      "png": "frames/playable_characters_natsu_r006_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        2206,
+        1223,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        24,
+        37,
+        107,
+        110
+      ],
+      "visible_pixels": 2963,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 73,
+        "red": 1682,
+        "blue": 0,
+        "warm": 753,
+        "pixels": 2963
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c10",
+      "png": "frames/playable_characters_natsu_r006_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        2206,
+        1359,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        14,
+        35,
+        116,
+        115
+      ],
+      "visible_pixels": 2834,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 88,
+        "red": 1495,
+        "blue": 0,
+        "warm": 616,
+        "pixels": 2834
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c11",
+      "png": "frames/playable_characters_natsu_r006_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        2206,
+        1495,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        17,
+        118,
+        124
+      ],
+      "visible_pixels": 2835,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 73,
+        "red": 1614,
+        "blue": 0,
+        "warm": 697,
+        "pixels": 2835
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c12",
+      "png": "frames/playable_characters_natsu_r006_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1498,
+        2206,
+        1631,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 12,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        1,
+        22,
+        108,
+        132
+      ],
+      "visible_pixels": 2931,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 78,
+        "red": 1561,
+        "blue": 0,
+        "warm": 721,
+        "pixels": 2931
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c13",
+      "png": "frames/playable_characters_natsu_r006_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1634,
+        2206,
+        1767,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 13,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        42,
+        1,
+        115,
+        133
+      ],
+      "visible_pixels": 2733,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 65,
+        "red": 1442,
+        "blue": 0,
+        "warm": 659,
+        "pixels": 2733
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c14",
+      "png": "frames/playable_characters_natsu_r006_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1770,
+        2206,
+        1903,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 14,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        38,
+        55,
+        120,
+        134
+      ],
+      "visible_pixels": 2629,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 84,
+        "red": 1358,
+        "blue": 0,
+        "warm": 600,
+        "pixels": 2629
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c15",
+      "png": "frames/playable_characters_natsu_r006_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1906,
+        2206,
+        2039,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 15,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        15,
+        52,
+        119,
+        117
+      ],
+      "visible_pixels": 2448,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 57,
+        "red": 1301,
+        "blue": 0,
+        "warm": 636,
+        "pixels": 2448
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c16",
+      "png": "frames/playable_characters_natsu_r006_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2042,
+        2206,
+        2175,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 16,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        15,
+        34,
+        101,
+        124
+      ],
+      "visible_pixels": 2447,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 51,
+        "red": 1055,
+        "blue": 0,
+        "warm": 579,
+        "pixels": 2447
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r006_c17",
+      "png": "frames/playable_characters_natsu_r006_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        2206,
+        2311,
+        2345
+      ],
+      "grid_row": 6,
+      "grid_column": 17,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        14,
+        90,
+        126
+      ],
+      "visible_pixels": 2514,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 53,
+        "red": 1214,
+        "blue": 0,
+        "warm": 644,
+        "pixels": 2514
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c01",
+      "png": "frames/playable_characters_natsu_r007_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        2348,
+        135,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        24,
+        15,
+        112,
+        129
+      ],
+      "visible_pixels": 2481,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 138,
+        "red": 1416,
+        "blue": 0,
+        "warm": 516,
+        "pixels": 2481
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c02",
+      "png": "frames/playable_characters_natsu_r007_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        2348,
+        271,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        12,
+        14,
+        112,
+        120
+      ],
+      "visible_pixels": 2364,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 74,
+        "red": 1486,
+        "blue": 0,
+        "warm": 537,
+        "pixels": 2364
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c03",
+      "png": "frames/playable_characters_natsu_r007_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        2348,
+        407,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        19,
+        16,
+        111,
+        125
+      ],
+      "visible_pixels": 2461,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 58,
+        "red": 1319,
+        "blue": 0,
+        "warm": 608,
+        "pixels": 2461
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c04",
+      "png": "frames/playable_characters_natsu_r007_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        2348,
+        543,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        19,
+        19,
+        111,
+        138
+      ],
+      "visible_pixels": 2553,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 108,
+        "red": 1415,
+        "blue": 0,
+        "warm": 596,
+        "pixels": 2553
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c05",
+      "png": "frames/playable_characters_natsu_r007_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        2348,
+        679,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        17,
+        111,
+        131
+      ],
+      "visible_pixels": 2594,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 61,
+        "red": 1262,
+        "blue": 0,
+        "warm": 663,
+        "pixels": 2594
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c06",
+      "png": "frames/playable_characters_natsu_r007_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        2348,
+        815,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        29,
+        15,
+        113,
+        139
+      ],
+      "visible_pixels": 2410,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 82,
+        "red": 1293,
+        "blue": 0,
+        "warm": 513,
+        "pixels": 2410
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c07",
+      "png": "frames/playable_characters_natsu_r007_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        2348,
+        951,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        9,
+        57,
+        112,
+        129
+      ],
+      "visible_pixels": 2161,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 117,
+        "red": 980,
+        "blue": 0,
+        "warm": 490,
+        "pixels": 2161
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c08",
+      "png": "frames/playable_characters_natsu_r007_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        2348,
+        1087,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        35,
+        38,
+        105,
+        112
+      ],
+      "visible_pixels": 2300,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 128,
+        "red": 1209,
+        "blue": 0,
+        "warm": 739,
+        "pixels": 2300
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c09",
+      "png": "frames/playable_characters_natsu_r007_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        2348,
+        1223,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        33,
+        23,
+        84,
+        117
+      ],
+      "visible_pixels": 2290,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 129,
+        "red": 1102,
+        "blue": 0,
+        "warm": 543,
+        "pixels": 2290
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c10",
+      "png": "frames/playable_characters_natsu_r007_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        2348,
+        1359,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        45,
+        16,
+        101,
+        127
+      ],
+      "visible_pixels": 2621,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 16,
+        "red": 1643,
+        "blue": 0,
+        "warm": 728,
+        "pixels": 2621
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c11",
+      "png": "frames/playable_characters_natsu_r007_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        2348,
+        1495,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        20,
+        108,
+        129
+      ],
+      "visible_pixels": 2905,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 19,
+        "red": 1853,
+        "blue": 0,
+        "warm": 800,
+        "pixels": 2905
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c12",
+      "png": "frames/playable_characters_natsu_r007_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1498,
+        2348,
+        1631,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 12,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        36,
+        26,
+        113,
+        124
+      ],
+      "visible_pixels": 2727,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 15,
+        "red": 1835,
+        "blue": 0,
+        "warm": 851,
+        "pixels": 2727
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c13",
+      "png": "frames/playable_characters_natsu_r007_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1634,
+        2348,
+        1767,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 13,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        33,
+        18,
+        104,
+        117
+      ],
+      "visible_pixels": 2757,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 10,
+        "red": 1854,
+        "blue": 0,
+        "warm": 885,
+        "pixels": 2757
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c14",
+      "png": "frames/playable_characters_natsu_r007_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1770,
+        2348,
+        1903,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 14,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        16,
+        96,
+        104
+      ],
+      "visible_pixels": 2554,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 22,
+        "red": 1615,
+        "blue": 0,
+        "warm": 777,
+        "pixels": 2554
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c15",
+      "png": "frames/playable_characters_natsu_r007_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1906,
+        2348,
+        2039,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 15,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        5,
+        18,
+        90,
+        100
+      ],
+      "visible_pixels": 2704,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 24,
+        "red": 1622,
+        "blue": 0,
+        "warm": 735,
+        "pixels": 2704
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c16",
+      "png": "frames/playable_characters_natsu_r007_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2042,
+        2348,
+        2175,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 16,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        34,
+        29,
+        88,
+        127
+      ],
+      "visible_pixels": 2390,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 27,
+        "red": 1210,
+        "blue": 0,
+        "warm": 675,
+        "pixels": 2390
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r007_c17",
+      "png": "frames/playable_characters_natsu_r007_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        2348,
+        2311,
+        2487
+      ],
+      "grid_row": 7,
+      "grid_column": 17,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        38,
+        33,
+        107,
+        124
+      ],
+      "visible_pixels": 1743,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 883,
+        "blue": 0,
+        "warm": 511,
+        "pixels": 1743
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c01",
+      "png": "frames/playable_characters_natsu_r008_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        2490,
+        135,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        62,
+        113,
+        108
+      ],
+      "visible_pixels": 1824,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 24,
+        "red": 961,
+        "blue": 0,
+        "warm": 532,
+        "pixels": 1824
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c02",
+      "png": "frames/playable_characters_natsu_r008_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        2490,
+        271,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        47,
+        60,
+        103,
+        119
+      ],
+      "visible_pixels": 1713,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 31,
+        "red": 879,
+        "blue": 0,
+        "warm": 497,
+        "pixels": 1713
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c03",
+      "png": "frames/playable_characters_natsu_r008_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        2490,
+        407,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        35,
+        29,
+        89,
+        99
+      ],
+      "visible_pixels": 1925,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 32,
+        "red": 995,
+        "blue": 0,
+        "warm": 561,
+        "pixels": 1925
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c04",
+      "png": "frames/playable_characters_natsu_r008_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        2490,
+        543,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        43,
+        30,
+        85,
+        113
+      ],
+      "visible_pixels": 1836,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 28,
+        "red": 945,
+        "blue": 0,
+        "warm": 512,
+        "pixels": 1836
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c05",
+      "png": "frames/playable_characters_natsu_r008_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        2490,
+        679,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        47,
+        24,
+        83,
+        132
+      ],
+      "visible_pixels": 1763,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 27,
+        "red": 904,
+        "blue": 0,
+        "warm": 492,
+        "pixels": 1763
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c06",
+      "png": "frames/playable_characters_natsu_r008_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        2490,
+        815,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        21,
+        91,
+        126
+      ],
+      "visible_pixels": 2571,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 41,
+        "red": 1537,
+        "blue": 0,
+        "warm": 717,
+        "pixels": 2571
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c07",
+      "png": "frames/playable_characters_natsu_r008_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        2490,
+        951,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        24,
+        95,
+        125
+      ],
+      "visible_pixels": 2579,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 44,
+        "red": 1591,
+        "blue": 0,
+        "warm": 739,
+        "pixels": 2579
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c08",
+      "png": "frames/playable_characters_natsu_r008_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        2490,
+        1087,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        22,
+        28,
+        120,
+        124
+      ],
+      "visible_pixels": 2608,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 42,
+        "red": 1620,
+        "blue": 0,
+        "warm": 771,
+        "pixels": 2608
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c09",
+      "png": "frames/playable_characters_natsu_r008_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        2490,
+        1223,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        18,
+        33,
+        112,
+        122
+      ],
+      "visible_pixels": 2532,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 38,
+        "red": 1563,
+        "blue": 0,
+        "warm": 754,
+        "pixels": 2532
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c10",
+      "png": "frames/playable_characters_natsu_r008_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        2490,
+        1359,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        28,
+        27,
+        108,
+        123
+      ],
+      "visible_pixels": 2563,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 23,
+        "red": 1558,
+        "blue": 0,
+        "warm": 694,
+        "pixels": 2563
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c11",
+      "png": "frames/playable_characters_natsu_r008_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        2490,
+        1495,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        35,
+        48,
+        117,
+        123
+      ],
+      "visible_pixels": 2524,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 25,
+        "red": 1437,
+        "blue": 0,
+        "warm": 632,
+        "pixels": 2524
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c12",
+      "png": "frames/playable_characters_natsu_r008_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1498,
+        2490,
+        1631,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 12,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        57,
+        119,
+        120
+      ],
+      "visible_pixels": 2414,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 19,
+        "red": 1421,
+        "blue": 0,
+        "warm": 558,
+        "pixels": 2414
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c13",
+      "png": "frames/playable_characters_natsu_r008_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1634,
+        2490,
+        1767,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 13,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        51,
+        21,
+        108,
+        116
+      ],
+      "visible_pixels": 2350,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 1326,
+        "blue": 0,
+        "warm": 655,
+        "pixels": 2350
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c14",
+      "png": "frames/playable_characters_natsu_r008_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1770,
+        2490,
+        1903,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 14,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        51,
+        27,
+        106,
+        117
+      ],
+      "visible_pixels": 2471,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 1407,
+        "blue": 0,
+        "warm": 670,
+        "pixels": 2471
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c15",
+      "png": "frames/playable_characters_natsu_r008_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1906,
+        2490,
+        2039,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 15,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        52,
+        33,
+        101,
+        117
+      ],
+      "visible_pixels": 2291,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 23,
+        "red": 1345,
+        "blue": 0,
+        "warm": 600,
+        "pixels": 2291
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c16",
+      "png": "frames/playable_characters_natsu_r008_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2042,
+        2490,
+        2175,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 16,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        30,
+        23,
+        96,
+        136
+      ],
+      "visible_pixels": 2405,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 33,
+        "red": 1395,
+        "blue": 0,
+        "warm": 582,
+        "pixels": 2405
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r008_c17",
+      "png": "frames/playable_characters_natsu_r008_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        2490,
+        2311,
+        2629
+      ],
+      "grid_row": 8,
+      "grid_column": 17,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        22,
+        39,
+        100,
+        133
+      ],
+      "visible_pixels": 2434,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 36,
+        "red": 1337,
+        "blue": 0,
+        "warm": 559,
+        "pixels": 2434
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c01",
+      "png": "frames/playable_characters_natsu_r009_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        2632,
+        135,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        31,
+        36,
+        125,
+        120
+      ],
+      "visible_pixels": 2363,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 22,
+        "red": 1167,
+        "blue": 0,
+        "warm": 566,
+        "pixels": 2363
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c02",
+      "png": "frames/playable_characters_natsu_r009_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        2632,
+        271,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        17,
+        102,
+        116
+      ],
+      "visible_pixels": 2455,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 21,
+        "red": 1295,
+        "blue": 0,
+        "warm": 628,
+        "pixels": 2455
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c03",
+      "png": "frames/playable_characters_natsu_r009_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        2632,
+        407,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        37,
+        42,
+        86,
+        122
+      ],
+      "visible_pixels": 1722,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 23,
+        "red": 950,
+        "blue": 0,
+        "warm": 469,
+        "pixels": 1722
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c04",
+      "png": "frames/playable_characters_natsu_r009_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        2632,
+        543,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        50,
+        26,
+        102,
+        108
+      ],
+      "visible_pixels": 1770,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 21,
+        "red": 987,
+        "blue": 0,
+        "warm": 508,
+        "pixels": 1770
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c05",
+      "png": "frames/playable_characters_natsu_r009_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        2632,
+        679,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        33,
+        32,
+        90,
+        137
+      ],
+      "visible_pixels": 2103,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 25,
+        "red": 1186,
+        "blue": 0,
+        "warm": 502,
+        "pixels": 2103
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c06",
+      "png": "frames/playable_characters_natsu_r009_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        2632,
+        815,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        43,
+        25,
+        101,
+        105
+      ],
+      "visible_pixels": 1916,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 1124,
+        "blue": 0,
+        "warm": 525,
+        "pixels": 1916
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c07",
+      "png": "frames/playable_characters_natsu_r009_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        2632,
+        951,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        41,
+        113,
+        86
+      ],
+      "visible_pixels": 1862,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 23,
+        "red": 1042,
+        "blue": 0,
+        "warm": 485,
+        "pixels": 1862
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c08",
+      "png": "frames/playable_characters_natsu_r009_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        2632,
+        1087,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        25,
+        43,
+        85,
+        100
+      ],
+      "visible_pixels": 1696,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 22,
+        "red": 1006,
+        "blue": 0,
+        "warm": 550,
+        "pixels": 1696
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c09",
+      "png": "frames/playable_characters_natsu_r009_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        2632,
+        1223,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        47,
+        35,
+        104,
+        113
+      ],
+      "visible_pixels": 1871,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 24,
+        "red": 1089,
+        "blue": 0,
+        "warm": 523,
+        "pixels": 1871
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c10",
+      "png": "frames/playable_characters_natsu_r009_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        2632,
+        1359,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        34,
+        24,
+        105,
+        124
+      ],
+      "visible_pixels": 2643,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 31,
+        "red": 1713,
+        "blue": 0,
+        "warm": 854,
+        "pixels": 2643
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c11",
+      "png": "frames/playable_characters_natsu_r009_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        2632,
+        1495,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        8,
+        22,
+        132,
+        131
+      ],
+      "visible_pixels": 2869,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 84,
+        "red": 1582,
+        "blue": 0,
+        "warm": 740,
+        "pixels": 2869
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c12",
+      "png": "frames/playable_characters_natsu_r009_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1498,
+        2632,
+        1631,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 12,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        20,
+        22,
+        100,
+        132
+      ],
+      "visible_pixels": 2401,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 76,
+        "red": 1315,
+        "blue": 0,
+        "warm": 675,
+        "pixels": 2401
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c13",
+      "png": "frames/playable_characters_natsu_r009_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1634,
+        2632,
+        1767,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 13,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        20,
+        23,
+        101,
+        134
+      ],
+      "visible_pixels": 2443,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 76,
+        "red": 1313,
+        "blue": 0,
+        "warm": 558,
+        "pixels": 2443
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c14",
+      "png": "frames/playable_characters_natsu_r009_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1770,
+        2632,
+        1903,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 14,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        11,
+        20,
+        110,
+        134
+      ],
+      "visible_pixels": 2512,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 73,
+        "red": 1345,
+        "blue": 0,
+        "warm": 546,
+        "pixels": 2512
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c15",
+      "png": "frames/playable_characters_natsu_r009_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1906,
+        2632,
+        2039,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 15,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        21,
+        108,
+        134
+      ],
+      "visible_pixels": 2670,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 73,
+        "red": 1404,
+        "blue": 0,
+        "warm": 541,
+        "pixels": 2670
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c16",
+      "png": "frames/playable_characters_natsu_r009_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2042,
+        2632,
+        2175,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 16,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        29,
+        16,
+        107,
+        134
+      ],
+      "visible_pixels": 2668,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 102,
+        "red": 1354,
+        "blue": 0,
+        "warm": 527,
+        "pixels": 2668
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r009_c17",
+      "png": "frames/playable_characters_natsu_r009_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        2632,
+        2311,
+        2771
+      ],
+      "grid_row": 9,
+      "grid_column": 17,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        46,
+        8,
+        89,
+        134
+      ],
+      "visible_pixels": 2522,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 98,
+        "red": 1177,
+        "blue": 0,
+        "warm": 544,
+        "pixels": 2522
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c01",
+      "png": "frames/playable_characters_natsu_r010_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        2,
+        2774,
+        135,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 1,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        49,
+        7,
+        88,
+        134
+      ],
+      "visible_pixels": 2423,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 106,
+        "red": 1267,
+        "blue": 0,
+        "warm": 631,
+        "pixels": 2423
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c02",
+      "png": "frames/playable_characters_natsu_r010_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        138,
+        2774,
+        271,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 2,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        36,
+        12,
+        100,
+        134
+      ],
+      "visible_pixels": 2752,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 128,
+        "red": 1757,
+        "blue": 0,
+        "warm": 750,
+        "pixels": 2752
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c03",
+      "png": "frames/playable_characters_natsu_r010_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        274,
+        2774,
+        407,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 3,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        49,
+        7,
+        91,
+        134
+      ],
+      "visible_pixels": 2396,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 75,
+        "red": 1340,
+        "blue": 0,
+        "warm": 605,
+        "pixels": 2396
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c04",
+      "png": "frames/playable_characters_natsu_r010_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        410,
+        2774,
+        543,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 4,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        32,
+        15,
+        100,
+        135
+      ],
+      "visible_pixels": 2517,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 101,
+        "red": 1149,
+        "blue": 0,
+        "warm": 450,
+        "pixels": 2517
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c05",
+      "png": "frames/playable_characters_natsu_r010_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        546,
+        2774,
+        679,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 5,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        21,
+        21,
+        122,
+        135
+      ],
+      "visible_pixels": 2781,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 117,
+        "red": 1345,
+        "blue": 0,
+        "warm": 535,
+        "pixels": 2781
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c06",
+      "png": "frames/playable_characters_natsu_r010_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        682,
+        2774,
+        815,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 6,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        20,
+        113,
+        126
+      ],
+      "visible_pixels": 2726,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 114,
+        "red": 1289,
+        "blue": 0,
+        "warm": 449,
+        "pixels": 2726
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c07",
+      "png": "frames/playable_characters_natsu_r010_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        818,
+        2774,
+        951,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 7,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        37,
+        113,
+        120
+      ],
+      "visible_pixels": 2456,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 106,
+        "red": 1083,
+        "blue": 0,
+        "warm": 354,
+        "pixels": 2456
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c08",
+      "png": "frames/playable_characters_natsu_r010_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        954,
+        2774,
+        1087,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 8,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        29,
+        48,
+        110,
+        114
+      ],
+      "visible_pixels": 2130,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 104,
+        "red": 885,
+        "blue": 0,
+        "warm": 256,
+        "pixels": 2130
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c09",
+      "png": "frames/playable_characters_natsu_r010_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1090,
+        2774,
+        1223,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 9,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        31,
+        33,
+        100,
+        124
+      ],
+      "visible_pixels": 1743,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 26,
+        "red": 883,
+        "blue": 0,
+        "warm": 511,
+        "pixels": 1743
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c10",
+      "png": "frames/playable_characters_natsu_r010_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1226,
+        2774,
+        1359,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 10,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        27,
+        60,
+        114,
+        102
+      ],
+      "visible_pixels": 1827,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 29,
+        "red": 932,
+        "blue": 0,
+        "warm": 496,
+        "pixels": 1827
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "playable_characters_natsu_r010_c11",
+      "png": "frames/playable_characters_natsu_r010_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Natsu.png",
+      "crop_xyxy_inclusive": [
+        1362,
+        2774,
+        1495,
+        2913
+      ],
+      "grid_row": 10,
+      "grid_column": 11,
+      "canvas_size": [
+        134,
+        140
+      ],
+      "bbox_inside_canvas": [
+        25,
+        62,
+        103,
+        109
+      ],
+      "visible_pixels": 1894,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 28,
+        "red": 1001,
+        "blue": 0,
+        "warm": 561,
+        "pixels": 1894
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    }
+  ],
+  "animations": [
+    {
+      "id": "playable_characters_natsu_row001_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r001_c01.png",
+        "frames/playable_characters_natsu_r001_c02.png",
+        "frames/playable_characters_natsu_r001_c03.png",
+        "frames/playable_characters_natsu_r001_c04.png",
+        "frames/playable_characters_natsu_r001_c05.png",
+        "frames/playable_characters_natsu_r001_c06.png",
+        "frames/playable_characters_natsu_r001_c07.png",
+        "frames/playable_characters_natsu_r001_c08.png",
+        "frames/playable_characters_natsu_r001_c09.png",
+        "frames/playable_characters_natsu_r001_c10.png",
+        "frames/playable_characters_natsu_r001_c11.png",
+        "frames/playable_characters_natsu_r001_c12.png",
+        "frames/playable_characters_natsu_r001_c13.png",
+        "frames/playable_characters_natsu_r001_c14.png",
+        "frames/playable_characters_natsu_r001_c15.png",
+        "frames/playable_characters_natsu_r001_c16.png",
+        "frames/playable_characters_natsu_r001_c17.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_row": 1,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row002_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r002_c01.png",
+        "frames/playable_characters_natsu_r002_c02.png",
+        "frames/playable_characters_natsu_r002_c03.png",
+        "frames/playable_characters_natsu_r002_c04.png",
+        "frames/playable_characters_natsu_r002_c05.png",
+        "frames/playable_characters_natsu_r002_c06.png",
+        "frames/playable_characters_natsu_r002_c07.png",
+        "frames/playable_characters_natsu_r002_c08.png",
+        "frames/playable_characters_natsu_r002_c09.png",
+        "frames/playable_characters_natsu_r002_c10.png",
+        "frames/playable_characters_natsu_r002_c11.png",
+        "frames/playable_characters_natsu_r002_c12.png",
+        "frames/playable_characters_natsu_r002_c13.png",
+        "frames/playable_characters_natsu_r002_c14.png",
+        "frames/playable_characters_natsu_r002_c15.png",
+        "frames/playable_characters_natsu_r002_c16.png",
+        "frames/playable_characters_natsu_r002_c17.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_row": 2,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row003_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r003_c01.png",
+        "frames/playable_characters_natsu_r003_c02.png",
+        "frames/playable_characters_natsu_r003_c03.png",
+        "frames/playable_characters_natsu_r003_c04.png",
+        "frames/playable_characters_natsu_r003_c05.png",
+        "frames/playable_characters_natsu_r003_c06.png",
+        "frames/playable_characters_natsu_r003_c07.png",
+        "frames/playable_characters_natsu_r003_c08.png",
+        "frames/playable_characters_natsu_r003_c09.png",
+        "frames/playable_characters_natsu_r003_c10.png",
+        "frames/playable_characters_natsu_r003_c11.png",
+        "frames/playable_characters_natsu_r003_c12.png",
+        "frames/playable_characters_natsu_r003_c13.png",
+        "frames/playable_characters_natsu_r003_c14.png",
+        "frames/playable_characters_natsu_r003_c15.png",
+        "frames/playable_characters_natsu_r003_c16.png",
+        "frames/playable_characters_natsu_r003_c17.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_row": 3,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row004_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r004_c01.png",
+        "frames/playable_characters_natsu_r004_c02.png",
+        "frames/playable_characters_natsu_r004_c03.png",
+        "frames/playable_characters_natsu_r004_c04.png",
+        "frames/playable_characters_natsu_r004_c05.png",
+        "frames/playable_characters_natsu_r004_c06.png",
+        "frames/playable_characters_natsu_r004_c07.png",
+        "frames/playable_characters_natsu_r004_c08.png",
+        "frames/playable_characters_natsu_r004_c09.png",
+        "frames/playable_characters_natsu_r004_c10.png",
+        "frames/playable_characters_natsu_r004_c11.png",
+        "frames/playable_characters_natsu_r004_c12.png",
+        "frames/playable_characters_natsu_r004_c13.png",
+        "frames/playable_characters_natsu_r004_c14.png",
+        "frames/playable_characters_natsu_r004_c15.png",
+        "frames/playable_characters_natsu_r004_c16.png",
+        "frames/playable_characters_natsu_r004_c17.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_row": 4,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row005_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r005_c01.png",
+        "frames/playable_characters_natsu_r005_c02.png",
+        "frames/playable_characters_natsu_r005_c03.png",
+        "frames/playable_characters_natsu_r005_c04.png",
+        "frames/playable_characters_natsu_r005_c05.png",
+        "frames/playable_characters_natsu_r005_c06.png",
+        "frames/playable_characters_natsu_r005_c07.png",
+        "frames/playable_characters_natsu_r005_c08.png",
+        "frames/playable_characters_natsu_r005_c09.png",
+        "frames/playable_characters_natsu_r005_c10.png",
+        "frames/playable_characters_natsu_r005_c11.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source_row": 5,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row006_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r006_c01.png",
+        "frames/playable_characters_natsu_r006_c02.png",
+        "frames/playable_characters_natsu_r006_c03.png",
+        "frames/playable_characters_natsu_r006_c04.png",
+        "frames/playable_characters_natsu_r006_c05.png",
+        "frames/playable_characters_natsu_r006_c06.png",
+        "frames/playable_characters_natsu_r006_c07.png",
+        "frames/playable_characters_natsu_r006_c08.png",
+        "frames/playable_characters_natsu_r006_c09.png",
+        "frames/playable_characters_natsu_r006_c10.png",
+        "frames/playable_characters_natsu_r006_c11.png",
+        "frames/playable_characters_natsu_r006_c12.png",
+        "frames/playable_characters_natsu_r006_c13.png",
+        "frames/playable_characters_natsu_r006_c14.png",
+        "frames/playable_characters_natsu_r006_c15.png",
+        "frames/playable_characters_natsu_r006_c16.png",
+        "frames/playable_characters_natsu_r006_c17.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_row": 6,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row007_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r007_c01.png",
+        "frames/playable_characters_natsu_r007_c02.png",
+        "frames/playable_characters_natsu_r007_c03.png",
+        "frames/playable_characters_natsu_r007_c04.png",
+        "frames/playable_characters_natsu_r007_c05.png",
+        "frames/playable_characters_natsu_r007_c06.png",
+        "frames/playable_characters_natsu_r007_c07.png",
+        "frames/playable_characters_natsu_r007_c08.png",
+        "frames/playable_characters_natsu_r007_c09.png",
+        "frames/playable_characters_natsu_r007_c10.png",
+        "frames/playable_characters_natsu_r007_c11.png",
+        "frames/playable_characters_natsu_r007_c12.png",
+        "frames/playable_characters_natsu_r007_c13.png",
+        "frames/playable_characters_natsu_r007_c14.png",
+        "frames/playable_characters_natsu_r007_c15.png",
+        "frames/playable_characters_natsu_r007_c16.png",
+        "frames/playable_characters_natsu_r007_c17.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_row": 7,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row008_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r008_c01.png",
+        "frames/playable_characters_natsu_r008_c02.png",
+        "frames/playable_characters_natsu_r008_c03.png",
+        "frames/playable_characters_natsu_r008_c04.png",
+        "frames/playable_characters_natsu_r008_c05.png",
+        "frames/playable_characters_natsu_r008_c06.png",
+        "frames/playable_characters_natsu_r008_c07.png",
+        "frames/playable_characters_natsu_r008_c08.png",
+        "frames/playable_characters_natsu_r008_c09.png",
+        "frames/playable_characters_natsu_r008_c10.png",
+        "frames/playable_characters_natsu_r008_c11.png",
+        "frames/playable_characters_natsu_r008_c12.png",
+        "frames/playable_characters_natsu_r008_c13.png",
+        "frames/playable_characters_natsu_r008_c14.png",
+        "frames/playable_characters_natsu_r008_c15.png",
+        "frames/playable_characters_natsu_r008_c16.png",
+        "frames/playable_characters_natsu_r008_c17.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_row": 8,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row009_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r009_c01.png",
+        "frames/playable_characters_natsu_r009_c02.png",
+        "frames/playable_characters_natsu_r009_c03.png",
+        "frames/playable_characters_natsu_r009_c04.png",
+        "frames/playable_characters_natsu_r009_c05.png",
+        "frames/playable_characters_natsu_r009_c06.png",
+        "frames/playable_characters_natsu_r009_c07.png",
+        "frames/playable_characters_natsu_r009_c08.png",
+        "frames/playable_characters_natsu_r009_c09.png",
+        "frames/playable_characters_natsu_r009_c10.png",
+        "frames/playable_characters_natsu_r009_c11.png",
+        "frames/playable_characters_natsu_r009_c12.png",
+        "frames/playable_characters_natsu_r009_c13.png",
+        "frames/playable_characters_natsu_r009_c14.png",
+        "frames/playable_characters_natsu_r009_c15.png",
+        "frames/playable_characters_natsu_r009_c16.png",
+        "frames/playable_characters_natsu_r009_c17.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_row": 9,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "playable_characters_natsu_row010_take1",
+      "frames": [
+        "frames/playable_characters_natsu_r010_c01.png",
+        "frames/playable_characters_natsu_r010_c02.png",
+        "frames/playable_characters_natsu_r010_c03.png",
+        "frames/playable_characters_natsu_r010_c04.png",
+        "frames/playable_characters_natsu_r010_c05.png",
+        "frames/playable_characters_natsu_r010_c06.png",
+        "frames/playable_characters_natsu_r010_c07.png",
+        "frames/playable_characters_natsu_r010_c08.png",
+        "frames/playable_characters_natsu_r010_c09.png",
+        "frames/playable_characters_natsu_r010_c10.png",
+        "frames/playable_characters_natsu_r010_c11.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source_row": 10,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    }
+  ],
+  "default_animation": "static_idle_placeholder",
+  "import_notes": [
+    "Use nearest pixel filtering. Use common canvas and explicit pivot for final runtime sequences.",
+    "Animation order/duration not embedded in PNG; groups provisional and must be reviewed.",
+    "Shared-sheet character identification uses color scoring. Review medium/low-confidence assignments.",
+    "Original source PNG retained separately and unchanged."
+  ],
+  "default_still_pose_png": "frames/playable_characters_natsu_r001_c01.png",
+  "default_still_pose_selection": "first assembled-pose sequence, not first atlas cell; provisional static idle"
+}

@@ -1,0 +1,456 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+PASS package schema / KOS-MOS
+PACKAGE WARNINGS []
+PASS package schema / Chun-Li
+PACKAGE WARNINGS ["Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot"]
+PASS package schema / Ling Xiaoyu
+PACKAGE WARNINGS ["Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot", "Explicit unavailable slot"]
+PASS accept slot 0 side false
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 0 side false: 2
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 1 side false
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 1 side false: 3
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 2 side false
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 2 side false: 2
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 3 side false
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 3 side false: 3
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 4 side false
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 4 side false: 3
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 5 side false
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 5 side false: 5
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS meter move cannot refund itself
+PASS accept slot 6 side false
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 6 side false: 3
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS meter move cannot refund itself
+PASS accept slot 7 side false
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 7 side false: 9
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS meter move cannot refund itself
+PASS ultimate cleans cinematic owner
+PASS five distinct normals + two specials + ultimate
+PASS accept slot 0 side true
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 0 side true: 2
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 1 side true
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 1 side true: 3
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 2 side true
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 2 side true: 2
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 3 side true
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 3 side true: 3
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 4 side true
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 4 side true: 3
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS accept slot 5 side true
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 5 side true: 5
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS meter move cannot refund itself
+PASS accept slot 6 side true
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 6 side true: 3
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS meter move cannot refund itself
+PASS accept slot 7 side true
+PASS normal action independent of meter move
+PASS pose direction agrees with intended attack
+PASS all authored strikes connect slot 7 side true: 9
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS contact belongs to strike and hurt regions
+PASS one damage per event/target
+PASS meter move cannot refund itself
+PASS ultimate cleans cinematic owner
+PASS five distinct normals + two specials + ultimate
+PASS deterministic direction selector [false, false, false, false, 0]
+PASS deterministic direction selector [true, false, false, false, 1]
+PASS deterministic direction selector [false, true, false, false, 2]
+PASS deterministic direction selector [false, false, true, false, 3]
+PASS deterministic direction selector [false, false, false, true, 4]
+PASS deterministic direction selector [true, true, false, false, 2]
+PASS deterministic direction selector [true, false, true, true, 3]
+PASS deterministic direction selector [true, true, true, true, 0]
+PASS held/echo J never repeatedly spends
+PASS cancel slot 0 at 17
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 0 at 21
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 0 at 35
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 0 at 39
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 1 at 17
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 1 at 21
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 1 at 25
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 1 at 29
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 1 at 33
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 1 at 37
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 2 at 15
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 2 at 19
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 2 at 35
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 3 at 17
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 3 at 21
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 3 at 30
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 3 at 34
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 3 at 43
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 4 at 17
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 4 at 21
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 4 at 29
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 4 at 33
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 4 at 41
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 17
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 21
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 23
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 27
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 29
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 33
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 35
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 39
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 5 at 41
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 6 at 15
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 6 at 19
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 6 at 36
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 6 at 40
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel slot 6 at 49
+PASS cancel charges exactly once
+PASS repeated cancel rejected
+PASS no unexecuted strike/spawn after cancel
+PASS cancel motion/pose recovered
+PASS cancel transfers accepted buffer and spends next action
+PASS extra action limited to one per phase
+PASS both multi-hit assists survive main cancel
+PASS assist 1 side false delay -1 repeat 0
+PASS assist 1 side false delay -1 repeat 1
+PASS assist 1 side false delay 40 repeat 0
+PASS assist 1 side false delay 40 repeat 1
+PASS assist 1 side false delay 100 repeat 0
+PASS assist 1 side false delay 100 repeat 1
+PASS assist 2 side false delay -1 repeat 0
+PASS assist 2 side false delay -1 repeat 1
+PASS assist 2 side false delay 40 repeat 0
+PASS assist 2 side false delay 40 repeat 1
+PASS assist 2 side false delay 100 repeat 0
+PASS assist 2 side false delay 100 repeat 1
+PASS assist 1 side true delay -1 repeat 0
+PASS assist 1 side true delay -1 repeat 1
+PASS assist 1 side true delay 40 repeat 0
+PASS assist 1 side true delay 40 repeat 1
+PASS assist 1 side true delay 100 repeat 0
+PASS assist 1 side true delay 100 repeat 1
+PASS assist 2 side true delay -1 repeat 0
+PASS assist 2 side true delay -1 repeat 1
+PASS assist 2 side true delay 40 repeat 0
+PASS assist 2 side true delay 40 repeat 1
+PASS assist 2 side true delay 100 repeat 0
+PASS assist 2 side true delay 100 repeat 1
+PASS F4 slot 0 honest miss / no gain
+PASS miss has no fake impact/cinematic lock
+PASS F4 slot 1 honest miss / no gain
+PASS miss has no fake impact/cinematic lock
+PASS F4 slot 2 honest miss / no gain
+PASS miss has no fake impact/cinematic lock
+PASS F4 slot 3 honest miss / no gain
+PASS miss has no fake impact/cinematic lock
+PASS F4 slot 4 honest miss / no gain
+PASS miss has no fake impact/cinematic lock
+PASS F4 slot 5 honest miss / no gain
+PASS miss has no fake impact/cinematic lock
+PASS F4 slot 6 honest miss / no gain
+PASS miss has no fake impact/cinematic lock
+PASS F4 slot 7 honest miss / no gain
+PASS miss has no fake impact/cinematic lock
+PASS F4 assist no invisible damage
+PASS F4 assist no invisible damage
+PASS wall flag without wall contact never bounces
+PASS actual boundary causes rebound
+PASS one wall bounce per combo
+PASS Cross suspends target height while impacts continue
+PASS Cross releases without accumulated extreme impulse
+PASS real main/assist overlap triggers bounded Cross
+PASS ultimate waits for independent assist
+PASS ultimate activation
+PASS ultimate cannot double spend
+PASS ultimate locks combat inputs
+PASS ultimate restores time/camera/input ownership
+PASS lethal ultimate finishes cleanup before victory
+PASS reset owns all callbacks/effects at slot 0 tick 10
+PASS reset owns all callbacks/effects at slot 0 tick 24
+PASS reset owns all callbacks/effects at slot 0 tick 90
+PASS reset owns all callbacks/effects at slot 0 tick 140
+PASS reset owns all callbacks/effects at slot 1 tick 10
+PASS reset owns all callbacks/effects at slot 1 tick 24
+PASS reset owns all callbacks/effects at slot 1 tick 90
+PASS reset owns all callbacks/effects at slot 1 tick 140
+PASS reset owns all callbacks/effects at slot 7 tick 10
+PASS reset owns all callbacks/effects at slot 7 tick 24
+PASS reset owns all callbacks/effects at slot 7 tick 90
+PASS reset owns all callbacks/effects at slot 7 tick 140
+PASS reset clears Cross
+PASS CPU per-hit defense 0 none
+PASS CPU returns to player phase
+PASS CPU per-hit defense 0 hold
+PASS CPU returns to player phase
+PASS CPU per-hit defense 0 perfect
+PASS perfect block does not cover later strike
+PASS CPU returns to player phase
+PASS CPU per-hit defense 0 dodge
+PASS dodge does not protect whole sequence
+PASS CPU returns to player phase
+PASS CPU per-hit defense 0 early
+PASS CPU returns to player phase
+PASS CPU per-hit defense 1 none
+PASS CPU returns to player phase
+PASS CPU per-hit defense 1 hold
+PASS CPU returns to player phase
+PASS CPU per-hit defense 1 perfect
+PASS perfect block does not cover later strike
+PASS CPU returns to player phase
+PASS CPU per-hit defense 1 dodge
+PASS dodge does not protect whole sequence
+PASS CPU returns to player phase
+PASS CPU per-hit defense 1 early
+PASS CPU returns to player phase
+PASS defeat supported
+PASS role swap uses data / unfinished main rejects
+PASS KOS-MOS assist package works in swapped role
+PASS missing artwork cannot deadlock timeline
+PASS ultimate remains selectable with zero normal actions
+PASS unaffordable cancel leaves live timeline untouched
+PASS F5 late knee contacts but heel misses vertically
+PASS normal meter gain once per two contact events
+PASS phase override clears independent ownership
+MILESTONE ACCEPTANCE: 450 checks / 0 failures

@@ -1,0 +1,239 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+PASS repeat grounded kosmos_assist side=false 2/2
+PASS repeat grounded kosmos_assist side=false 2/2
+PASS repeat grounded kosmos_assist side=false 2/2
+PASS juggle opportunity kosmos_assist
+PASS late falling target escapes committed height kosmos_assist
+PASS exit cleanup kosmos_assist
+PASS assist reset kosmos_assist
+PASS repeat grounded kosmos_assist side=true 2/2
+PASS repeat grounded kosmos_assist side=true 2/2
+PASS repeat grounded kosmos_assist side=true 2/2
+PASS juggle opportunity kosmos_assist
+PASS late falling target escapes committed height kosmos_assist
+PASS exit cleanup kosmos_assist
+PASS assist reset kosmos_assist
+PASS repeat grounded chunli_assist side=false 3/3
+PASS repeat grounded chunli_assist side=false 3/3
+PASS repeat grounded chunli_assist side=false 3/3
+PASS juggle opportunity chunli_assist
+PASS late falling target escapes committed height chunli_assist
+PASS exit cleanup chunli_assist
+PASS assist reset chunli_assist
+PASS repeat grounded chunli_assist side=true 3/3
+PASS repeat grounded chunli_assist side=true 3/3
+PASS repeat grounded chunli_assist side=true 3/3
+PASS juggle opportunity chunli_assist
+PASS late falling target escapes committed height chunli_assist
+PASS exit cleanup chunli_assist
+PASS assist reset chunli_assist
+PASS repeat grounded xiaoyu_assist side=false 2/2
+PASS repeat grounded xiaoyu_assist side=false 2/2
+PASS repeat grounded xiaoyu_assist side=false 2/2
+PASS juggle opportunity xiaoyu_assist
+PASS late falling target escapes committed height xiaoyu_assist
+PASS exit cleanup xiaoyu_assist
+PASS assist reset xiaoyu_assist
+PASS repeat grounded xiaoyu_assist side=true 2/2
+PASS repeat grounded xiaoyu_assist side=true 2/2
+PASS repeat grounded xiaoyu_assist side=true 2/2
+PASS juggle opportunity xiaoyu_assist
+PASS late falling target escapes committed height xiaoyu_assist
+PASS exit cleanup xiaoyu_assist
+PASS assist reset xiaoyu_assist
+PASS repeat grounded reiji_assist side=false 2/2
+PASS repeat grounded reiji_assist side=false 2/2
+PASS repeat grounded reiji_assist side=false 2/2
+PASS juggle opportunity reiji_assist
+PASS late falling target escapes committed height reiji_assist
+PASS exit cleanup reiji_assist
+PASS assist reset reiji_assist
+PASS repeat grounded reiji_assist side=true 2/2
+PASS repeat grounded reiji_assist side=true 2/2
+PASS repeat grounded reiji_assist side=true 2/2
+PASS juggle opportunity reiji_assist
+PASS late falling target escapes committed height reiji_assist
+PASS exit cleanup reiji_assist
+PASS assist reset reiji_assist
+PASS repeat grounded xiaomu_assist side=false 2/2
+PASS repeat grounded xiaomu_assist side=false 2/2
+PASS repeat grounded xiaomu_assist side=false 2/2
+PASS juggle opportunity xiaomu_assist
+PASS late falling target escapes committed height xiaomu_assist
+PASS exit cleanup xiaomu_assist
+PASS assist reset xiaomu_assist
+PASS repeat grounded xiaomu_assist side=true 2/2
+PASS repeat grounded xiaomu_assist side=true 2/2
+PASS repeat grounded xiaomu_assist side=true 2/2
+PASS juggle opportunity xiaomu_assist
+PASS late falling target escapes committed height xiaomu_assist
+PASS exit cleanup xiaomu_assist
+PASS assist reset xiaomu_assist
+PASS repeat grounded morrigan_assist side=false 2/2
+PASS repeat grounded morrigan_assist side=false 2/2
+PASS repeat grounded morrigan_assist side=false 2/2
+PASS juggle opportunity morrigan_assist
+PASS late falling target escapes committed height morrigan_assist
+PASS exit cleanup morrigan_assist
+PASS assist reset morrigan_assist
+PASS repeat grounded morrigan_assist side=true 2/2
+PASS repeat grounded morrigan_assist side=true 2/2
+PASS repeat grounded morrigan_assist side=true 2/2
+PASS juggle opportunity morrigan_assist
+PASS late falling target escapes committed height morrigan_assist
+PASS exit cleanup morrigan_assist
+PASS assist reset morrigan_assist
+PASS repeat grounded t_elos_assist side=false 2/2
+PASS repeat grounded t_elos_assist side=false 2/2
+PASS repeat grounded t_elos_assist side=false 2/2
+PASS juggle opportunity t_elos_assist
+PASS late ground-cover hits remain bounded and real t_elos_assist
+OBSERVED late cover t_elos_assist: 2
+PASS exit cleanup t_elos_assist
+PASS assist reset t_elos_assist
+PASS repeat grounded t_elos_assist side=true 2/2
+PASS repeat grounded t_elos_assist side=true 2/2
+PASS repeat grounded t_elos_assist side=true 2/2
+PASS juggle opportunity t_elos_assist
+PASS late ground-cover hits remain bounded and real t_elos_assist
+OBSERVED late cover t_elos_assist: 2
+PASS exit cleanup t_elos_assist
+PASS assist reset t_elos_assist
+PASS repeat grounded ryu_assist side=false 2/2
+PASS repeat grounded ryu_assist side=false 2/2
+PASS repeat grounded ryu_assist side=false 2/2
+PASS juggle opportunity ryu_assist
+PASS late ground-cover hits remain bounded and real ryu_assist
+OBSERVED late cover ryu_assist: 2
+PASS exit cleanup ryu_assist
+PASS assist reset ryu_assist
+PASS repeat grounded ryu_assist side=true 2/2
+PASS repeat grounded ryu_assist side=true 2/2
+PASS repeat grounded ryu_assist side=true 2/2
+PASS juggle opportunity ryu_assist
+PASS late ground-cover hits remain bounded and real ryu_assist
+OBSERVED late cover ryu_assist: 2
+PASS exit cleanup ryu_assist
+PASS assist reset ryu_assist
+PASS repeat grounded ken_assist side=false 2/2
+PASS repeat grounded ken_assist side=false 2/2
+PASS repeat grounded ken_assist side=false 2/2
+PASS juggle opportunity ken_assist
+PASS late falling target escapes committed height ken_assist
+PASS exit cleanup ken_assist
+PASS assist reset ken_assist
+PASS repeat grounded ken_assist side=true 2/2
+PASS repeat grounded ken_assist side=true 2/2
+PASS repeat grounded ken_assist side=true 2/2
+PASS juggle opportunity ken_assist
+PASS late falling target escapes committed height ken_assist
+PASS exit cleanup ken_assist
+PASS assist reset ken_assist
+PASS repeat grounded sheath_assist side=false 2/2
+PASS repeat grounded sheath_assist side=false 2/2
+PASS repeat grounded sheath_assist side=false 2/2
+PASS juggle opportunity sheath_assist
+PASS late ground-cover hits remain bounded and real sheath_assist
+OBSERVED late cover sheath_assist: 2
+PASS exit cleanup sheath_assist
+PASS assist reset sheath_assist
+PASS repeat grounded sheath_assist side=true 2/2
+PASS repeat grounded sheath_assist side=true 2/2
+PASS repeat grounded sheath_assist side=true 2/2
+PASS juggle opportunity sheath_assist
+PASS late ground-cover hits remain bounded and real sheath_assist
+OBSERVED late cover sheath_assist: 2
+PASS exit cleanup sheath_assist
+PASS assist reset sheath_assist
+PASS repeat grounded saya_assist side=false 2/2
+PASS repeat grounded saya_assist side=false 2/2
+PASS repeat grounded saya_assist side=false 2/2
+PASS juggle opportunity saya_assist
+PASS late ground-cover hits remain bounded and real saya_assist
+OBSERVED late cover saya_assist: 2
+PASS exit cleanup saya_assist
+PASS assist reset saya_assist
+PASS repeat grounded saya_assist side=true 2/2
+PASS repeat grounded saya_assist side=true 2/2
+PASS repeat grounded saya_assist side=true 2/2
+PASS juggle opportunity saya_assist
+PASS late ground-cover hits remain bounded and real saya_assist
+OBSERVED late cover saya_assist: 2
+PASS exit cleanup saya_assist
+PASS assist reset saya_assist
+PASS repeat grounded dante_assist side=false 2/2
+PASS repeat grounded dante_assist side=false 2/2
+PASS repeat grounded dante_assist side=false 2/2
+PASS juggle opportunity dante_assist
+PASS late ground-cover hits remain bounded and real dante_assist
+OBSERVED late cover dante_assist: 2
+PASS exit cleanup dante_assist
+PASS assist reset dante_assist
+PASS repeat grounded dante_assist side=true 2/2
+PASS repeat grounded dante_assist side=true 2/2
+PASS repeat grounded dante_assist side=true 2/2
+PASS juggle opportunity dante_assist
+PASS late ground-cover hits remain bounded and real dante_assist
+OBSERVED late cover dante_assist: 2
+PASS exit cleanup dante_assist
+PASS assist reset dante_assist
+PASS repeat grounded vergil_assist side=false 2/2
+PASS repeat grounded vergil_assist side=false 2/2
+PASS repeat grounded vergil_assist side=false 2/2
+PASS juggle opportunity vergil_assist
+PASS late falling target escapes committed height vergil_assist
+PASS exit cleanup vergil_assist
+PASS assist reset vergil_assist
+PASS repeat grounded vergil_assist side=true 2/2
+PASS repeat grounded vergil_assist side=true 2/2
+PASS repeat grounded vergil_assist side=true 2/2
+PASS juggle opportunity vergil_assist
+PASS late falling target escapes committed height vergil_assist
+PASS exit cleanup vergil_assist
+PASS assist reset vergil_assist
+PASS repeat grounded captain_commando_assist side=false 2/2
+PASS repeat grounded captain_commando_assist side=false 2/2
+PASS repeat grounded captain_commando_assist side=false 2/2
+PASS juggle opportunity captain_commando_assist
+PASS late falling target escapes committed height captain_commando_assist
+PASS exit cleanup captain_commando_assist
+PASS assist reset captain_commando_assist
+PASS repeat grounded captain_commando_assist side=true 2/2
+PASS repeat grounded captain_commando_assist side=true 2/2
+PASS repeat grounded captain_commando_assist side=true 2/2
+PASS juggle opportunity captain_commando_assist
+PASS late falling target escapes committed height captain_commando_assist
+PASS exit cleanup captain_commando_assist
+PASS assist reset captain_commando_assist
+PASS repeat grounded natsu_assist side=false 2/2
+PASS repeat grounded natsu_assist side=false 2/2
+PASS repeat grounded natsu_assist side=false 2/2
+PASS juggle opportunity natsu_assist
+PASS late ground-cover hits remain bounded and real natsu_assist
+OBSERVED late cover natsu_assist: 1
+PASS exit cleanup natsu_assist
+PASS assist reset natsu_assist
+PASS repeat grounded natsu_assist side=true 2/2
+PASS repeat grounded natsu_assist side=true 2/2
+PASS repeat grounded natsu_assist side=true 2/2
+PASS juggle opportunity natsu_assist
+PASS late ground-cover hits remain bounded and real natsu_assist
+OBSERVED late cover natsu_assist: 1
+PASS exit cleanup natsu_assist
+PASS assist reset natsu_assist
+PASS repeat grounded juri_han_assist side=false 2/2
+PASS repeat grounded juri_han_assist side=false 2/2
+PASS repeat grounded juri_han_assist side=false 2/2
+PASS juggle opportunity juri_han_assist
+PASS late falling target escapes committed height juri_han_assist
+PASS exit cleanup juri_han_assist
+PASS assist reset juri_han_assist
+PASS repeat grounded juri_han_assist side=true 2/2
+PASS repeat grounded juri_han_assist side=true 2/2
+PASS repeat grounded juri_han_assist side=true 2/2
+PASS juggle opportunity juri_han_assist
+PASS late falling target escapes committed height juri_han_assist
+PASS exit cleanup juri_han_assist
+PASS assist reset juri_han_assist
+ASSIST ROSTER: 224 checks / 0 failures

@@ -1,0 +1,33 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+PASS diagonal vertical priority
+PASS opposing directions neutral
+PASS neutral complete two-hit sequence
+PASS bounded buffered directional selection
+PASS queue never overwritten
+PASS normal chain consumes exactly two actions
+PASS cancel at 8
+PASS single cost and bounded bonus
+PASS duplicate cancel rejected
+PASS no ghost damage or frozen action 4
+PASS cancel at 17
+PASS single cost and bounded bonus
+PASS duplicate cancel rejected
+PASS no ghost damage or frozen action 6
+PASS cancel at 22
+PASS single cost and bounded bonus
+PASS duplicate cancel rejected
+PASS no ghost damage or frozen action 8
+PASS cancel at 35
+PASS single cost and bounded bonus
+PASS duplicate cancel rejected
+PASS no ghost damage or frozen action 10
+PASS cancel at 40
+PASS single cost and bounded bonus
+PASS duplicate cancel rejected
+PASS no ghost damage or frozen action 12
+PASS arrow visibly released before cancel
+PASS released arrow persists; future arrows cancelled
+PASS assist independent through main cancel
+PASS reset clears cancel timeline and slowdown
+FOUNDATION: 30 checks / 0 failures

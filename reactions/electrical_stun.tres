@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ReactionProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/ReactionProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+profile_id = "electrical_stun"
+recoil = 4
+recoil_ticks = 10
+tilt = 0.04
+squash = 0.025
+electrical_ticks = 18

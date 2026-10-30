@@ -1,0 +1,97 @@
+character,move,role,category,duration_ticks,hit_count,cost,status
+kosmos,Twin Ether / neutral opener,main,normal,78,2,0,prototype
+chunli,Rapid Kicks / prototype,assist,assist,58,3,0,prototype
+xiaoyu,Phoenix Relay / knee to rising heel,assist,assist,62,2,0,prototype
+kosmos,Ether Relay / assist,assist,assist,78,2,0,prototype
+kosmos,Ether Volley / sustain,main,normal,70,3,0,prototype
+placeholder_cpu,Telegraphed twin jab,cpu,normal,126,2,0,prototype
+placeholder_cpu,Delayed hammer,cpu,normal,126,2,0,prototype
+kosmos,Rising Circuit / launcher,main,normal,78,2,0,prototype
+kosmos,Vector Drive / wall carry,main,normal,76,3,0,prototype
+kosmos,Gravity Heel / knockdown,main,normal,78,3,0,prototype
+kosmos,Focused Ether / concentrated volley,main,special,74,5,90,prototype
+kosmos,Vector Lift / rescue chain,main,special,84,3,120,prototype
+kosmos,Heavy Particle Cascade / prototype,main,ultimate,420,9,300,prototype
+chunli,Blue Rhythm / prototype,main,normal,74,2,0,prototype
+chunli,Silk Leg Cadence / prototype,main,normal,70,4,0,prototype
+chunli,Turning Heel / prototype,main,normal,74,2,0,prototype
+xiaoyu,Twin Palm Flow / prototype,main,normal,77,2,0,prototype
+xiaoyu,Turning Circle / prototype,main,normal,82,3,0,prototype
+xiaoyu,Low Wing Sweep / prototype,main,normal,95,2,0,prototype
+chunli,Sky Step / prototype,main,normal,84,2,0,prototype
+chunli,Driving Split / prototype,main,normal,78,3,0,prototype
+chunli,Hundred-Petal Burst / prototype,main,special,90,7,90,prototype
+chunli,Rising Lotus / prototype,main,special,96,3,120,prototype
+chunli,Azure Spiral Finale / prototype,main,ultimate,252,8,300,prototype
+xiaoyu,Phoenix Rise / prototype,main,normal,69,2,0,prototype
+xiaoyu,Wheel Turn / prototype,main,normal,111,3,0,prototype
+xiaoyu,Double-Palm Echo / prototype,main,special,94,3,90,prototype
+xiaoyu,Phoenix Rescue / prototype,main,special,110,3,120,prototype
+xiaoyu,Phoenix Orbit / prototype,main,ultimate,286,6,300,prototype
+reiji,Twin Steel Draw / prototype,main,normal,80,2,0,prototype
+reiji,Cross-Draw Support / prototype,assist,normal,61,2,0,prototype
+xiaomu,Fox Step / prototype,main,normal,78,2,0,prototype
+xiaomu,Foxfire Cover / prototype,assist,normal,77,2,0,prototype
+morrigan,Velvet Turn / prototype,main,normal,84,2,0,prototype
+morrigan,Night Wing / prototype,assist,normal,86,2,0,prototype
+reiji,Covering Steel / prototype,main,normal,77,2,0,prototype
+reiji,Rising Draw / prototype,main,normal,80,2,0,prototype
+reiji,Severing Arc / prototype,main,normal,89,2,0,prototype
+reiji,Steel Pursuit / prototype,main,normal,78,2,0,prototype
+reiji,Gunmetal Salvo / prototype,main,special,89,4,90,prototype
+reiji,Guard-Break Ascent / prototype,main,special,86,3,120,prototype
+reiji,Crimson Arsenal / prototype,main,ultimate,279,6,300,prototype
+xiaomu,Foxfire Fan / prototype,main,normal,76,2,0,prototype
+xiaomu,Fox Tail Rise / prototype,main,normal,87,2,0,prototype
+xiaomu,Crescent Landing / prototype,main,normal,89,2,0,prototype
+xiaomu,Fox Chase / prototype,main,normal,79,2,0,prototype
+xiaomu,Golden Fan Volley / prototype,main,special,96,4,90,prototype
+xiaomu,Foxfire Lift / prototype,main,special,89,2,120,prototype
+xiaomu,Golden Fox Procession / prototype,main,ultimate,271,7,300,prototype
+morrigan,Night Orb / prototype,main,normal,64,2,0,prototype
+morrigan,Rising Wing Blade / prototype,main,normal,96,2,0,prototype
+morrigan,Velvet Descent / prototype,main,normal,93,2,0,prototype
+morrigan,Batwing Drive / prototype,main,normal,95,3,0,prototype
+morrigan,Violet Soul Volley / prototype,main,special,84,3,90,prototype
+morrigan,Nightwing Rescue / prototype,main,special,97,2,120,prototype
+morrigan,Nightfall Masquerade / prototype,main,ultimate,304,6,300,prototype
+t_elos,Circuit Cleave / prototype,main,normal,72,2,0,prototype
+t_elos,Arm Emitter Volley / prototype,main,normal,72,2,0,prototype
+t_elos,Descending Circuit / prototype,main,normal,72,2,0,prototype
+t_elos,Arm Emitter Volley Support / prototype,assist,normal,72,2,0,prototype
+ryu,Iron Rhythm / prototype,main,normal,72,2,0,prototype
+ryu,Palm Wave Cadence / prototype,main,normal,64,2,0,prototype
+ryu,Driving Heel / prototype,main,normal,64,2,0,prototype
+ryu,Palm Wave Cadence Support / prototype,assist,normal,64,2,0,prototype
+ken,Scarlet Rush / prototype,main,normal,72,2,0,prototype
+ken,Flame Step Rhythm / prototype,main,normal,72,2,0,prototype
+ken,Falling Axe / prototype,main,normal,64,2,0,prototype
+ken,Flame Step Rhythm Support / prototype,assist,normal,72,2,0,prototype
+sheath,Clockwork Edge / prototype,main,normal,72,2,0,prototype
+sheath,Clockside Volley / prototype,main,normal,64,2,0,prototype
+sheath,Twin Edge Verdict / prototype,main,normal,72,2,0,prototype
+sheath,Clockside Volley Support / prototype,assist,normal,64,2,0,prototype
+saya,Fox Blade Pursuit / prototype,main,normal,72,2,0,prototype
+saya,Crimson Cover / prototype,main,normal,64,2,0,prototype
+saya,Low Blade Reversal / prototype,main,normal,64,2,0,prototype
+saya,Crimson Cover Support / prototype,assist,normal,64,2,0,prototype
+dante,Redline Thrust / prototype,main,normal,72,2,0,prototype
+dante,Armament Cover / prototype,main,normal,72,2,0,prototype
+dante,Rebellion Fall / prototype,main,normal,72,2,0,prototype
+dante,Armament Cover Support / prototype,assist,normal,72,2,0,prototype
+vergil,Blue Draw / prototype,main,normal,64,2,0,prototype
+vergil,Measured Steel / prototype,main,normal,72,2,0,prototype
+vergil,Yamato Descent / prototype,main,normal,72,2,0,prototype
+vergil,Measured Steel Support / prototype,assist,normal,72,2,0,prototype
+captain_commando,Captain Combination / prototype,main,normal,72,2,0,prototype
+captain_commando,Powered Fist Cadence / prototype,main,normal,72,2,0,prototype
+captain_commando,Ground Breaker / prototype,main,normal,56,2,0,prototype
+captain_commando,Powered Fist Cadence Support / prototype,assist,normal,72,2,0,prototype
+natsu,Scarlet Blade Run / prototype,main,normal,64,2,0,prototype
+natsu,Crossed Steel / prototype,main,normal,56,2,0,prototype
+natsu,Blade Drop / prototype,main,normal,64,2,0,prototype
+natsu,Crossed Steel Support / prototype,assist,normal,56,2,0,prototype
+juri_han,Violet Hook / prototype,main,normal,72,2,0,prototype
+juri_han,Turning Fang / prototype,main,normal,72,2,0,prototype
+juri_han,Falling Scythe / prototype,main,normal,72,2,0,prototype
+juri_han,Turning Fang Support / prototype,assist,normal,72,2,0,prototype

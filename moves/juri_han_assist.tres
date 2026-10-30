@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "juri_han_assist"
+display_name = "Turning Fang Support / prototype"
+character = "juri_han"
+role = "assist"
+category = "normal"
+purpose = "left"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r003_c01.png", "ticks": 16, "anchor": [64, 120], "native_facing": 1, "offset": [0, 0], "source_rectangle": [2, 1286, 128, 1411], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r003_c03.png", "ticks": 8, "anchor": [64, 120], "native_facing": 1, "offset": [0, 0], "source_rectangle": [260, 1286, 386, 1411], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r003_c05.png", "ticks": 8, "anchor": [64, 120], "native_facing": 1, "offset": [0, 0], "source_rectangle": [518, 1286, 644, 1411], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r003_c07.png", "ticks": 8, "anchor": [64, 120], "native_facing": 1, "offset": [0, 0], "source_rectangle": [776, 1286, 902, 1411], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r003_c08.png", "ticks": 8, "anchor": [64, 120], "native_facing": 1, "offset": [0, 0], "source_rectangle": [905, 1286, 1031, 1411], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r003_c10.png", "ticks": 8, "anchor": [64, 120], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1163, 1286, 1289, 1411], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r003_c14.png", "ticks": 16, "anchor": [64, 120], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1679, 1286, 1805, 1411], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 72
+hit_events = Array[Dictionary]([{"id": "juri_han_left_0", "tick": 34, "end_tick": 36, "kind": "melee", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/light.tres", "region": [46.9, -127.8, 32, 38]}, {"id": "juri_han_left_1", "tick": 42, "end_tick": 44, "kind": "melee", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/light.tres", "region": [62.2, -85.3, 32, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "assist"}])
+chain_open = 58
+chain_close = 71
+cancel_open = 12
+cancel_close = 57
+staging = {"distance": 89, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 58, "exit_end": 72, "max_correction": 650, "alignment_limit": 20, "height_ratio": 0.8, "max_elevation": 130}

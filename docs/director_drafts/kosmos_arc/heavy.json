@@ -1,0 +1,303 @@
+{
+  "sequence_id": "kosmos_arc",
+  "display_name": "Twin Ether / neutral opener",
+  "character": "kosmos",
+  "role": "main",
+  "duration_ticks": 78,
+  "poses": [
+    {
+      "path": "res://assets/characters/kos_mos/frames/attack_1_00.png",
+      "ticks": 22,
+      "source_rectangle": [
+        2,
+        2986,
+        198,
+        3137
+      ],
+      "canvas_offset": [
+        30,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_frame": 0,
+      "anchor": [
+        144,
+        160
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation",
+      "source_sheet": "assets/characters/kos_mos/source/KOS-MOS_Fiora_original_2500x11188.png"
+    },
+    {
+      "path": "res://assets/characters/kos_mos/frames/attack_1_05.png",
+      "ticks": 6,
+      "source_rectangle": [
+        997,
+        2986,
+        1193,
+        3137
+      ],
+      "canvas_offset": [
+        30,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_frame": 5,
+      "anchor": [
+        155,
+        173
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation",
+      "source_sheet": "assets/characters/kos_mos/source/KOS-MOS_Fiora_original_2500x11188.png"
+    },
+    {
+      "path": "res://assets/characters/kos_mos/frames/attack_1_06.png",
+      "ticks": 7,
+      "source_rectangle": [
+        1196,
+        2986,
+        1392,
+        3137
+      ],
+      "canvas_offset": [
+        30,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_frame": 6,
+      "anchor": [
+        155,
+        173
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation",
+      "source_sheet": "assets/characters/kos_mos/source/KOS-MOS_Fiora_original_2500x11188.png"
+    },
+    {
+      "path": "res://assets/characters/kos_mos/frames/attack_1_00.png",
+      "ticks": 5,
+      "source_rectangle": [
+        2,
+        2986,
+        198,
+        3137
+      ],
+      "canvas_offset": [
+        30,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_frame": 0,
+      "anchor": [
+        144,
+        160
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation",
+      "source_sheet": "assets/characters/kos_mos/source/KOS-MOS_Fiora_original_2500x11188.png"
+    },
+    {
+      "path": "res://assets/characters/kos_mos/frames/attack_1_05.png",
+      "ticks": 6,
+      "source_rectangle": [
+        997,
+        2986,
+        1193,
+        3137
+      ],
+      "canvas_offset": [
+        30,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_frame": 5,
+      "anchor": [
+        155,
+        173
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation",
+      "source_sheet": "assets/characters/kos_mos/source/KOS-MOS_Fiora_original_2500x11188.png"
+    },
+    {
+      "path": "res://assets/characters/kos_mos/frames/attack_1_06.png",
+      "ticks": 12,
+      "source_rectangle": [
+        1196,
+        2986,
+        1392,
+        3137
+      ],
+      "canvas_offset": [
+        30,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_frame": 6,
+      "anchor": [
+        155,
+        173
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation",
+      "source_sheet": "assets/characters/kos_mos/source/KOS-MOS_Fiora_original_2500x11188.png"
+    },
+    {
+      "path": "res://assets/characters/kos_mos/frames/attack_1_00.png",
+      "ticks": 20,
+      "source_rectangle": [
+        2,
+        2986,
+        198,
+        3137
+      ],
+      "canvas_offset": [
+        30,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_frame": 0,
+      "anchor": [
+        144,
+        160
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "mapping_status": "Provisional choreography; direction audited from striking limb/weapon, not torso orientation",
+      "source_sheet": "assets/characters/kos_mos/source/KOS-MOS_Fiora_original_2500x11188.png"
+    }
+  ],
+  "hit_events": [
+    {
+      "tick": 22,
+      "damage": 12,
+      "hitstun": 46,
+      "hitstop": 5,
+      "launch": 0,
+      "knockback": 8,
+      "xp": 12,
+      "effect": "slash",
+      "sound": "hit",
+      "camera": 2,
+      "end_tick": 25,
+      "id": "kosmos_arc_1",
+      "region": [
+        65,
+        -158,
+        65,
+        38
+      ],
+      "reaction": "ground",
+      "impact_profile": "res://impacts/light.tres",
+      "reaction_profile": "res://reactions/light_stagger.tres"
+    },
+    {
+      "tick": 40,
+      "damage": 15,
+      "hitstun": 46,
+      "hitstop": 5,
+      "launch": 280,
+      "knockback": 8,
+      "xp": 12,
+      "effect": "slash",
+      "sound": "hit",
+      "camera": 2,
+      "end_tick": 43,
+      "id": "kosmos_arc_2",
+      "region": [
+        65,
+        -158,
+        65,
+        38
+      ],
+      "reaction": "launch",
+      "impact_profile": "res://impacts/launcher.tres",
+      "reaction_profile": "res://reactions/vertical_launch.tres"
+    }
+  ],
+  "movement": [],
+  "cues": [
+    {
+      "tick": 15,
+      "effect": "trail"
+    },
+    {
+      "tick": 1,
+      "sound_event": "attack"
+    }
+  ],
+  "chain_open": 47,
+  "chain_close": 78,
+  "resource_cost": 0,
+  "resource_gain": 0,
+  "reach": 350.0,
+  "staging": {
+    "distance": 122,
+    "entry_offset": 150,
+    "approach_start": 8,
+    "approach_end": 18,
+    "commit_tick": 14,
+    "exit_start": 52,
+    "exit_end": 78,
+    "max_correction": 850,
+    "alignment_limit": 20,
+    "height_ratio": 0,
+    "max_elevation": 140
+  },
+  "cancel_open": 8,
+  "cancel_close": 44,
+  "purpose": "Balanced grounded double thrust; second hit gives a low continuation lift.",
+  "category": "normal",
+  "_director": {
+    "variant": "heavy",
+    "approval": "needs_visual_review",
+    "source_sequence_id": "kosmos_arc",
+    "note": "Generated timing study only. Existing pose order, hits, damage and contact geometry retained. Staging/cancel windows need engine review.",
+    "old_pose_ticks": [
+      18,
+      6,
+      7,
+      5,
+      6,
+      13,
+      23
+    ],
+    "new_pose_ticks": [
+      22,
+      6,
+      7,
+      5,
+      6,
+      12,
+      20
+    ]
+  }
+}

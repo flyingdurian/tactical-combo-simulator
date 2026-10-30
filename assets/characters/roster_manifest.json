@@ -1,0 +1,4164 @@
+{
+  "status": "Provisional authored order and timing, inspected assembled poses; original PNGs preserved.",
+  "frames": {
+    "chunli/1685.0": {
+      "path": "res://assets/characters/chunli/frames/1685_0.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        1685,
+        120,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.1": {
+      "path": "res://assets/characters/chunli/frames/1685_1.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        122,
+        1685,
+        240,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.2": {
+      "path": "res://assets/characters/chunli/frames/1685_2.png",
+      "ticks": 30,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        242,
+        1685,
+        360,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.3": {
+      "path": "res://assets/characters/chunli/frames/1685_3.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        362,
+        1685,
+        480,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.4": {
+      "path": "res://assets/characters/chunli/frames/1685_4.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        482,
+        1685,
+        600,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.8": {
+      "path": "res://assets/characters/chunli/frames/1685_8.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        962,
+        1685,
+        1080,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.9": {
+      "path": "res://assets/characters/chunli/frames/1685_9.png",
+      "ticks": 35,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1082,
+        1685,
+        1200,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.5": {
+      "path": "res://assets/characters/chunli/frames/1685_5.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        602,
+        1685,
+        720,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.6": {
+      "path": "res://assets/characters/chunli/frames/1685_6.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        722,
+        1685,
+        840,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.7": {
+      "path": "res://assets/characters/chunli/frames/1685_7.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        842,
+        1685,
+        960,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.10": {
+      "path": "res://assets/characters/chunli/frames/1685_10.png",
+      "ticks": 15,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1202,
+        1685,
+        1320,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.11": {
+      "path": "res://assets/characters/chunli/frames/1685_11.png",
+      "ticks": 7,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1322,
+        1685,
+        1440,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.12": {
+      "path": "res://assets/characters/chunli/frames/1685_12.png",
+      "ticks": 6,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1442,
+        1685,
+        1560,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.13": {
+      "path": "res://assets/characters/chunli/frames/1685_13.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1562,
+        1685,
+        1680,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.14": {
+      "path": "res://assets/characters/chunli/frames/1685_14.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1682,
+        1685,
+        1800,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1685.15": {
+      "path": "res://assets/characters/chunli/frames/1685_15.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1802,
+        1685,
+        1920,
+        1803
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1925.7": {
+      "path": "res://assets/characters/xiaoyu/frames/1925_7.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        842,
+        1925,
+        960,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1925.0": {
+      "path": "res://assets/characters/xiaoyu/frames/1925_0.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        1925,
+        120,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1925.1": {
+      "path": "res://assets/characters/xiaoyu/frames/1925_1.png",
+      "ticks": 6,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        122,
+        1925,
+        240,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1925.2": {
+      "path": "res://assets/characters/xiaoyu/frames/1925_2.png",
+      "ticks": 7,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        242,
+        1925,
+        360,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1925.3": {
+      "path": "res://assets/characters/xiaoyu/frames/1925_3.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        362,
+        1925,
+        480,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1925.6": {
+      "path": "res://assets/characters/xiaoyu/frames/1925_6.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        722,
+        1925,
+        840,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.8": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_8.png",
+      "ticks": 28,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        962,
+        1445,
+        1080,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.9": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_9.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1082,
+        1445,
+        1200,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.10": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_10.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1202,
+        1445,
+        1320,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.11": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_11.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1322,
+        1445,
+        1440,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.12": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_12.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1442,
+        1445,
+        1560,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.13": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_13.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1562,
+        1445,
+        1680,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.14": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_14.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1682,
+        1445,
+        1800,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.15": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_15.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1802,
+        1445,
+        1920,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1805.0": {
+      "path": "res://assets/characters/xiaoyu/frames/1805_0.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        1805,
+        120,
+        1923
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1805.1": {
+      "path": "res://assets/characters/xiaoyu/frames/1805_1.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        122,
+        1805,
+        240,
+        1923
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1805.2": {
+      "path": "res://assets/characters/xiaoyu/frames/1805_2.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        242,
+        1805,
+        360,
+        1923
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1805.6": {
+      "path": "res://assets/characters/xiaoyu/frames/1805_6.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        722,
+        1805,
+        840,
+        1923
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1805.7": {
+      "path": "res://assets/characters/xiaoyu/frames/1805_7.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        842,
+        1805,
+        960,
+        1923
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1805.8": {
+      "path": "res://assets/characters/xiaoyu/frames/1805_8.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        962,
+        1805,
+        1080,
+        1923
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1805.9": {
+      "path": "res://assets/characters/xiaoyu/frames/1805_9.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1082,
+        1805,
+        1200,
+        1923
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1805.10": {
+      "path": "res://assets/characters/xiaoyu/frames/1805_10.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1202,
+        1805,
+        1320,
+        1923
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.7": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_7.png",
+      "ticks": 36,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        842,
+        1445,
+        960,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1925.8": {
+      "path": "res://assets/characters/chunli/frames/1925_8.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        962,
+        1925,
+        1080,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1925.9": {
+      "path": "res://assets/characters/chunli/frames/1925_9.png",
+      "ticks": 5,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1082,
+        1925,
+        1200,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1925.10": {
+      "path": "res://assets/characters/chunli/frames/1925_10.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1202,
+        1925,
+        1320,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1925.11": {
+      "path": "res://assets/characters/chunli/frames/1925_11.png",
+      "ticks": 15,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1322,
+        1925,
+        1440,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1925.12": {
+      "path": "res://assets/characters/chunli/frames/1925_12.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1442,
+        1925,
+        1560,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1925.13": {
+      "path": "res://assets/characters/chunli/frames/1925_13.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1562,
+        1925,
+        1680,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/2045.0": {
+      "path": "res://assets/characters/chunli/frames/2045_0.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        2045,
+        120,
+        2163
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/2045.1": {
+      "path": "res://assets/characters/chunli/frames/2045_1.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        122,
+        2045,
+        240,
+        2163
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/2045.2": {
+      "path": "res://assets/characters/chunli/frames/2045_2.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        242,
+        2045,
+        360,
+        2163
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1565.12": {
+      "path": "res://assets/characters/chunli/frames/1565_12.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1442,
+        1565,
+        1560,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1565.13": {
+      "path": "res://assets/characters/chunli/frames/1565_13.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1562,
+        1565,
+        1680,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1565.14": {
+      "path": "res://assets/characters/chunli/frames/1565_14.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1682,
+        1565,
+        1800,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "chunli/1565.15": {
+      "path": "res://assets/characters/chunli/frames/1565_15.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1802,
+        1565,
+        1920,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.2": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_2.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        242,
+        1445,
+        360,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.3": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_3.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        362,
+        1445,
+        480,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.4": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_4.png",
+      "ticks": 7,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        482,
+        1445,
+        600,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.5": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_5.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        602,
+        1445,
+        720,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1445.6": {
+      "path": "res://assets/characters/xiaoyu/frames/1445_6.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        722,
+        1445,
+        840,
+        1563
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.0": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_0.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        1565,
+        120,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.1": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_1.png",
+      "ticks": 7,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        122,
+        1565,
+        240,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.2": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_2.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        242,
+        1565,
+        360,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.3": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_3.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        362,
+        1565,
+        480,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.4": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_4.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        482,
+        1565,
+        600,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.5": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_5.png",
+      "ticks": 12,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        602,
+        1565,
+        720,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.6": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_6.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        722,
+        1565,
+        840,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.7": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_7.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        842,
+        1565,
+        960,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.8": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_8.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        962,
+        1565,
+        1080,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.9": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_9.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1082,
+        1565,
+        1200,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.10": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_10.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1202,
+        1565,
+        1320,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1565.11": {
+      "path": "res://assets/characters/xiaoyu/frames/1565_11.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1322,
+        1565,
+        1440,
+        1683
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1925.4": {
+      "path": "res://assets/characters/xiaoyu/frames/1925_4.png",
+      "ticks": 6,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        482,
+        1925,
+        600,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaoyu/1925.5": {
+      "path": "res://assets/characters/xiaoyu/frames/1925_5.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        602,
+        1925,
+        720,
+        2043
+      ],
+      "canvas_offset": [
+        69,
+        66
+      ],
+      "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.4.5": {
+      "path": "res://assets/characters/reiji/frames/d_4_5.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1077,
+        3163,
+        1290,
+        3323
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.4.8": {
+      "path": "res://assets/characters/reiji/frames/d_4_8.png",
+      "ticks": 25,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1722,
+        3163,
+        1935,
+        3323
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.5.2": {
+      "path": "res://assets/characters/reiji/frames/d_5_2.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        432,
+        3325,
+        645,
+        3485
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.5.5": {
+      "path": "res://assets/characters/reiji/frames/d_5_5.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1077,
+        3325,
+        1290,
+        3485
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.6.6": {
+      "path": "res://assets/characters/reiji/frames/d_6_6.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1292,
+        3487,
+        1505,
+        3647
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.6.8": {
+      "path": "res://assets/characters/reiji/frames/d_6_8.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1722,
+        3487,
+        1935,
+        3647
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.9.3": {
+      "path": "res://assets/characters/reiji/frames/d_9_3.png",
+      "ticks": 60,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        647,
+        3973,
+        860,
+        4133
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.1.0": {
+      "path": "res://assets/characters/xiaomu/frames/d_1_0.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        2677,
+        215,
+        2837
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.1.1": {
+      "path": "res://assets/characters/xiaomu/frames/d_1_1.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        217,
+        2677,
+        430,
+        2837
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.1.2": {
+      "path": "res://assets/characters/xiaomu/frames/d_1_2.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        432,
+        2677,
+        645,
+        2837
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.1.3": {
+      "path": "res://assets/characters/xiaomu/frames/d_1_3.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        647,
+        2677,
+        860,
+        2837
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.2.4": {
+      "path": "res://assets/characters/xiaomu/frames/d_2_4.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        862,
+        2839,
+        1075,
+        2999
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.3.1": {
+      "path": "res://assets/characters/xiaomu/frames/d_3_1.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        217,
+        3001,
+        430,
+        3161
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.3.6": {
+      "path": "res://assets/characters/xiaomu/frames/d_3_6.png",
+      "ticks": 60,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1292,
+        3001,
+        1505,
+        3161
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.0.1": {
+      "path": "res://assets/characters/xiaomu/frames/g_0_1.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        164,
+        4135,
+        324,
+        4290
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.0.7": {
+      "path": "res://assets/characters/xiaomu/frames/g_0_7.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1136,
+        4135,
+        1296,
+        4290
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.0.8": {
+      "path": "res://assets/characters/xiaomu/frames/g_0_8.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1298,
+        4135,
+        1458,
+        4290
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          75.05882352941177,
+          68.05882352941177
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.0.9": {
+      "path": "res://assets/characters/xiaomu/frames/g_0_9.png",
+      "ticks": 15,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1460,
+        4135,
+        1620,
+        4290
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          75.05882352941177,
+          68.05882352941177
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.0.10": {
+      "path": "res://assets/characters/xiaomu/frames/g_0_10.png",
+      "ticks": 17,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1622,
+        4135,
+        1782,
+        4290
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          75.05882352941177,
+          68.05882352941177
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.0.11": {
+      "path": "res://assets/characters/xiaomu/frames/g_0_11.png",
+      "ticks": 25,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1784,
+        4135,
+        1944,
+        4290
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          75.05882352941177,
+          68.05882352941177
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.0.5": {
+      "path": "res://assets/characters/xiaomu/frames/g_0_5.png",
+      "ticks": 42,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        812,
+        4135,
+        972,
+        4290
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.0": {
+      "path": "res://assets/characters/morrigan/frames/k_0_0.png",
+      "ticks": 7,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        112,
+        116,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.1": {
+      "path": "res://assets/characters/morrigan/frames/k_0_1.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        118,
+        112,
+        232,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {
+        "muzzle": [
+          102.70588235294117,
+          106.58823529411765
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.2": {
+      "path": "res://assets/characters/morrigan/frames/k_0_2.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        234,
+        112,
+        348,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.3": {
+      "path": "res://assets/characters/morrigan/frames/k_0_3.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": 1,
+      "attack_direction": 1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        350,
+        112,
+        464,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.4": {
+      "path": "res://assets/characters/morrigan/frames/k_0_4.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        466,
+        112,
+        580,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.5": {
+      "path": "res://assets/characters/morrigan/frames/k_0_5.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        582,
+        112,
+        696,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.9": {
+      "path": "res://assets/characters/morrigan/frames/k_0_9.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1046,
+        112,
+        1160,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.10": {
+      "path": "res://assets/characters/morrigan/frames/k_0_10.png",
+      "ticks": 40,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1162,
+        112,
+        1276,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.2": {
+      "path": "res://assets/characters/morrigan/frames/b_0_2.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        171,
+        537,
+        255,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.3": {
+      "path": "res://assets/characters/morrigan/frames/b_0_3.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        256,
+        537,
+        340,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.4": {
+      "path": "res://assets/characters/morrigan/frames/b_0_4.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        341,
+        537,
+        425,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.5": {
+      "path": "res://assets/characters/morrigan/frames/b_0_5.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        426,
+        537,
+        510,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.6": {
+      "path": "res://assets/characters/morrigan/frames/b_0_6.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        511,
+        537,
+        595,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.7": {
+      "path": "res://assets/characters/morrigan/frames/b_0_7.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        596,
+        537,
+        680,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.8": {
+      "path": "res://assets/characters/morrigan/frames/b_0_8.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        681,
+        537,
+        765,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.10": {
+      "path": "res://assets/characters/morrigan/frames/b_0_10.png",
+      "ticks": 24,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        851,
+        537,
+        935,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/i.0.0": {
+      "path": "res://assets/characters/morrigan/frames/i_0_0.png",
+      "ticks": 60,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1,
+        1,
+        60,
+        109
+      ],
+      "canvas_offset": [
+        98,
+        68
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.7.0": {
+      "path": "res://assets/characters/reiji/frames/d_7_0.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        3649,
+        215,
+        3809
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          68.0,
+          105.64705882352942
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.7.1": {
+      "path": "res://assets/characters/reiji/frames/d_7_1.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        217,
+        3649,
+        430,
+        3809
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          68.0,
+          105.64705882352942
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.7.2": {
+      "path": "res://assets/characters/reiji/frames/d_7_2.png",
+      "ticks": 14,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        432,
+        3649,
+        645,
+        3809
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.5.0": {
+      "path": "res://assets/characters/reiji/frames/d_5_0.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        3325,
+        215,
+        3485
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.5.6": {
+      "path": "res://assets/characters/reiji/frames/d_5_6.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1292,
+        3325,
+        1505,
+        3485
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.6.0": {
+      "path": "res://assets/characters/reiji/frames/d_6_0.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        3487,
+        215,
+        3647
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.6.3": {
+      "path": "res://assets/characters/reiji/frames/d_6_3.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        647,
+        3487,
+        860,
+        3647
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.9.0": {
+      "path": "res://assets/characters/reiji/frames/d_9_0.png",
+      "ticks": 22,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        3973,
+        215,
+        4133
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.7.7": {
+      "path": "res://assets/characters/reiji/frames/d_7_7.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1507,
+        3649,
+        1720,
+        3809
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.7.8": {
+      "path": "res://assets/characters/reiji/frames/d_7_8.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1722,
+        3649,
+        1935,
+        3809
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.7.9": {
+      "path": "res://assets/characters/reiji/frames/d_7_9.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1937,
+        3649,
+        2150,
+        3809
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.8.0": {
+      "path": "res://assets/characters/reiji/frames/d_8_0.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        3811,
+        215,
+        3971
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.8.1": {
+      "path": "res://assets/characters/reiji/frames/d_8_1.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        217,
+        3811,
+        430,
+        3971
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.8.2": {
+      "path": "res://assets/characters/reiji/frames/d_8_2.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        432,
+        3811,
+        645,
+        3971
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "reiji/d.9.1": {
+      "path": "res://assets/characters/reiji/frames/d_9_1.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        158
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        217,
+        3973,
+        430,
+        4133
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.2.5": {
+      "path": "res://assets/characters/xiaomu/frames/d_2_5.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1077,
+        2839,
+        1290,
+        2999
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.2.7": {
+      "path": "res://assets/characters/xiaomu/frames/d_2_7.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1507,
+        2839,
+        1720,
+        2999
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.3.0": {
+      "path": "res://assets/characters/xiaomu/frames/d_3_0.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        3001,
+        215,
+        3161
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.2.6": {
+      "path": "res://assets/characters/xiaomu/frames/d_2_6.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1292,
+        2839,
+        1505,
+        2999
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.3.2": {
+      "path": "res://assets/characters/xiaomu/frames/d_3_2.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        432,
+        3001,
+        645,
+        3161
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.3.3": {
+      "path": "res://assets/characters/xiaomu/frames/d_3_3.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        647,
+        3001,
+        860,
+        3161
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.3.4": {
+      "path": "res://assets/characters/xiaomu/frames/d_3_4.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        862,
+        3001,
+        1075,
+        3161
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.1.0": {
+      "path": "res://assets/characters/xiaomu/frames/g_1_0.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        4294,
+        162,
+        4449
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.1.1": {
+      "path": "res://assets/characters/xiaomu/frames/g_1_1.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        164,
+        4294,
+        324,
+        4449
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          93.88235294117646,
+          101.0
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.1.2": {
+      "path": "res://assets/characters/xiaomu/frames/g_1_2.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        326,
+        4294,
+        486,
+        4449
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.1.3": {
+      "path": "res://assets/characters/xiaomu/frames/g_1_3.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        488,
+        4294,
+        648,
+        4449
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.1.4": {
+      "path": "res://assets/characters/xiaomu/frames/g_1_4.png",
+      "ticks": 17,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        650,
+        4294,
+        810,
+        4449
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          75.05882352941177,
+          68.05882352941177
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.1.5": {
+      "path": "res://assets/characters/xiaomu/frames/g_1_5.png",
+      "ticks": 19,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        812,
+        4294,
+        972,
+        4449
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          75.05882352941177,
+          68.05882352941177
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.1.11": {
+      "path": "res://assets/characters/xiaomu/frames/g_1_11.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1784,
+        4294,
+        1944,
+        4449
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.2.0": {
+      "path": "res://assets/characters/xiaomu/frames/g_2_0.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        4451,
+        162,
+        4606
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/g.2.1": {
+      "path": "res://assets/characters/xiaomu/frames/g_2_1.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        161
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        164,
+        4451,
+        324,
+        4606
+      ],
+      "canvas_offset": [
+        47,
+        15
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {
+        "muzzle": [
+          75.05882352941177,
+          68.05882352941177
+        ]
+      },
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.0.0": {
+      "path": "res://assets/characters/xiaomu/frames/d_0_0.png",
+      "ticks": 28,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        2515,
+        215,
+        2675
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.0.2": {
+      "path": "res://assets/characters/xiaomu/frames/d_0_2.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        432,
+        2515,
+        645,
+        2675
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "xiaomu/d.0.3": {
+      "path": "res://assets/characters/xiaomu/frames/d_0_3.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        166
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        647,
+        2515,
+        860,
+        2675
+      ],
+      "canvas_offset": [
+        20,
+        16
+      ],
+      "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/b.0.9": {
+      "path": "res://assets/characters/morrigan/frames/b_0_9.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        766,
+        537,
+        850,
+        678
+      ],
+      "canvas_offset": [
+        86,
+        35
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.1.6": {
+      "path": "res://assets/characters/morrigan/frames/k_1_6.png",
+      "ticks": 20,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        698,
+        252,
+        812,
+        391
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.1.7": {
+      "path": "res://assets/characters/morrigan/frames/k_1_7.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        814,
+        252,
+        928,
+        391
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.1.8": {
+      "path": "res://assets/characters/morrigan/frames/k_1_8.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        930,
+        252,
+        1044,
+        391
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.1.9": {
+      "path": "res://assets/characters/morrigan/frames/k_1_9.png",
+      "ticks": 16,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1046,
+        252,
+        1160,
+        391
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.1.10": {
+      "path": "res://assets/characters/morrigan/frames/k_1_10.png",
+      "ticks": 18,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1162,
+        252,
+        1276,
+        391
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.1.11": {
+      "path": "res://assets/characters/morrigan/frames/k_1_11.png",
+      "ticks": 10,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1278,
+        252,
+        1392,
+        391
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.6": {
+      "path": "res://assets/characters/morrigan/frames/k_0_6.png",
+      "ticks": 8,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        698,
+        112,
+        812,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    },
+    "morrigan/k.0.7": {
+      "path": "res://assets/characters/morrigan/frames/k_0_7.png",
+      "ticks": 9,
+      "anchor": [
+        128,
+        176
+      ],
+      "native_facing": -1,
+      "attack_direction": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        814,
+        112,
+        928,
+        251
+      ],
+      "canvas_offset": [
+        70,
+        36
+      ],
+      "source_sheet": "assets/characters/roster_source/Morrigan_original.png",
+      "anchors": {},
+      "mapping_status": "Provisional authored order; inspected assembled character pose."
+    }
+  }
+}

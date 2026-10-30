@@ -1,0 +1,11 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+PASS uninterrupted beam / side false
+PASS mirrored muzzle anchor
+PASS nine pulses / exact damage
+PASS release cleanup
+PASS uninterrupted beam / side true
+PASS mirrored muzzle anchor
+PASS nine pulses / exact damage
+PASS release cleanup
+CONTINUOUS BEAM: 8 checks / 0 failures

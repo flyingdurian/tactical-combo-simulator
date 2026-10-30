@@ -1,0 +1,518 @@
+{
+  "disclaimer": "PXZ2 move list sourced. Franchise signatures and Battle Simulator concepts are guidance, not verified PXZ2 sprite frame matches.",
+  "characters": {
+    "T-elos": {
+      "original_role_in_PXZ2": "enemy_boss_in_PXZ2",
+      "origin": "Xenosaga",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Attack",
+          "type": "normal",
+          "listed_effect": "Down",
+          "source": "https://projectxzone.fandom.com/wiki/T-elos"
+        },
+        {
+          "name": "T-Skylla",
+          "type": "special",
+          "listed_effect": "Stun",
+          "source": "https://projectxzone.fandom.com/wiki/T-elos"
+        },
+        {
+          "name": "U-Teneritas",
+          "type": "multi_attack",
+          "listed_effect": "None",
+          "source": "https://projectxzone.fandom.com/wiki/T-elos"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "T-Skylla",
+        "U-Teneritas",
+        "Ice Crest",
+        "Strom Waltz"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "mechanical rush / short launcher",
+        "arm weapon burst",
+        "T-Skylla charged finisher",
+        "U-Teneritas wide-area cinematic"
+      ],
+      "source_urls": [
+        "https://projectxzone.fandom.com/wiki/T-elos"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Ryu": {
+      "original_role_in_PXZ2": "paired_with_Ken_in_PXZ2",
+      "origin": "Street Fighter",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Collarbone Breaker & Inazuma Kick",
+          "type": "normal",
+          "listed_effect": "Stun",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Shoryuken & Tatsumaki Senpu Kyaku",
+          "type": "normal",
+          "listed_effect": "Block Crush",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Jodan Sokuto Geri & Ryusen Kyaku",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Shinku Tatsumaki Senpu Kyaku & Fwd. Step Kick",
+          "type": "normal",
+          "listed_effect": "Down",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Metsu Shoryuken & Shoryu Reppa",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Metsu Hadoken & Guren Senpu Kyaku",
+          "type": "special",
+          "listed_effect": "Stun",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Double Hadoken",
+          "type": "multi_attack",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Hadoken",
+        "Shoryuken",
+        "Tatsumaki Senpukyaku",
+        "Metsu Hadoken",
+        "Metsu Shoryuken"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "grounded hadoken zoning",
+        "close jab/low to tatsumaki",
+        "Shoryuken anti-air launcher",
+        "Metsu Hadoken cinematic"
+      ],
+      "source_urls": [
+        "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Ken": {
+      "original_role_in_PXZ2": "paired_with_Ryu_in_PXZ2",
+      "origin": "Street Fighter",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Collarbone Breaker & Inazuma Kick",
+          "type": "normal",
+          "listed_effect": "Stun",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Shoryuken & Tatsumaki Senpu Kyaku",
+          "type": "normal",
+          "listed_effect": "Block Crush",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Jodan Sokuto Geri & Ryusen Kyaku",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Shinku Tatsumaki Senpu Kyaku & Fwd. Step Kick",
+          "type": "normal",
+          "listed_effect": "Down",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Metsu Shoryuken & Shoryu Reppa",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Metsu Hadoken & Guren Senpu Kyaku",
+          "type": "special",
+          "listed_effect": "Stun",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Double Hadoken",
+          "type": "multi_attack",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Shoryuken",
+        "Tatsumaki Senpukyaku",
+        "Shoryu Reppa",
+        "Guren Senpu Kyaku",
+        "Inazuma Kick"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "rushdown kick chain",
+        "step-in uppercut",
+        "Shoryu Reppa juggle finisher",
+        "Guren Senpu Kyaku cinematic"
+      ],
+      "source_urls": [
+        "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Sheath": {
+      "original_role_in_PXZ2": "enemy_boss_in_PXZ2",
+      "origin": "Project X Zone 2 original character",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Attack",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://projectxzone.fandom.com/wiki/Sheath"
+        },
+        {
+          "name": "Multi-Attack (2 targets)",
+          "type": "multi_attack",
+          "listed_effect": "Poison",
+          "source": "https://projectxzone.fandom.com/wiki/Sheath"
+        },
+        {
+          "name": "Late For The Wonder",
+          "type": "special",
+          "listed_effect": "None",
+          "source": "https://projectxzone.fandom.com/wiki/Sheath"
+        },
+        {
+          "name": "Verdict Splash",
+          "type": "multi_attack",
+          "listed_effect": "Stun",
+          "source": "https://projectxzone.fandom.com/wiki/Sheath"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Flame Blade",
+        "Flood Gun",
+        "Draft Knife",
+        "Earth Clock",
+        "playing card traps",
+        "self-duplicates"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "Flame Blade / Draft Knife mixup",
+        "Flood Gun midrange volley",
+        "Earth Clock beam and clone feint",
+        "Late For The Wonder cinematic"
+      ],
+      "source_urls": [
+        "https://projectxzone.fandom.com/wiki/Sheath"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Saya": {
+      "original_role_in_PXZ2": "enemy_boss_in_PXZ2",
+      "origin": "Namco x Capcom",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Attack",
+          "type": "normal",
+          "listed_effect": "Poison",
+          "source": "https://projectxzone.fandom.com/wiki/Saya"
+        },
+        {
+          "name": "Shunka Shuto",
+          "type": "special",
+          "listed_effect": "Poison",
+          "source": "https://projectxzone.fandom.com/wiki/Saya"
+        },
+        {
+          "name": "Hyakki Yako",
+          "type": "multi_attack",
+          "listed_effect": "Poison",
+          "source": "https://projectxzone.fandom.com/wiki/Saya"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Shunka Shuto",
+        "Hyakki Yako",
+        "Werefox charms",
+        "sword and firearm techniques"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "blade+gun chain",
+        "low evasive slash",
+        "Shunka Shuto poison-finisher",
+        "Hyakki Yako area cinematic"
+      ],
+      "source_urls": [
+        "https://projectxzone.fandom.com/wiki/Saya"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Dante": {
+      "original_role_in_PXZ2": "paired_with_Vergil_in_PXZ2",
+      "origin": "Devil May Cry",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Rainstorm & Stinger",
+          "type": "normal",
+          "listed_effect": "Stun",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Fireworks & Rapid Slash",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Round Trip",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Kalina Ann & High Time",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Helm Breaker & Summoned Swords",
+          "type": "normal",
+          "listed_effect": "Poison",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Double Jackpot",
+          "type": "special",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Devil Must Die",
+          "type": "multi_attack",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Distortion & Dimension Slash",
+          "type": "support",
+          "listed_effect": "Poison",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Ebony & Ivory",
+        "Rainstorm",
+        "Stinger",
+        "Fireworks",
+        "Round Trip",
+        "High Time",
+        "Helm Breaker",
+        "Devil Trigger"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "Ebony & Ivory aerial gun juggle",
+        "Stinger to High Time",
+        "Round Trip and fireworks sequence",
+        "Devil Trigger / Double Jackpot cinematic"
+      ],
+      "source_urls": [
+        "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Vergil": {
+      "original_role_in_PXZ2": "paired_with_Dante_in_PXZ2",
+      "origin": "Devil May Cry",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Rainstorm & Stinger",
+          "type": "normal",
+          "listed_effect": "Stun",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Fireworks & Rapid Slash",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Round Trip",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Kalina Ann & High Time",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Helm Breaker & Summoned Swords",
+          "type": "normal",
+          "listed_effect": "Poison",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Double Jackpot",
+          "type": "special",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Devil Must Die",
+          "type": "multi_attack",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        },
+        {
+          "name": "Distortion & Dimension Slash",
+          "type": "support",
+          "listed_effect": "Poison",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Yamato",
+        "Rapid Slash",
+        "Summoned Swords",
+        "Helm Breaker",
+        "Judgement Cut",
+        "Dimension Slash",
+        "Devil Trigger"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "Yamato quick-draw chain",
+        "Rapid Slash cross-through",
+        "Summoned Swords juggle",
+        "Dimension Slash cinematic"
+      ],
+      "source_urls": [
+        "https://strategywiki.org/wiki/Project_X_Zone_2/Pair_Units"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Captain Commando": {
+      "original_role_in_PXZ2": "solo_support_in_PXZ2",
+      "origin": "Captain Commando",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Captain Storm",
+          "type": "solo_attack",
+          "listed_effect": "None",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Solo_Units"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Captain Storm",
+        "Captain Corridor",
+        "Captain Fire",
+        "Captain Sword",
+        "Captain Kick"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "electric boxing chain",
+        "Captain Corridor lightning uppercut",
+        "Captain Fire area burst",
+        "Captain Storm team cinematic"
+      ],
+      "source_urls": [
+        "https://strategywiki.org/wiki/Project_X_Zone_2/Solo_Units"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Natsu": {
+      "original_role_in_PXZ2": "solo_support_in_PXZ2",
+      "origin": "Soulcalibur V",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Great Curse of Arahabaki",
+          "type": "solo_attack",
+          "listed_effect": "Stun",
+          "source": "https://strategywiki.org/wiki/Project_X_Zone_2/Solo_Units"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Great Curse of Arahabaki",
+        "Weasel Run",
+        "Possession Rush",
+        "Muso Sword Slash",
+        "Poison Dart"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "kunai/short blade strike series",
+        "Weasel Run evasive dash",
+        "Possession Rush launcher",
+        "Great Curse of Arahabaki special"
+      ],
+      "source_urls": [
+        "https://strategywiki.org/wiki/Project_X_Zone_2/Solo_Units"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    },
+    "Juri Han": {
+      "original_role_in_PXZ2": "enemy_boss_in_PXZ2",
+      "origin": "Street Fighter",
+      "canonical_pxz2_moves": [
+        {
+          "name": "Attack",
+          "type": "normal",
+          "listed_effect": "None",
+          "source": "https://projectxzone.fandom.com/wiki/Juri_Han"
+        },
+        {
+          "name": "Kaisen Dankairaku",
+          "type": "special",
+          "listed_effect": "Bind",
+          "source": "https://projectxzone.fandom.com/wiki/Juri_Han"
+        },
+        {
+          "name": "Senpusha",
+          "type": "multi_attack",
+          "listed_effect": "None",
+          "source": "https://projectxzone.fandom.com/wiki/Juri_Han"
+        }
+      ],
+      "franchise_signature_reference_moves": [
+        "Senpusha",
+        "Fuhajin",
+        "Feng Shui Engine",
+        "Kaisen Dankairaku"
+      ],
+      "proposed_Battle_Simulator_adaptations_NOT_original_PXZ2_moves": [
+        "agile kick chain",
+        "spin kick launcher",
+        "Fuhajin wheel pressure",
+        "Kaisen Dankairaku cinematic"
+      ],
+      "source_urls": [
+        "https://projectxzone.fandom.com/wiki/Juri_Han"
+      ],
+      "sprite_animation_mapping_status": "unverified; do not assign move name to atlas row without animation review",
+      "voice_status": "no voice audio provided or assigned"
+    }
+  }
+}

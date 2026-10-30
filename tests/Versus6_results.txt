@@ -1,0 +1,74 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS unique random CPU slots
+PASS random teams across rematches
+PASS CPU roster contacts 0
+PASS honest deduplicated contacts
+PASS CPU phase returns
+PASS CPU reset cleanup
+PASS CPU roster contacts 1
+PASS honest deduplicated contacts
+PASS CPU phase returns
+PASS CPU reset cleanup
+PASS CPU roster contacts 2
+PASS honest deduplicated contacts
+PASS CPU phase returns
+PASS CPU reset cleanup
+PASS CPU roster contacts 3
+PASS honest deduplicated contacts
+PASS CPU phase returns
+PASS CPU reset cleanup
+PASS CPU roster contacts 4
+PASS honest deduplicated contacts
+PASS CPU phase returns
+PASS CPU reset cleanup
+PASS CPU roster contacts 5
+PASS honest deduplicated contacts
+PASS CPU phase returns
+PASS CPU reset cleanup
+PASS CPU special cost once
+PASS mirrored CPU special contacts 0
+PASS roster hits respect block
+PASS mirrored CPU resolves
+PASS CPU special cost once
+PASS mirrored CPU special contacts 1
+PASS roster hits respect block
+PASS mirrored CPU resolves
+PASS CPU special cost once
+PASS mirrored CPU special contacts 2
+PASS roster hits respect block
+PASS mirrored CPU resolves
+PASS CPU special cost once
+PASS mirrored CPU special contacts 3
+PASS roster hits respect block
+PASS mirrored CPU resolves
+PASS CPU special cost once
+PASS mirrored CPU special contacts 4
+PASS roster hits respect block
+PASS mirrored CPU resolves
+PASS CPU special cost once
+PASS mirrored CPU special contacts 5
+PASS roster hits respect block
+PASS mirrored CPU resolves
+PASS particle ultimate nine exposure pulses
+PASS particle ultimate cleanup
+VERSUS: 71 checks / 0 failures

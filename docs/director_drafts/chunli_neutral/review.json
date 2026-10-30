@@ -1,0 +1,99 @@
+{
+  "source_sequence_id": "chunli_neutral",
+  "project_source": "moves/choreography.json",
+  "mode": "non_destructive_proposal",
+  "approval": "NOT_APPROVED",
+  "candidates": {
+    "source": {
+      "errors": [],
+      "warnings": [
+        "Last hit occurs before 60% of duration (check recovery pacing)"
+      ],
+      "metrics": {
+        "duration": 74,
+        "poses": 7,
+        "unique_poses": 7,
+        "hits": 2,
+        "first_hit_tick": 17,
+        "final_hit_tick": 37,
+        "recovery_ticks": 37,
+        "hit_gaps_ticks": [
+          20
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          16,
+          8,
+          6,
+          6,
+          10,
+          10,
+          18
+        ]
+      }
+    },
+    "snap": {
+      "errors": [],
+      "warnings": [
+        "Last hit occurs before 60% of duration (check recovery pacing)",
+        "Unapproved director draft; no automatic gameplay sign-off"
+      ],
+      "metrics": {
+        "duration": 74,
+        "poses": 7,
+        "unique_poses": 7,
+        "hits": 2,
+        "first_hit_tick": 17,
+        "final_hit_tick": 35,
+        "recovery_ticks": 39,
+        "hit_gaps_ticks": [
+          18
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          16,
+          6,
+          6,
+          6,
+          8,
+          11,
+          21
+        ]
+      }
+    },
+    "heavy": {
+      "errors": [],
+      "warnings": [
+        "Last hit occurs before 60% of duration (check recovery pacing)",
+        "Unapproved director draft; no automatic gameplay sign-off"
+      ],
+      "metrics": {
+        "duration": 74,
+        "poses": 7,
+        "unique_poses": 7,
+        "hits": 2,
+        "first_hit_tick": 20,
+        "final_hit_tick": 39,
+        "recovery_ticks": 35,
+        "hit_gaps_ticks": [
+          19
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          19,
+          8,
+          6,
+          5,
+          11,
+          9,
+          16
+        ]
+      }
+    }
+  },
+  "limits": [
+    "No pose reorder, procedural new animation, semantic sprite tagging or audio assignment",
+    "Contact shape, target physics, hit damage, staging and cancel windows unchanged",
+    "Browser preview is not a Godot gameplay test or proof of contact"
+  ]
+}

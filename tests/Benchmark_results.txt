@@ -1,0 +1,4 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+CPU LOGIC+FX: ticks=6600 total_ms=465 median_us=55 p95_us=154 max_us=5686 max_scene_nodes=95
+AUDIO CACHE: 9 synthesized layers; reusable voices=8

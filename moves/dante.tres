@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="CharacterDefinition" load_steps=3 format=3]
+[ext_resource type="Script" path="res://battle/CharacterDefinition.gd" id="1"]
+[ext_resource type="Resource" path="res://sounds/dante.tres" id="voice"]
+[resource]
+script = ExtResource("1")
+sound_profile = ExtResource("voice")
+character_id = "dante"
+display_name = "Dante"
+idle_texture = "res://assets/import_kit/characters/dante/frames/dante_vergil_r001_c07.png"
+portrait_texture = "res://assets/import_kit/characters/dante/frames/dante_vergil_r001_c07.png"
+native_facing = -1
+main_sequences = Array[String](["res://moves/dante_neutral.tres", "res://moves/dante_left.tres", "", "res://moves/dante_down.tres", ""])
+special_sequences = Array[String](["", ""])
+ultimate_sequence = ""
+assist_sequence = "res://moves/dante_assist.tres"
+assist_variants = Array[String](["res://moves/dante_assist.tres"])
+supported_roles = Array[String](["main", "assist"])
+completion_status = "partial / 3 normals + assist"
+availability_note = "J / Left+J / Down+J and assist authored. Up/Right, specials, ultimate unavailable. No confirmed voices."
+source_manifest = "res://assets/import_kit/characters/dante/manifest.json"
+artwork_status = "Supplied assembled poses / provisional choreography"
+pivot = Vector2(38,107)
+effect_palette = Color(1.0,0.5215686274509804,0.37254901960784315,1)
+portrait_region = Rect2(0,0,84,108)

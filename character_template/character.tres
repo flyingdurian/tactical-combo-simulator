@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="CharacterDefinition" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/CharacterDefinition.gd" id="1"]
+[resource]
+script = ExtResource("1")
+character_id = "template"
+display_name = "UNFINISHED CHARACTER"
+native_facing = 1
+main_sequences = Array[String](["", "", "", "", ""])
+special_sequences = Array[String](["", ""])
+supported_roles = Array[String]([])
+availability_note = "Template only; all move requests reject explicitly until authored."

@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="CharacterDefinition" load_steps=3 format=3]
+[ext_resource type="Script" path="res://battle/CharacterDefinition.gd" id="1"]
+[ext_resource type="Resource" path="res://sounds/captain_commando.tres" id="voice"]
+[resource]
+script = ExtResource("1")
+sound_profile = ExtResource("voice")
+character_id = "captain_commando"
+display_name = "Captain Commando"
+idle_texture = "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r002_c01.png"
+portrait_texture = "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r002_c01.png"
+native_facing = -1
+main_sequences = Array[String](["res://moves/captain_commando_neutral.tres", "res://moves/captain_commando_left.tres", "", "res://moves/captain_commando_down.tres", ""])
+special_sequences = Array[String](["", ""])
+ultimate_sequence = ""
+assist_sequence = "res://moves/captain_commando_assist.tres"
+assist_variants = Array[String](["res://moves/captain_commando_assist.tres"])
+supported_roles = Array[String](["main", "assist"])
+completion_status = "partial / 3 normals + assist"
+availability_note = "J / Left+J / Down+J and assist authored. Up/Right, specials, ultimate unavailable. No confirmed voices."
+source_manifest = "res://assets/import_kit/characters/captain_commando/manifest.json"
+artwork_status = "Supplied assembled poses / provisional choreography"
+pivot = Vector2(80,129)
+effect_palette = Color(0.48627450980392156,0.8666666666666667,1.0,1)
+portrait_region = Rect2(0,0,144,138)

@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="CharacterDefinition" load_steps=3 format=3]
+[ext_resource type="Script" path="res://battle/CharacterDefinition.gd" id="1"]
+[ext_resource type="Resource" path="res://sounds/chunli.tres" id="voice"]
+[resource]
+script = ExtResource("1")
+character_id = "chunli"
+display_name = "Chun-Li"
+idle_texture = "res://assets/characters/chunli/frames/idle.png"
+native_facing = -1
+artwork_status = "Supplied assembled poses / provisional authored playback"
+main_sequences = Array[String](["res://moves/chunli_neutral.tres", "res://moves/chunli_left.tres", "res://moves/chunli_up.tres", "res://moves/chunli_down.tres", "res://moves/chunli_right.tres"])
+assist_sequence = "res://moves/chunli_assist.tres"
+assist_variants = Array[String](["res://moves/chunli_assist.tres"])
+special_sequences = Array[String](["res://moves/chunli_special_1.tres", "res://moves/chunli_special_2.tres"])
+ultimate_sequence = "res://moves/chunli_ultimate.tres"
+supported_roles = Array[String](["main", "assist"])
+source_manifest = "res://assets/characters/roster_manifest.json"
+availability_note = "Prototype choreography. Empty slots unavailable. Native original timing unverified."
+completion_status = "provisional"
+portrait_texture = "res://assets/characters/chunli/frames/idle.png"
+pivot = Vector2(128,176)
+tint = Color(0.35,0.6,1,1)
+effect_palette = Color(0.35,0.6,1,1)
+
+sound_profile = ExtResource("voice")

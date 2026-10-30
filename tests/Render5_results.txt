@@ -1,0 +1,53 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:360)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+RENDER 0 slot 0 hits 2
+RENDER 0 slot 1 hits 3
+RENDER 0 slot 2 hits 2
+RENDER 0 slot 3 hits 3
+RENDER 0 slot 4 hits 3
+RENDER 0 slot 5 hits 5
+RENDER 0 slot 6 hits 3
+RENDER 0 slot 7 hits 9
+RENDER 1 slot 0 hits 2
+RENDER 1 slot 1 hits 4
+RENDER 1 slot 2 hits 2
+RENDER 1 slot 3 hits 2
+RENDER 1 slot 4 hits 3
+RENDER 1 slot 5 hits 7
+RENDER 1 slot 6 hits 3
+RENDER 1 slot 7 hits 8
+RENDER 2 slot 0 hits 2
+RENDER 2 slot 1 hits 3
+RENDER 2 slot 2 hits 2
+RENDER 2 slot 3 hits 2
+RENDER 2 slot 4 hits 3
+RENDER 2 slot 5 hits 3
+RENDER 2 slot 6 hits 3
+RENDER 2 slot 7 hits 6
+RENDER 3 slot 0 hits 2
+RENDER 3 slot 1 hits 2
+RENDER 3 slot 2 hits 2
+RENDER 3 slot 3 hits 2
+RENDER 3 slot 4 hits 2
+RENDER 3 slot 5 hits 4
+RENDER 3 slot 6 hits 3
+RENDER 3 slot 7 hits 6
+RENDER 4 slot 0 hits 2
+RENDER 4 slot 1 hits 2
+RENDER 4 slot 2 hits 2
+RENDER 4 slot 3 hits 2
+RENDER 4 slot 4 hits 2
+RENDER 4 slot 5 hits 4
+RENDER 4 slot 6 hits 2
+RENDER 4 slot 7 hits 7
+RENDER 5 slot 0 hits 2
+RENDER 5 slot 1 hits 2
+RENDER 5 slot 2 hits 2
+RENDER 5 slot 3 hits 2
+RENDER 5 slot 4 hits 3
+RENDER 5 slot 5 hits 3
+RENDER 5 slot 6 hits 2
+RENDER 5 slot 7 hits 6

@@ -1,0 +1,783 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+PASS start kosmos_arc side=false
+PASS single entry cost kosmos_arc
+PASS grounded contacts kosmos_arc 2/2
+PASS dedup and intersected contact kosmos_arc
+PASS resolved owners kosmos_arc
+PASS airborne opportunity kosmos_arc
+PASS airborne cleanup kosmos_arc
+PASS active reset kosmos_arc
+PASS start kosmos_barrage side=false
+PASS single entry cost kosmos_barrage
+PASS grounded contacts kosmos_barrage 3/3
+PASS dedup and intersected contact kosmos_barrage
+PASS resolved owners kosmos_barrage
+PASS airborne opportunity kosmos_barrage
+PASS airborne cleanup kosmos_barrage
+PASS active reset kosmos_barrage
+PASS start kosmos_up side=false
+PASS single entry cost kosmos_up
+PASS grounded contacts kosmos_up 2/2
+PASS dedup and intersected contact kosmos_up
+PASS resolved owners kosmos_up
+PASS airborne opportunity kosmos_up
+PASS airborne cleanup kosmos_up
+PASS active reset kosmos_up
+PASS start kosmos_down side=false
+PASS single entry cost kosmos_down
+PASS grounded contacts kosmos_down 3/3
+PASS dedup and intersected contact kosmos_down
+PASS resolved owners kosmos_down
+PASS airborne opportunity kosmos_down
+PASS airborne cleanup kosmos_down
+PASS active reset kosmos_down
+PASS start kosmos_right side=false
+PASS single entry cost kosmos_right
+PASS grounded contacts kosmos_right 3/3
+PASS dedup and intersected contact kosmos_right
+PASS resolved owners kosmos_right
+PASS airborne opportunity kosmos_right
+PASS airborne cleanup kosmos_right
+PASS active reset kosmos_right
+PASS start kosmos_special_1 side=false
+PASS single entry cost kosmos_special_1
+PASS grounded contacts kosmos_special_1 5/5
+PASS dedup and intersected contact kosmos_special_1
+PASS resolved owners kosmos_special_1
+PASS airborne opportunity kosmos_special_1
+PASS airborne cleanup kosmos_special_1
+PASS active reset kosmos_special_1
+PASS start kosmos_special_2 side=false
+PASS single entry cost kosmos_special_2
+PASS grounded contacts kosmos_special_2 3/3
+PASS dedup and intersected contact kosmos_special_2
+PASS resolved owners kosmos_special_2
+PASS airborne opportunity kosmos_special_2
+PASS airborne cleanup kosmos_special_2
+PASS active reset kosmos_special_2
+PASS start kosmos_ultimate side=false
+PASS single entry cost kosmos_ultimate
+PASS grounded contacts kosmos_ultimate 9/9
+PASS dedup and intersected contact kosmos_ultimate
+PASS resolved owners kosmos_ultimate
+PASS ultimate actual summary kosmos_ultimate
+PASS airborne opportunity kosmos_ultimate
+PASS airborne cleanup kosmos_ultimate
+PASS active reset kosmos_ultimate
+PASS start kosmos_arc side=true
+PASS single entry cost kosmos_arc
+PASS grounded contacts kosmos_arc 2/2
+PASS dedup and intersected contact kosmos_arc
+PASS resolved owners kosmos_arc
+PASS airborne opportunity kosmos_arc
+PASS airborne cleanup kosmos_arc
+PASS active reset kosmos_arc
+PASS start kosmos_barrage side=true
+PASS single entry cost kosmos_barrage
+PASS grounded contacts kosmos_barrage 3/3
+PASS dedup and intersected contact kosmos_barrage
+PASS resolved owners kosmos_barrage
+PASS airborne opportunity kosmos_barrage
+PASS airborne cleanup kosmos_barrage
+PASS active reset kosmos_barrage
+PASS start kosmos_up side=true
+PASS single entry cost kosmos_up
+PASS grounded contacts kosmos_up 2/2
+PASS dedup and intersected contact kosmos_up
+PASS resolved owners kosmos_up
+PASS airborne opportunity kosmos_up
+PASS airborne cleanup kosmos_up
+PASS active reset kosmos_up
+PASS start kosmos_down side=true
+PASS single entry cost kosmos_down
+PASS grounded contacts kosmos_down 3/3
+PASS dedup and intersected contact kosmos_down
+PASS resolved owners kosmos_down
+PASS airborne opportunity kosmos_down
+PASS airborne cleanup kosmos_down
+PASS active reset kosmos_down
+PASS start kosmos_right side=true
+PASS single entry cost kosmos_right
+PASS grounded contacts kosmos_right 3/3
+PASS dedup and intersected contact kosmos_right
+PASS resolved owners kosmos_right
+PASS airborne opportunity kosmos_right
+PASS airborne cleanup kosmos_right
+PASS active reset kosmos_right
+PASS start kosmos_special_1 side=true
+PASS single entry cost kosmos_special_1
+PASS grounded contacts kosmos_special_1 5/5
+PASS dedup and intersected contact kosmos_special_1
+PASS resolved owners kosmos_special_1
+PASS airborne opportunity kosmos_special_1
+PASS airborne cleanup kosmos_special_1
+PASS active reset kosmos_special_1
+PASS start kosmos_special_2 side=true
+PASS single entry cost kosmos_special_2
+PASS grounded contacts kosmos_special_2 3/3
+PASS dedup and intersected contact kosmos_special_2
+PASS resolved owners kosmos_special_2
+PASS airborne opportunity kosmos_special_2
+PASS airborne cleanup kosmos_special_2
+PASS active reset kosmos_special_2
+PASS start kosmos_ultimate side=true
+PASS single entry cost kosmos_ultimate
+PASS grounded contacts kosmos_ultimate 9/9
+PASS dedup and intersected contact kosmos_ultimate
+PASS resolved owners kosmos_ultimate
+PASS ultimate actual summary kosmos_ultimate
+PASS airborne opportunity kosmos_ultimate
+PASS airborne cleanup kosmos_ultimate
+PASS active reset kosmos_ultimate
+PASS start chunli_neutral side=false
+PASS single entry cost chunli_neutral
+PASS grounded contacts chunli_neutral 2/2
+PASS dedup and intersected contact chunli_neutral
+PASS resolved owners chunli_neutral
+PASS airborne opportunity chunli_neutral
+PASS airborne cleanup chunli_neutral
+PASS active reset chunli_neutral
+PASS start chunli_left side=false
+PASS single entry cost chunli_left
+PASS grounded contacts chunli_left 4/4
+PASS dedup and intersected contact chunli_left
+PASS resolved owners chunli_left
+PASS airborne opportunity chunli_left
+PASS airborne cleanup chunli_left
+PASS active reset chunli_left
+PASS start chunli_up side=false
+PASS single entry cost chunli_up
+PASS grounded contacts chunli_up 2/2
+PASS dedup and intersected contact chunli_up
+PASS resolved owners chunli_up
+PASS airborne opportunity chunli_up
+PASS airborne cleanup chunli_up
+PASS active reset chunli_up
+PASS start chunli_down side=false
+PASS single entry cost chunli_down
+PASS grounded contacts chunli_down 2/2
+PASS dedup and intersected contact chunli_down
+PASS resolved owners chunli_down
+PASS airborne opportunity chunli_down
+PASS airborne cleanup chunli_down
+PASS active reset chunli_down
+PASS start chunli_right side=false
+PASS single entry cost chunli_right
+PASS grounded contacts chunli_right 3/3
+PASS dedup and intersected contact chunli_right
+PASS resolved owners chunli_right
+PASS airborne opportunity chunli_right
+PASS airborne cleanup chunli_right
+PASS active reset chunli_right
+PASS start chunli_special_1 side=false
+PASS single entry cost chunli_special_1
+PASS grounded contacts chunli_special_1 7/7
+PASS dedup and intersected contact chunli_special_1
+PASS resolved owners chunli_special_1
+PASS airborne opportunity chunli_special_1
+PASS airborne cleanup chunli_special_1
+PASS active reset chunli_special_1
+PASS start chunli_special_2 side=false
+PASS single entry cost chunli_special_2
+PASS grounded contacts chunli_special_2 3/3
+PASS dedup and intersected contact chunli_special_2
+PASS resolved owners chunli_special_2
+PASS airborne opportunity chunli_special_2
+PASS airborne cleanup chunli_special_2
+PASS active reset chunli_special_2
+PASS start chunli_ultimate side=false
+PASS single entry cost chunli_ultimate
+PASS grounded contacts chunli_ultimate 8/8
+PASS dedup and intersected contact chunli_ultimate
+PASS resolved owners chunli_ultimate
+PASS ultimate actual summary chunli_ultimate
+PASS airborne opportunity chunli_ultimate
+PASS airborne cleanup chunli_ultimate
+PASS active reset chunli_ultimate
+PASS start chunli_neutral side=true
+PASS single entry cost chunli_neutral
+PASS grounded contacts chunli_neutral 2/2
+PASS dedup and intersected contact chunli_neutral
+PASS resolved owners chunli_neutral
+PASS airborne opportunity chunli_neutral
+PASS airborne cleanup chunli_neutral
+PASS active reset chunli_neutral
+PASS start chunli_left side=true
+PASS single entry cost chunli_left
+PASS grounded contacts chunli_left 4/4
+PASS dedup and intersected contact chunli_left
+PASS resolved owners chunli_left
+PASS airborne opportunity chunli_left
+PASS airborne cleanup chunli_left
+PASS active reset chunli_left
+PASS start chunli_up side=true
+PASS single entry cost chunli_up
+PASS grounded contacts chunli_up 2/2
+PASS dedup and intersected contact chunli_up
+PASS resolved owners chunli_up
+PASS airborne opportunity chunli_up
+PASS airborne cleanup chunli_up
+PASS active reset chunli_up
+PASS start chunli_down side=true
+PASS single entry cost chunli_down
+PASS grounded contacts chunli_down 2/2
+PASS dedup and intersected contact chunli_down
+PASS resolved owners chunli_down
+PASS airborne opportunity chunli_down
+PASS airborne cleanup chunli_down
+PASS active reset chunli_down
+PASS start chunli_right side=true
+PASS single entry cost chunli_right
+PASS grounded contacts chunli_right 3/3
+PASS dedup and intersected contact chunli_right
+PASS resolved owners chunli_right
+PASS airborne opportunity chunli_right
+PASS airborne cleanup chunli_right
+PASS active reset chunli_right
+PASS start chunli_special_1 side=true
+PASS single entry cost chunli_special_1
+PASS grounded contacts chunli_special_1 7/7
+PASS dedup and intersected contact chunli_special_1
+PASS resolved owners chunli_special_1
+PASS airborne opportunity chunli_special_1
+PASS airborne cleanup chunli_special_1
+PASS active reset chunli_special_1
+PASS start chunli_special_2 side=true
+PASS single entry cost chunli_special_2
+PASS grounded contacts chunli_special_2 3/3
+PASS dedup and intersected contact chunli_special_2
+PASS resolved owners chunli_special_2
+PASS airborne opportunity chunli_special_2
+PASS airborne cleanup chunli_special_2
+PASS active reset chunli_special_2
+PASS start chunli_ultimate side=true
+PASS single entry cost chunli_ultimate
+PASS grounded contacts chunli_ultimate 8/8
+PASS dedup and intersected contact chunli_ultimate
+PASS resolved owners chunli_ultimate
+PASS ultimate actual summary chunli_ultimate
+PASS airborne opportunity chunli_ultimate
+PASS airborne cleanup chunli_ultimate
+PASS active reset chunli_ultimate
+PASS start xiaoyu_neutral side=false
+PASS single entry cost xiaoyu_neutral
+PASS grounded contacts xiaoyu_neutral 2/2
+PASS dedup and intersected contact xiaoyu_neutral
+PASS resolved owners xiaoyu_neutral
+PASS airborne opportunity xiaoyu_neutral
+PASS airborne cleanup xiaoyu_neutral
+PASS active reset xiaoyu_neutral
+PASS start xiaoyu_left side=false
+PASS single entry cost xiaoyu_left
+PASS grounded contacts xiaoyu_left 3/3
+PASS dedup and intersected contact xiaoyu_left
+PASS resolved owners xiaoyu_left
+PASS airborne opportunity xiaoyu_left
+PASS airborne cleanup xiaoyu_left
+PASS active reset xiaoyu_left
+PASS start xiaoyu_up side=false
+PASS single entry cost xiaoyu_up
+PASS grounded contacts xiaoyu_up 2/2
+PASS dedup and intersected contact xiaoyu_up
+PASS resolved owners xiaoyu_up
+PASS airborne opportunity xiaoyu_up
+PASS airborne cleanup xiaoyu_up
+PASS active reset xiaoyu_up
+PASS start xiaoyu_down side=false
+PASS single entry cost xiaoyu_down
+PASS grounded contacts xiaoyu_down 2/2
+PASS dedup and intersected contact xiaoyu_down
+PASS resolved owners xiaoyu_down
+PASS airborne opportunity xiaoyu_down
+PASS airborne cleanup xiaoyu_down
+PASS active reset xiaoyu_down
+PASS start xiaoyu_right side=false
+PASS single entry cost xiaoyu_right
+PASS grounded contacts xiaoyu_right 3/3
+PASS dedup and intersected contact xiaoyu_right
+PASS resolved owners xiaoyu_right
+PASS airborne opportunity xiaoyu_right
+PASS airborne cleanup xiaoyu_right
+PASS active reset xiaoyu_right
+PASS start xiaoyu_special_1 side=false
+PASS single entry cost xiaoyu_special_1
+PASS grounded contacts xiaoyu_special_1 3/3
+PASS dedup and intersected contact xiaoyu_special_1
+PASS resolved owners xiaoyu_special_1
+PASS airborne opportunity xiaoyu_special_1
+PASS airborne cleanup xiaoyu_special_1
+PASS active reset xiaoyu_special_1
+PASS start xiaoyu_special_2 side=false
+PASS single entry cost xiaoyu_special_2
+PASS grounded contacts xiaoyu_special_2 3/3
+PASS dedup and intersected contact xiaoyu_special_2
+PASS resolved owners xiaoyu_special_2
+PASS airborne opportunity xiaoyu_special_2
+PASS airborne cleanup xiaoyu_special_2
+PASS active reset xiaoyu_special_2
+PASS start xiaoyu_ultimate side=false
+PASS single entry cost xiaoyu_ultimate
+PASS grounded contacts xiaoyu_ultimate 6/6
+PASS dedup and intersected contact xiaoyu_ultimate
+PASS resolved owners xiaoyu_ultimate
+PASS ultimate actual summary xiaoyu_ultimate
+PASS airborne opportunity xiaoyu_ultimate
+PASS airborne cleanup xiaoyu_ultimate
+PASS active reset xiaoyu_ultimate
+PASS start xiaoyu_neutral side=true
+PASS single entry cost xiaoyu_neutral
+PASS grounded contacts xiaoyu_neutral 2/2
+PASS dedup and intersected contact xiaoyu_neutral
+PASS resolved owners xiaoyu_neutral
+PASS airborne opportunity xiaoyu_neutral
+PASS airborne cleanup xiaoyu_neutral
+PASS active reset xiaoyu_neutral
+PASS start xiaoyu_left side=true
+PASS single entry cost xiaoyu_left
+PASS grounded contacts xiaoyu_left 3/3
+PASS dedup and intersected contact xiaoyu_left
+PASS resolved owners xiaoyu_left
+PASS airborne opportunity xiaoyu_left
+PASS airborne cleanup xiaoyu_left
+PASS active reset xiaoyu_left
+PASS start xiaoyu_up side=true
+PASS single entry cost xiaoyu_up
+PASS grounded contacts xiaoyu_up 2/2
+PASS dedup and intersected contact xiaoyu_up
+PASS resolved owners xiaoyu_up
+PASS airborne opportunity xiaoyu_up
+PASS airborne cleanup xiaoyu_up
+PASS active reset xiaoyu_up
+PASS start xiaoyu_down side=true
+PASS single entry cost xiaoyu_down
+PASS grounded contacts xiaoyu_down 2/2
+PASS dedup and intersected contact xiaoyu_down
+PASS resolved owners xiaoyu_down
+PASS airborne opportunity xiaoyu_down
+PASS airborne cleanup xiaoyu_down
+PASS active reset xiaoyu_down
+PASS start xiaoyu_right side=true
+PASS single entry cost xiaoyu_right
+PASS grounded contacts xiaoyu_right 3/3
+PASS dedup and intersected contact xiaoyu_right
+PASS resolved owners xiaoyu_right
+PASS airborne opportunity xiaoyu_right
+PASS airborne cleanup xiaoyu_right
+PASS active reset xiaoyu_right
+PASS start xiaoyu_special_1 side=true
+PASS single entry cost xiaoyu_special_1
+PASS grounded contacts xiaoyu_special_1 3/3
+PASS dedup and intersected contact xiaoyu_special_1
+PASS resolved owners xiaoyu_special_1
+PASS airborne opportunity xiaoyu_special_1
+PASS airborne cleanup xiaoyu_special_1
+PASS active reset xiaoyu_special_1
+PASS start xiaoyu_special_2 side=true
+PASS single entry cost xiaoyu_special_2
+PASS grounded contacts xiaoyu_special_2 3/3
+PASS dedup and intersected contact xiaoyu_special_2
+PASS resolved owners xiaoyu_special_2
+PASS airborne opportunity xiaoyu_special_2
+PASS airborne cleanup xiaoyu_special_2
+PASS active reset xiaoyu_special_2
+PASS start xiaoyu_ultimate side=true
+PASS single entry cost xiaoyu_ultimate
+PASS grounded contacts xiaoyu_ultimate 6/6
+PASS dedup and intersected contact xiaoyu_ultimate
+PASS resolved owners xiaoyu_ultimate
+PASS ultimate actual summary xiaoyu_ultimate
+PASS airborne opportunity xiaoyu_ultimate
+PASS airborne cleanup xiaoyu_ultimate
+PASS active reset xiaoyu_ultimate
+PASS start reiji_neutral side=false
+PASS single entry cost reiji_neutral
+PASS grounded contacts reiji_neutral 2/2
+PASS dedup and intersected contact reiji_neutral
+PASS resolved owners reiji_neutral
+PASS airborne opportunity reiji_neutral
+PASS airborne cleanup reiji_neutral
+PASS active reset reiji_neutral
+PASS start reiji_left side=false
+PASS single entry cost reiji_left
+PASS grounded contacts reiji_left 2/2
+PASS dedup and intersected contact reiji_left
+PASS resolved owners reiji_left
+PASS airborne opportunity reiji_left
+PASS airborne cleanup reiji_left
+PASS active reset reiji_left
+PASS start reiji_up side=false
+PASS single entry cost reiji_up
+PASS grounded contacts reiji_up 2/2
+PASS dedup and intersected contact reiji_up
+PASS resolved owners reiji_up
+PASS airborne opportunity reiji_up
+PASS airborne cleanup reiji_up
+PASS active reset reiji_up
+PASS start reiji_down side=false
+PASS single entry cost reiji_down
+PASS grounded contacts reiji_down 2/2
+PASS dedup and intersected contact reiji_down
+PASS resolved owners reiji_down
+PASS airborne opportunity reiji_down
+PASS airborne cleanup reiji_down
+PASS active reset reiji_down
+PASS start reiji_right side=false
+PASS single entry cost reiji_right
+PASS grounded contacts reiji_right 2/2
+PASS dedup and intersected contact reiji_right
+PASS resolved owners reiji_right
+PASS airborne opportunity reiji_right
+PASS airborne cleanup reiji_right
+PASS active reset reiji_right
+PASS start reiji_special_1 side=false
+PASS single entry cost reiji_special_1
+PASS grounded contacts reiji_special_1 4/4
+PASS dedup and intersected contact reiji_special_1
+PASS resolved owners reiji_special_1
+PASS airborne opportunity reiji_special_1
+PASS airborne cleanup reiji_special_1
+PASS active reset reiji_special_1
+PASS start reiji_special_2 side=false
+PASS single entry cost reiji_special_2
+PASS grounded contacts reiji_special_2 3/3
+PASS dedup and intersected contact reiji_special_2
+PASS resolved owners reiji_special_2
+PASS airborne opportunity reiji_special_2
+PASS airborne cleanup reiji_special_2
+PASS active reset reiji_special_2
+PASS start reiji_ultimate side=false
+PASS single entry cost reiji_ultimate
+PASS grounded contacts reiji_ultimate 6/6
+PASS dedup and intersected contact reiji_ultimate
+PASS resolved owners reiji_ultimate
+PASS ultimate actual summary reiji_ultimate
+PASS airborne opportunity reiji_ultimate
+PASS airborne cleanup reiji_ultimate
+PASS active reset reiji_ultimate
+PASS start reiji_neutral side=true
+PASS single entry cost reiji_neutral
+PASS grounded contacts reiji_neutral 2/2
+PASS dedup and intersected contact reiji_neutral
+PASS resolved owners reiji_neutral
+PASS airborne opportunity reiji_neutral
+PASS airborne cleanup reiji_neutral
+PASS active reset reiji_neutral
+PASS start reiji_left side=true
+PASS single entry cost reiji_left
+PASS grounded contacts reiji_left 2/2
+PASS dedup and intersected contact reiji_left
+PASS resolved owners reiji_left
+PASS airborne opportunity reiji_left
+PASS airborne cleanup reiji_left
+PASS active reset reiji_left
+PASS start reiji_up side=true
+PASS single entry cost reiji_up
+PASS grounded contacts reiji_up 2/2
+PASS dedup and intersected contact reiji_up
+PASS resolved owners reiji_up
+PASS airborne opportunity reiji_up
+PASS airborne cleanup reiji_up
+PASS active reset reiji_up
+PASS start reiji_down side=true
+PASS single entry cost reiji_down
+PASS grounded contacts reiji_down 2/2
+PASS dedup and intersected contact reiji_down
+PASS resolved owners reiji_down
+PASS airborne opportunity reiji_down
+PASS airborne cleanup reiji_down
+PASS active reset reiji_down
+PASS start reiji_right side=true
+PASS single entry cost reiji_right
+PASS grounded contacts reiji_right 2/2
+PASS dedup and intersected contact reiji_right
+PASS resolved owners reiji_right
+PASS airborne opportunity reiji_right
+PASS airborne cleanup reiji_right
+PASS active reset reiji_right
+PASS start reiji_special_1 side=true
+PASS single entry cost reiji_special_1
+PASS grounded contacts reiji_special_1 4/4
+PASS dedup and intersected contact reiji_special_1
+PASS resolved owners reiji_special_1
+PASS airborne opportunity reiji_special_1
+PASS airborne cleanup reiji_special_1
+PASS active reset reiji_special_1
+PASS start reiji_special_2 side=true
+PASS single entry cost reiji_special_2
+PASS grounded contacts reiji_special_2 3/3
+PASS dedup and intersected contact reiji_special_2
+PASS resolved owners reiji_special_2
+PASS airborne opportunity reiji_special_2
+PASS airborne cleanup reiji_special_2
+PASS active reset reiji_special_2
+PASS start reiji_ultimate side=true
+PASS single entry cost reiji_ultimate
+PASS grounded contacts reiji_ultimate 6/6
+PASS dedup and intersected contact reiji_ultimate
+PASS resolved owners reiji_ultimate
+PASS ultimate actual summary reiji_ultimate
+PASS airborne opportunity reiji_ultimate
+PASS airborne cleanup reiji_ultimate
+PASS active reset reiji_ultimate
+PASS start xiaomu_neutral side=false
+PASS single entry cost xiaomu_neutral
+PASS grounded contacts xiaomu_neutral 2/2
+PASS dedup and intersected contact xiaomu_neutral
+PASS resolved owners xiaomu_neutral
+PASS airborne opportunity xiaomu_neutral
+PASS airborne cleanup xiaomu_neutral
+PASS active reset xiaomu_neutral
+PASS start xiaomu_left side=false
+PASS single entry cost xiaomu_left
+PASS grounded contacts xiaomu_left 2/2
+PASS dedup and intersected contact xiaomu_left
+PASS resolved owners xiaomu_left
+PASS airborne opportunity xiaomu_left
+PASS airborne cleanup xiaomu_left
+PASS active reset xiaomu_left
+PASS start xiaomu_up side=false
+PASS single entry cost xiaomu_up
+PASS grounded contacts xiaomu_up 2/2
+PASS dedup and intersected contact xiaomu_up
+PASS resolved owners xiaomu_up
+PASS airborne opportunity xiaomu_up
+PASS airborne cleanup xiaomu_up
+PASS active reset xiaomu_up
+PASS start xiaomu_down side=false
+PASS single entry cost xiaomu_down
+PASS grounded contacts xiaomu_down 2/2
+PASS dedup and intersected contact xiaomu_down
+PASS resolved owners xiaomu_down
+PASS airborne opportunity xiaomu_down
+PASS airborne cleanup xiaomu_down
+PASS active reset xiaomu_down
+PASS start xiaomu_right side=false
+PASS single entry cost xiaomu_right
+PASS grounded contacts xiaomu_right 2/2
+PASS dedup and intersected contact xiaomu_right
+PASS resolved owners xiaomu_right
+PASS airborne opportunity xiaomu_right
+PASS airborne cleanup xiaomu_right
+PASS active reset xiaomu_right
+PASS start xiaomu_special_1 side=false
+PASS single entry cost xiaomu_special_1
+PASS grounded contacts xiaomu_special_1 4/4
+PASS dedup and intersected contact xiaomu_special_1
+PASS resolved owners xiaomu_special_1
+PASS airborne opportunity xiaomu_special_1
+PASS airborne cleanup xiaomu_special_1
+PASS active reset xiaomu_special_1
+PASS start xiaomu_special_2 side=false
+PASS single entry cost xiaomu_special_2
+PASS grounded contacts xiaomu_special_2 2/2
+PASS dedup and intersected contact xiaomu_special_2
+PASS resolved owners xiaomu_special_2
+PASS airborne opportunity xiaomu_special_2
+PASS airborne cleanup xiaomu_special_2
+PASS active reset xiaomu_special_2
+PASS start xiaomu_ultimate side=false
+PASS single entry cost xiaomu_ultimate
+PASS grounded contacts xiaomu_ultimate 7/7
+PASS dedup and intersected contact xiaomu_ultimate
+PASS resolved owners xiaomu_ultimate
+PASS ultimate actual summary xiaomu_ultimate
+PASS airborne opportunity xiaomu_ultimate
+PASS airborne cleanup xiaomu_ultimate
+PASS active reset xiaomu_ultimate
+PASS start xiaomu_neutral side=true
+PASS single entry cost xiaomu_neutral
+PASS grounded contacts xiaomu_neutral 2/2
+PASS dedup and intersected contact xiaomu_neutral
+PASS resolved owners xiaomu_neutral
+PASS airborne opportunity xiaomu_neutral
+PASS airborne cleanup xiaomu_neutral
+PASS active reset xiaomu_neutral
+PASS start xiaomu_left side=true
+PASS single entry cost xiaomu_left
+PASS grounded contacts xiaomu_left 2/2
+PASS dedup and intersected contact xiaomu_left
+PASS resolved owners xiaomu_left
+PASS airborne opportunity xiaomu_left
+PASS airborne cleanup xiaomu_left
+PASS active reset xiaomu_left
+PASS start xiaomu_up side=true
+PASS single entry cost xiaomu_up
+PASS grounded contacts xiaomu_up 2/2
+PASS dedup and intersected contact xiaomu_up
+PASS resolved owners xiaomu_up
+PASS airborne opportunity xiaomu_up
+PASS airborne cleanup xiaomu_up
+PASS active reset xiaomu_up
+PASS start xiaomu_down side=true
+PASS single entry cost xiaomu_down
+PASS grounded contacts xiaomu_down 2/2
+PASS dedup and intersected contact xiaomu_down
+PASS resolved owners xiaomu_down
+PASS airborne opportunity xiaomu_down
+PASS airborne cleanup xiaomu_down
+PASS active reset xiaomu_down
+PASS start xiaomu_right side=true
+PASS single entry cost xiaomu_right
+PASS grounded contacts xiaomu_right 2/2
+PASS dedup and intersected contact xiaomu_right
+PASS resolved owners xiaomu_right
+PASS airborne opportunity xiaomu_right
+PASS airborne cleanup xiaomu_right
+PASS active reset xiaomu_right
+PASS start xiaomu_special_1 side=true
+PASS single entry cost xiaomu_special_1
+PASS grounded contacts xiaomu_special_1 4/4
+PASS dedup and intersected contact xiaomu_special_1
+PASS resolved owners xiaomu_special_1
+PASS airborne opportunity xiaomu_special_1
+PASS airborne cleanup xiaomu_special_1
+PASS active reset xiaomu_special_1
+PASS start xiaomu_special_2 side=true
+PASS single entry cost xiaomu_special_2
+PASS grounded contacts xiaomu_special_2 2/2
+PASS dedup and intersected contact xiaomu_special_2
+PASS resolved owners xiaomu_special_2
+PASS airborne opportunity xiaomu_special_2
+PASS airborne cleanup xiaomu_special_2
+PASS active reset xiaomu_special_2
+PASS start xiaomu_ultimate side=true
+PASS single entry cost xiaomu_ultimate
+PASS grounded contacts xiaomu_ultimate 7/7
+PASS dedup and intersected contact xiaomu_ultimate
+PASS resolved owners xiaomu_ultimate
+PASS ultimate actual summary xiaomu_ultimate
+PASS airborne opportunity xiaomu_ultimate
+PASS airborne cleanup xiaomu_ultimate
+PASS active reset xiaomu_ultimate
+PASS start morrigan_neutral side=false
+PASS single entry cost morrigan_neutral
+PASS grounded contacts morrigan_neutral 2/2
+PASS dedup and intersected contact morrigan_neutral
+PASS resolved owners morrigan_neutral
+PASS airborne opportunity morrigan_neutral
+PASS airborne cleanup morrigan_neutral
+PASS active reset morrigan_neutral
+PASS start morrigan_left side=false
+PASS single entry cost morrigan_left
+PASS grounded contacts morrigan_left 2/2
+PASS dedup and intersected contact morrigan_left
+PASS resolved owners morrigan_left
+PASS airborne opportunity morrigan_left
+PASS airborne cleanup morrigan_left
+PASS active reset morrigan_left
+PASS start morrigan_up side=false
+PASS single entry cost morrigan_up
+PASS grounded contacts morrigan_up 2/2
+PASS dedup and intersected contact morrigan_up
+PASS resolved owners morrigan_up
+PASS airborne opportunity morrigan_up
+PASS airborne cleanup morrigan_up
+PASS active reset morrigan_up
+PASS start morrigan_down side=false
+PASS single entry cost morrigan_down
+PASS grounded contacts morrigan_down 2/2
+PASS dedup and intersected contact morrigan_down
+PASS resolved owners morrigan_down
+PASS airborne opportunity morrigan_down
+PASS airborne cleanup morrigan_down
+PASS active reset morrigan_down
+PASS start morrigan_right side=false
+PASS single entry cost morrigan_right
+PASS grounded contacts morrigan_right 3/3
+PASS dedup and intersected contact morrigan_right
+PASS resolved owners morrigan_right
+PASS airborne opportunity morrigan_right
+PASS airborne cleanup morrigan_right
+PASS active reset morrigan_right
+PASS start morrigan_special_1 side=false
+PASS single entry cost morrigan_special_1
+PASS grounded contacts morrigan_special_1 3/3
+PASS dedup and intersected contact morrigan_special_1
+PASS resolved owners morrigan_special_1
+PASS airborne opportunity morrigan_special_1
+PASS airborne cleanup morrigan_special_1
+PASS active reset morrigan_special_1
+PASS start morrigan_special_2 side=false
+PASS single entry cost morrigan_special_2
+PASS grounded contacts morrigan_special_2 2/2
+PASS dedup and intersected contact morrigan_special_2
+PASS resolved owners morrigan_special_2
+PASS airborne opportunity morrigan_special_2
+PASS airborne cleanup morrigan_special_2
+PASS active reset morrigan_special_2
+PASS start morrigan_ultimate side=false
+PASS single entry cost morrigan_ultimate
+PASS grounded contacts morrigan_ultimate 6/6
+PASS dedup and intersected contact morrigan_ultimate
+PASS resolved owners morrigan_ultimate
+PASS ultimate actual summary morrigan_ultimate
+PASS airborne opportunity morrigan_ultimate
+PASS airborne cleanup morrigan_ultimate
+PASS active reset morrigan_ultimate
+PASS start morrigan_neutral side=true
+PASS single entry cost morrigan_neutral
+PASS grounded contacts morrigan_neutral 2/2
+PASS dedup and intersected contact morrigan_neutral
+PASS resolved owners morrigan_neutral
+PASS airborne opportunity morrigan_neutral
+PASS airborne cleanup morrigan_neutral
+PASS active reset morrigan_neutral
+PASS start morrigan_left side=true
+PASS single entry cost morrigan_left
+PASS grounded contacts morrigan_left 2/2
+PASS dedup and intersected contact morrigan_left
+PASS resolved owners morrigan_left
+PASS airborne opportunity morrigan_left
+PASS airborne cleanup morrigan_left
+PASS active reset morrigan_left
+PASS start morrigan_up side=true
+PASS single entry cost morrigan_up
+PASS grounded contacts morrigan_up 2/2
+PASS dedup and intersected contact morrigan_up
+PASS resolved owners morrigan_up
+PASS airborne opportunity morrigan_up
+PASS airborne cleanup morrigan_up
+PASS active reset morrigan_up
+PASS start morrigan_down side=true
+PASS single entry cost morrigan_down
+PASS grounded contacts morrigan_down 2/2
+PASS dedup and intersected contact morrigan_down
+PASS resolved owners morrigan_down
+PASS airborne opportunity morrigan_down
+PASS airborne cleanup morrigan_down
+PASS active reset morrigan_down
+PASS start morrigan_right side=true
+PASS single entry cost morrigan_right
+PASS grounded contacts morrigan_right 3/3
+PASS dedup and intersected contact morrigan_right
+PASS resolved owners morrigan_right
+PASS airborne opportunity morrigan_right
+PASS airborne cleanup morrigan_right
+PASS active reset morrigan_right
+PASS start morrigan_special_1 side=true
+PASS single entry cost morrigan_special_1
+PASS grounded contacts morrigan_special_1 3/3
+PASS dedup and intersected contact morrigan_special_1
+PASS resolved owners morrigan_special_1
+PASS airborne opportunity morrigan_special_1
+PASS airborne cleanup morrigan_special_1
+PASS active reset morrigan_special_1
+PASS start morrigan_special_2 side=true
+PASS single entry cost morrigan_special_2
+PASS grounded contacts morrigan_special_2 2/2
+PASS dedup and intersected contact morrigan_special_2
+PASS resolved owners morrigan_special_2
+PASS airborne opportunity morrigan_special_2
+PASS airborne cleanup morrigan_special_2
+PASS active reset morrigan_special_2
+PASS start morrigan_ultimate side=true
+PASS single entry cost morrigan_ultimate
+PASS grounded contacts morrigan_ultimate 6/6
+PASS dedup and intersected contact morrigan_ultimate
+PASS resolved owners morrigan_ultimate
+PASS ultimate actual summary morrigan_ultimate
+PASS airborne opportunity morrigan_ultimate
+PASS airborne cleanup morrigan_ultimate
+PASS active reset morrigan_ultimate
+ROSTER ACCEPTANCE: 780 checks / 0 failures

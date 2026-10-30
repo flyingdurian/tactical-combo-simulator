@@ -1,0 +1,22 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "chunli_neutral"
+display_name = "Blue Rhythm / prototype"
+character = "chunli"
+role = "main"
+category = "normal"
+purpose = "neutral"
+duration_ticks = 74
+poses = Array[Dictionary]([{"path": "res://assets/characters/chunli/frames/1685_0.png", "ticks": 16, "anchor": [128, 176], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [2, 1685, 120, 1803], "canvas_offset": [69, 66], "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/chunli/frames/1685_1.png", "ticks": 8, "anchor": [128, 176], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [122, 1685, 240, 1803], "canvas_offset": [69, 66], "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/chunli/frames/1685_2.png", "ticks": 6, "anchor": [128, 176], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [242, 1685, 360, 1803], "canvas_offset": [69, 66], "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/chunli/frames/1685_3.png", "ticks": 6, "anchor": [128, 176], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [362, 1685, 480, 1803], "canvas_offset": [69, 66], "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/chunli/frames/1685_4.png", "ticks": 10, "anchor": [128, 176], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [482, 1685, 600, 1803], "canvas_offset": [69, 66], "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/chunli/frames/1685_8.png", "ticks": 10, "anchor": [128, 176], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [962, 1685, 1080, 1803], "canvas_offset": [69, 66], "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/chunli/frames/1685_9.png", "ticks": 18, "anchor": [128, 176], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [1082, 1685, 1200, 1803], "canvas_offset": [69, 66], "source_sheet": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}])
+hit_events = Array[Dictionary]([{"id": "chunli_neutral_0", "tick": 17, "end_tick": 19, "kind": "melee", "damage": 10, "hitstun": 42, "launch": 0, "reaction": "ground", "knockback": 0, "xp": 6, "impact_profile": "res://impacts/light.tres", "reaction_profile": "res://reactions/light_stagger.tres", "region": [44, -130, 35, 32]}, {"id": "chunli_neutral_1", "tick": 37, "end_tick": 39, "kind": "melee", "damage": 10, "hitstun": 42, "launch": 0, "reaction": "ground", "knockback": 0, "xp": 6, "impact_profile": "res://impacts/light.tres", "reaction_profile": "res://reactions/light_stagger.tres", "region": [50, -110, 40, 34]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 4, "effect": "trail"}, {"tick": 1, "sound_event": "attack"}])
+chain_open = 59
+chain_close = 73
+cancel_open = 12
+cancel_close = 54
+resource_cost = 0
+staging = {"distance": 86, "entry_offset": 145, "approach_start": 2, "approach_end": 15, "commit_tick": 12, "exit_start": 60, "exit_end": 74, "max_correction": 850, "alignment_limit": 22, "height_ratio": 0.85, "max_elevation": 140}
+cinematic_spec = {}

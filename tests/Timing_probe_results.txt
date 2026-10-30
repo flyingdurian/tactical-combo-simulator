@@ -1,0 +1,21 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+ASSIST 1 DELAY 0 HITS 3
+ASSIST 1 DELAY 24 HITS 3
+ASSIST 1 DELAY 40 HITS 3
+[{ "token": "4:6:chunli_assist_1", "actor": 1, "sequence": "chunli_assist", "tick": 60, "attacker": (1000.0, 520.0), "attacker_elevation": 25.6, "target": (890.0, 520.0), "target_elevation": 91.625, "strike": [P: (887.0, 386.4), S: (38.0, 30.0)], "hurt": [P: (855.0, 252.375), S: (70.0, 176.0)], "commit_tick": 12, "result": "CONTACT" }, { "token": "4:6:chunli_assist_2", "actor": 1, "sequence": "chunli_assist", "tick": 68, "attacker": (1000.0, 520.0), "attacker_elevation": 25.6, "target": (889.8333, 520.0), "target_elevation": 101.666666666667, "strike": [P: (905.0, 344.4), S: (40.0, 34.0)], "hurt": [P: (854.8333, 242.3333), S: (70.0, 176.0)], "commit_tick": 12, "result": "CONTACT" }, { "token": "4:6:chunli_assist_3", "actor": 1, "sequence": "chunli_assist", "tick": 76, "attacker": (1000.0, 520.0), "attacker_elevation": 25.6, "target": (889.6667, 520.0), "target_elevation": 111.708333333333, "strike": [P: (887.0, 386.4), S: (38.0, 30.0)], "hurt": [P: (854.6667, 232.2917), S: (70.0, 176.0)], "commit_tick": 12, "result": "CONTACT" }]
+ASSIST 1 DELAY 50 HITS 3
+ASSIST 1 DELAY 60 HITS 3
+ASSIST 1 DELAY 70 HITS 3
+ASSIST 1 DELAY 80 HITS 2
+ASSIST 1 DELAY 90 HITS 3
+ASSIST 1 DELAY 100 HITS 3
+ASSIST 2 DELAY 0 HITS 2
+ASSIST 2 DELAY 24 HITS 2
+ASSIST 2 DELAY 40 HITS 2
+ASSIST 2 DELAY 50 HITS 2
+ASSIST 2 DELAY 60 HITS 2
+ASSIST 2 DELAY 70 HITS 1
+ASSIST 2 DELAY 80 HITS 1
+ASSIST 2 DELAY 90 HITS 1
+ASSIST 2 DELAY 100 HITS 2

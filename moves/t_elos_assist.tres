@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "t_elos_assist"
+display_name = "Arm Emitter Volley Support / prototype"
+character = "t_elos"
+role = "assist"
+category = "normal"
+purpose = "left"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r002_c01.png", "ticks": 16, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [2, 1185, 152, 1337], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r002_c02.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [155, 1185, 305, 1337], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r002_c03.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [308, 1185, 458, 1337], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move.", "anchors": {"muzzle": [115, 94]}}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r002_c05.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [614, 1185, 764, 1337], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r002_c07.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [920, 1185, 1070, 1337], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move.", "anchors": {"muzzle": [115, 94]}}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r002_c09.png", "ticks": 8, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1226, 1185, 1376, 1337], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/t_elos/frames/t_x_zone_2_enemies_t_elos_r002_c11.png", "ticks": 16, "anchor": [76, 145], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1532, 1185, 1682, 1337], "source_sheet": "3DS - Project X Zone 2 - Enemies - T-elos.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 72
+hit_events = Array[Dictionary]([{"id": "t_elos_left_0", "tick": 26, "end_tick": 28, "kind": "projectile", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/energy.tres", "origin_anchor": "muzzle", "origin": [66.3, -86.7], "speed": 1250, "flight_ticks": 35, "aim_snapshot": false, "visual": "orb", "color": "#d875f0"}, {"id": "t_elos_left_1", "tick": 42, "end_tick": 44, "kind": "projectile", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/energy.tres", "origin_anchor": "muzzle", "origin": [66.3, -86.7], "speed": 1250, "flight_ticks": 35, "aim_snapshot": false, "visual": "orb", "color": "#d875f0"}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "assist"}])
+chain_open = 58
+chain_close = 71
+cancel_open = 12
+cancel_close = 57
+staging = {"distance": 189, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 58, "exit_end": 72, "max_correction": 650, "alignment_limit": 20, "height_ratio": 0, "max_elevation": 0}

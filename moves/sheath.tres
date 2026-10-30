@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="CharacterDefinition" load_steps=3 format=3]
+[ext_resource type="Script" path="res://battle/CharacterDefinition.gd" id="1"]
+[ext_resource type="Resource" path="res://sounds/sheath.tres" id="voice"]
+[resource]
+script = ExtResource("1")
+sound_profile = ExtResource("voice")
+character_id = "sheath"
+display_name = "Sheath"
+idle_texture = "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c01.png"
+portrait_texture = "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c01.png"
+native_facing = 1
+main_sequences = Array[String](["res://moves/sheath_neutral.tres", "res://moves/sheath_left.tres", "", "res://moves/sheath_down.tres", ""])
+special_sequences = Array[String](["", ""])
+ultimate_sequence = ""
+assist_sequence = "res://moves/sheath_assist.tres"
+assist_variants = Array[String](["res://moves/sheath_assist.tres"])
+supported_roles = Array[String](["main", "assist"])
+completion_status = "partial / 3 normals + assist"
+availability_note = "J / Left+J / Down+J and assist authored. Up/Right, specials, ultimate unavailable. No confirmed voices."
+source_manifest = "res://assets/import_kit/characters/sheath/manifest.json"
+artwork_status = "Supplied assembled poses / provisional choreography"
+pivot = Vector2(95,130)
+effect_palette = Color(0.9647058823529412,0.7843137254901961,0.4196078431372549,1)
+portrait_region = Rect2(0,0,174,133)

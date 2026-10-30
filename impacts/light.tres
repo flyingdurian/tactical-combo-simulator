@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="ImpactProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/ImpactProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+profile_id = "light"
+color = Color(1.0,0.9058823529411765,0.6274509803921569,1)
+spark_count = 5
+directional_streaks = 2
+radius = 20
+hitstop = 2
+camera_impulse = 0.7
+number_scale = 1
+sound_layers = Array[String](["tap"])

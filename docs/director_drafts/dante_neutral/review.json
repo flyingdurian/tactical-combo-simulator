@@ -1,0 +1,95 @@
+{
+  "source_sequence_id": "dante_neutral",
+  "project_source": "moves/choreography.json",
+  "mode": "non_destructive_proposal",
+  "approval": "NOT_APPROVED",
+  "candidates": {
+    "source": {
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "duration": 72,
+        "poses": 7,
+        "unique_poses": 7,
+        "hits": 2,
+        "first_hit_tick": 34,
+        "final_hit_tick": 50,
+        "recovery_ticks": 22,
+        "hit_gaps_ticks": [
+          16
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          16,
+          8,
+          8,
+          8,
+          8,
+          8,
+          16
+        ]
+      }
+    },
+    "snap": {
+      "errors": [],
+      "warnings": [
+        "Unapproved director draft; no automatic gameplay sign-off"
+      ],
+      "metrics": {
+        "duration": 72,
+        "poses": 7,
+        "unique_poses": 7,
+        "hits": 2,
+        "first_hit_tick": 35,
+        "final_hit_tick": 49,
+        "recovery_ticks": 23,
+        "hit_gaps_ticks": [
+          14
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          17,
+          8,
+          8,
+          7,
+          7,
+          7,
+          18
+        ]
+      }
+    },
+    "heavy": {
+      "errors": [],
+      "warnings": [
+        "Unapproved director draft; no automatic gameplay sign-off"
+      ],
+      "metrics": {
+        "duration": 72,
+        "poses": 7,
+        "unique_poses": 7,
+        "hits": 2,
+        "first_hit_tick": 38,
+        "final_hit_tick": 53,
+        "recovery_ticks": 19,
+        "hit_gaps_ticks": [
+          15
+        ],
+        "gap_variation": null,
+        "pose_ticks": [
+          18,
+          9,
+          9,
+          8,
+          7,
+          8,
+          13
+        ]
+      }
+    }
+  },
+  "limits": [
+    "No pose reorder, procedural new animation, semantic sprite tagging or audio assignment",
+    "Contact shape, target physics, hit damage, staging and cancel windows unchanged",
+    "Browser preview is not a Godot gameplay test or proof of contact"
+  ]
+}

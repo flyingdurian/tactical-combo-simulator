@@ -1,0 +1,6 @@
+[gd_resource type="Resource" script_class="CharacterSoundProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/CharacterSoundProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+clips = {"attack": [], "exertion": [], "special": [], "ultimate": [], "assist": [], "hurt": [], "defeat": [], "victory": []}
+provenance = {"status": "No confirmed character clips integrated. Optional voice pools are silent; temporary impact effects are synthesized locally."}

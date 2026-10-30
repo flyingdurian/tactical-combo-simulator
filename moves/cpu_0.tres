@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "cpu_0"
+display_name = "Telegraphed twin jab"
+character = "placeholder_cpu"
+role = "cpu"
+duration_ticks = 126
+poses = Array[Dictionary]([])
+hit_events = Array[Dictionary]([{"id": "cpu_0_1", "tick": 52, "end_tick": 54, "region": [60, -128, 55, 38], "damage": 16, "hitstun": 14, "hitstop": 3, "launch": 0, "knockback": 0, "xp": 0, "effect": "burst", "camera": 1, "impact_profile": "res://impacts/light.tres", "reaction_profile": "res://reactions/light_stagger.tres"}, {"id": "cpu_0_2", "tick": 76, "end_tick": 78, "region": [60, -128, 55, 38], "damage": 16, "hitstun": 14, "hitstop": 3, "launch": 0, "knockback": 0, "xp": 0, "effect": "burst", "camera": 1, "impact_profile": "res://impacts/light.tres", "reaction_profile": "res://reactions/light_stagger.tres"}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([])
+chain_open = 126
+chain_close = 126
+resource_cost = 0
+resource_gain = 0
+reach = 350.0
+staging = {"distance": 100, "entry_offset": 140, "approach_start": 4, "approach_end": 40, "commit_tick": 38, "exit_start": 104, "exit_end": 126, "max_correction": 650, "alignment_limit": 18, "height_ratio": 0, "max_elevation": 140}
+category = "normal"

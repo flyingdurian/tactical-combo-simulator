@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="CharacterDefinition" load_steps=3 format=3]
+[ext_resource type="Script" path="res://battle/CharacterDefinition.gd" id="1"]
+[ext_resource type="Resource" path="res://sounds/kosmos.tres" id="voice"]
+[resource]
+script = ExtResource("1")
+character_id = "kosmos"
+display_name = "KOS-MOS"
+idle_texture = "res://assets/characters/kos_mos/frames/idle_00.png"
+tint = Color(0.35,0.85,1,1)
+artwork_status = "KOS-MOS supplied poses / provisional timing"
+main_sequences = Array[String](["res://moves/kosmos_arc.tres", "res://moves/kosmos_barrage.tres", "res://moves/kosmos_up.tres", "res://moves/kosmos_down.tres", "res://moves/kosmos_right.tres"])
+assist_sequence = "res://moves/kosmos_assist.tres"
+special_sequence = ""
+
+sprite_flip_h = true
+
+special_sequences = Array[String](["res://moves/kosmos_special_1.tres", "res://moves/kosmos_special_2.tres"])
+ultimate_sequence = "res://moves/kosmos_ultimate.tres"
+
+native_facing = -1
+portrait_texture = "res://assets/characters/kos_mos/frames/idle_00.png"
+assist_variants = Array[String](["res://moves/kosmos_assist.tres"])
+hurt_texture = "res://assets/characters/kos_mos/frames/hurt_00.png"
+sprite_frames = "res://assets/characters/kos_mos/KOSMOS_SpriteFrames.tres"
+source_manifest = "res://assets/characters/kos_mos/manifest.json"
+supported_roles = Array[String](["main", "assist"])
+availability_note = "Complete prototype move slots; sparse inspected poses, authored timing."
+
+portrait_region = Rect2(118,62,48,50)
+
+sound_profile = ExtResource("voice")

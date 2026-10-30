@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ReactionProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/ReactionProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+profile_id = "downward_finish"
+recoil = 8
+recoil_ticks = 18
+tilt = 0.15
+squash = 0.1
+electrical_ticks = 0

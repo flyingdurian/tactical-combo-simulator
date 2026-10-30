@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="ImpactProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/ImpactProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+profile_id = "finisher"
+color = Color(1.0,0.6705882352941176,0.32941176470588235,1)
+spark_count = 13
+directional_streaks = 6
+radius = 55
+shock_ring = true
+debris = 7
+hitstop = 7
+camera_impulse = 3.2
+number_scale = 1.55
+rim_strength = 0.55
+sound_layers = Array[String](["crack", "bass"])

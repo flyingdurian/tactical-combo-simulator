@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="ImpactProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/ImpactProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+profile_id = "ultimate"
+color = Color(0.5607843137254902,0.9568627450980393,1.0,1)
+core_color = Color(1.0,0.9490196078431372,0.796078431372549,1)
+spark_count = 16
+directional_streaks = 8
+radius = 78
+shock_ring = true
+debris = 8
+electrical_branches = 5
+arc_lifetime = 0.65
+hitstop = 10
+camera_impulse = 4
+number_scale = 1.8
+rim_strength = 0.65
+screen_flash = 0.08
+lingering = 0.7
+sound_layers = Array[String](["finish", "electric"])

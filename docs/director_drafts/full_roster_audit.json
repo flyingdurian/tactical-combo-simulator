@@ -1,0 +1,2713 @@
+{
+  "kosmos_arc": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 78,
+      "poses": 7,
+      "unique_poses": 3,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 36,
+      "recovery_ticks": 42,
+      "hit_gaps_ticks": [
+        18
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        18,
+        6,
+        7,
+        5,
+        6,
+        13,
+        23
+      ]
+    }
+  },
+  "chunli_assist": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 58,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 3,
+      "first_hit_tick": 18,
+      "final_hit_tick": 30,
+      "recovery_ticks": 28,
+      "hit_gaps_ticks": [
+        6,
+        6
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        6,
+        12,
+        6,
+        6,
+        8,
+        8,
+        12
+      ]
+    }
+  },
+  "xiaoyu_assist": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 62,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 17,
+      "final_hit_tick": 26,
+      "recovery_ticks": 36,
+      "hit_gaps_ticks": [
+        9
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        6,
+        10,
+        10,
+        8,
+        10,
+        18
+      ]
+    }
+  },
+  "kosmos_assist": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 78,
+      "poses": 7,
+      "unique_poses": 3,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 36,
+      "recovery_ticks": 42,
+      "hit_gaps_ticks": [
+        18
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        18,
+        6,
+        7,
+        5,
+        6,
+        13,
+        23
+      ]
+    }
+  },
+  "kosmos_barrage": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 70,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 3,
+      "first_hit_tick": 18,
+      "final_hit_tick": 34,
+      "recovery_ticks": 36,
+      "hit_gaps_ticks": [
+        8,
+        8
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        6,
+        6,
+        6,
+        8,
+        8,
+        8,
+        8,
+        20
+      ]
+    }
+  },
+  "cpu_0": {
+    "errors": [],
+    "warnings": [
+      "No pose track (perhaps CPU placeholder)"
+    ],
+    "metrics": {}
+  },
+  "cpu_1": {
+    "errors": [],
+    "warnings": [
+      "No pose track (perhaps CPU placeholder)"
+    ],
+    "metrics": {}
+  },
+  "kosmos_up": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 78,
+      "poses": 7,
+      "unique_poses": 3,
+      "hits": 2,
+      "first_hit_tick": 16,
+      "final_hit_tick": 36,
+      "recovery_ticks": 42,
+      "hit_gaps_ticks": [
+        20
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        6,
+        8,
+        6,
+        6,
+        12,
+        24
+      ]
+    }
+  },
+  "kosmos_right": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 76,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 3,
+      "first_hit_tick": 18,
+      "final_hit_tick": 42,
+      "recovery_ticks": 34,
+      "hit_gaps_ticks": [
+        12,
+        12
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        10,
+        8,
+        5,
+        7,
+        5,
+        7,
+        7,
+        27
+      ]
+    }
+  },
+  "kosmos_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 78,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 3,
+      "first_hit_tick": 18,
+      "final_hit_tick": 44,
+      "recovery_ticks": 34,
+      "hit_gaps_ticks": [
+        13,
+        13
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        12,
+        6,
+        6,
+        7,
+        6,
+        7,
+        9,
+        25
+      ]
+    }
+  },
+  "kosmos_special_1": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 74,
+      "poses": 9,
+      "unique_poses": 9,
+      "hits": 5,
+      "first_hit_tick": 18,
+      "final_hit_tick": 42,
+      "recovery_ticks": 32,
+      "hit_gaps_ticks": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        12,
+        20
+      ]
+    }
+  },
+  "kosmos_special_2": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 84,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 3,
+      "first_hit_tick": 16,
+      "final_hit_tick": 50,
+      "recovery_ticks": 34,
+      "hit_gaps_ticks": [
+        21,
+        13
+      ],
+      "gap_variation": 4.0,
+      "pose_ticks": [
+        16,
+        6,
+        8,
+        7,
+        7,
+        6,
+        10,
+        24
+      ]
+    }
+  },
+  "kosmos_ultimate": {
+    "errors": [],
+    "warnings": [
+      "Hit lance_1 on long held pose 0 (420 ticks)",
+      "Hit lance_2 on long held pose 0 (420 ticks)",
+      "Hit lance_3 on long held pose 0 (420 ticks)",
+      "Hit lance_4 on long held pose 0 (420 ticks)",
+      "Hit lance_5 on long held pose 0 (420 ticks)",
+      "Hit lance_6 on long held pose 0 (420 ticks)",
+      "Hit lance_7 on long held pose 0 (420 ticks)",
+      "Hit lance_8 on long held pose 0 (420 ticks)",
+      "Hit lance_9 on long held pose 0 (420 ticks)",
+      "Large empty interval between hits"
+    ],
+    "metrics": {
+      "duration": 420,
+      "poses": 1,
+      "unique_poses": 1,
+      "hits": 9,
+      "first_hit_tick": 110,
+      "final_hit_tick": 360,
+      "recovery_ticks": 60,
+      "hit_gaps_ticks": [
+        46,
+        16,
+        30,
+        16,
+        30,
+        16,
+        30,
+        66
+      ],
+      "gap_variation": 16.31,
+      "pose_ticks": [
+        420
+      ]
+    }
+  },
+  "chunli_neutral": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 74,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 17,
+      "final_hit_tick": 37,
+      "recovery_ticks": 37,
+      "hit_gaps_ticks": [
+        20
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        6,
+        6,
+        10,
+        10,
+        18
+      ]
+    }
+  },
+  "chunli_left": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 70,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 4,
+      "first_hit_tick": 22,
+      "final_hit_tick": 38,
+      "recovery_ticks": 32,
+      "hit_gaps_ticks": [
+        5,
+        5,
+        6
+      ],
+      "gap_variation": 0.47,
+      "pose_ticks": [
+        16,
+        5,
+        5,
+        5,
+        6,
+        7,
+        8,
+        18
+      ]
+    }
+  },
+  "chunli_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 74,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 29,
+      "final_hit_tick": 39,
+      "recovery_ticks": 35,
+      "hit_gaps_ticks": [
+        10
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        15,
+        7,
+        6,
+        10,
+        8,
+        10,
+        18
+      ]
+    }
+  },
+  "xiaoyu_neutral": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 77,
+      "poses": 7,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 17,
+      "final_hit_tick": 41,
+      "recovery_ticks": 36,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        9,
+        8,
+        7,
+        9,
+        10,
+        18
+      ]
+    }
+  },
+  "xiaoyu_left": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 82,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 3,
+      "first_hit_tick": 25,
+      "final_hit_tick": 47,
+      "recovery_ticks": 35,
+      "hit_gaps_ticks": [
+        14,
+        8
+      ],
+      "gap_variation": 3.0,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        6,
+        8,
+        8,
+        10,
+        18
+      ]
+    }
+  },
+  "xiaoyu_down": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 95,
+      "poses": 9,
+      "unique_poses": 9,
+      "hits": 2,
+      "first_hit_tick": 25,
+      "final_hit_tick": 58,
+      "recovery_ticks": 37,
+      "hit_gaps_ticks": [
+        33
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        9,
+        8,
+        8,
+        8,
+        10,
+        8,
+        20
+      ]
+    }
+  },
+  "chunli_up": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 84,
+      "poses": 9,
+      "unique_poses": 9,
+      "hits": 2,
+      "first_hit_tick": 27,
+      "final_hit_tick": 41,
+      "recovery_ticks": 43,
+      "hit_gaps_ticks": [
+        14
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        5,
+        5,
+        7,
+        7,
+        10,
+        8,
+        8,
+        18
+      ]
+    }
+  },
+  "chunli_right": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 78,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 3,
+      "first_hit_tick": 17,
+      "final_hit_tick": 53,
+      "recovery_ticks": 25,
+      "hit_gaps_ticks": [
+        8,
+        28
+      ],
+      "gap_variation": 10.0,
+      "pose_ticks": [
+        16,
+        8,
+        10,
+        10,
+        8,
+        8,
+        18
+      ]
+    }
+  },
+  "chunli_special_1": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence"
+    ],
+    "metrics": {
+      "duration": 90,
+      "poses": 11,
+      "unique_poses": 8,
+      "hits": 7,
+      "first_hit_tick": 25,
+      "final_hit_tick": 55,
+      "recovery_ticks": 35,
+      "hit_gaps_ticks": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        18,
+        6,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        8,
+        8,
+        20
+      ]
+    }
+  },
+  "chunli_special_2": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 96,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 3,
+      "first_hit_tick": 27,
+      "final_hit_tick": 53,
+      "recovery_ticks": 43,
+      "hit_gaps_ticks": [
+        16,
+        10
+      ],
+      "gap_variation": 3.0,
+      "pose_ticks": [
+        18,
+        8,
+        8,
+        8,
+        10,
+        12,
+        12,
+        20
+      ]
+    }
+  },
+  "chunli_ultimate": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 252,
+      "poses": 15,
+      "unique_poses": 15,
+      "hits": 8,
+      "first_hit_tick": 51,
+      "final_hit_tick": 186,
+      "recovery_ticks": 66,
+      "hit_gaps_ticks": [
+        12,
+        12,
+        10,
+        37,
+        14,
+        30,
+        20
+      ],
+      "gap_variation": 9.63,
+      "pose_ticks": [
+        30,
+        20,
+        12,
+        12,
+        10,
+        10,
+        15,
+        12,
+        14,
+        14,
+        16,
+        20,
+        12,
+        20,
+        35
+      ]
+    }
+  },
+  "xiaoyu_up": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 69,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 17,
+      "final_hit_tick": 33,
+      "recovery_ticks": 36,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        9,
+        7,
+        9,
+        10,
+        18
+      ]
+    }
+  },
+  "xiaoyu_right": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 111,
+      "poses": 12,
+      "unique_poses": 12,
+      "hits": 3,
+      "first_hit_tick": 38,
+      "final_hit_tick": 86,
+      "recovery_ticks": 25,
+      "hit_gaps_ticks": [
+        16,
+        32
+      ],
+      "gap_variation": 8.0,
+      "pose_ticks": [
+        16,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        18
+      ]
+    }
+  },
+  "xiaoyu_special_1": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 94,
+      "poses": 9,
+      "unique_poses": 8,
+      "hits": 3,
+      "first_hit_tick": 19,
+      "final_hit_tick": 56,
+      "recovery_ticks": 38,
+      "hit_gaps_ticks": [
+        22,
+        15
+      ],
+      "gap_variation": 3.5,
+      "pose_ticks": [
+        18,
+        9,
+        6,
+        7,
+        9,
+        6,
+        9,
+        10,
+        20
+      ]
+    }
+  },
+  "xiaoyu_special_2": {
+    "errors": [],
+    "warnings": [
+      "Large empty interval between hits"
+    ],
+    "metrics": {
+      "duration": 110,
+      "poses": 10,
+      "unique_poses": 10,
+      "hits": 3,
+      "first_hit_tick": 17,
+      "final_hit_tick": 81,
+      "recovery_ticks": 29,
+      "hit_gaps_ticks": [
+        16,
+        48
+      ],
+      "gap_variation": 16.0,
+      "pose_ticks": [
+        16,
+        9,
+        7,
+        10,
+        10,
+        8,
+        10,
+        10,
+        10,
+        20
+      ]
+    }
+  },
+  "xiaoyu_ultimate": {
+    "errors": [],
+    "warnings": [
+      "Large empty interval between hits"
+    ],
+    "metrics": {
+      "duration": 286,
+      "poses": 18,
+      "unique_poses": 18,
+      "hits": 6,
+      "first_hit_tick": 49,
+      "final_hit_tick": 221,
+      "recovery_ticks": 65,
+      "hit_gaps_ticks": [
+        26,
+        52,
+        26,
+        26,
+        42
+      ],
+      "gap_variation": 10.76,
+      "pose_ticks": [
+        28,
+        20,
+        14,
+        12,
+        14,
+        12,
+        14,
+        12,
+        14,
+        12,
+        14,
+        12,
+        16,
+        14,
+        12,
+        14,
+        16,
+        36
+      ]
+    }
+  },
+  "reiji_neutral": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 80,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 33,
+      "final_hit_tick": 51,
+      "recovery_ticks": 29,
+      "hit_gaps_ticks": [
+        18
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        10,
+        8,
+        10,
+        20
+      ]
+    }
+  },
+  "reiji_assist": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 61,
+      "poses": 5,
+      "unique_poses": 5,
+      "hits": 2,
+      "first_hit_tick": 17,
+      "final_hit_tick": 34,
+      "recovery_ticks": 27,
+      "hit_gaps_ticks": [
+        17
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        9,
+        8,
+        10,
+        18
+      ]
+    }
+  },
+  "xiaomu_neutral": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 78,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 33,
+      "final_hit_tick": 49,
+      "recovery_ticks": 29,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        7,
+        9,
+        8,
+        8,
+        10,
+        20
+      ]
+    }
+  },
+  "xiaomu_assist": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 77,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 25,
+      "final_hit_tick": 41,
+      "recovery_ticks": 36,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        9,
+        8,
+        20
+      ]
+    }
+  },
+  "morrigan_neutral": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 84,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 2,
+      "first_hit_tick": 32,
+      "final_hit_tick": 49,
+      "recovery_ticks": 35,
+      "hit_gaps_ticks": [
+        17
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        7,
+        9,
+        8,
+        10,
+        8,
+        18
+      ]
+    }
+  },
+  "morrigan_assist": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 86,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 2,
+      "first_hit_tick": 32,
+      "final_hit_tick": 57,
+      "recovery_ticks": 29,
+      "hit_gaps_ticks": [
+        25
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        7,
+        8,
+        9,
+        8,
+        10,
+        20
+      ]
+    }
+  },
+  "reiji_left": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 77,
+      "poses": 7,
+      "unique_poses": 4,
+      "hits": 2,
+      "first_hit_tick": 17,
+      "final_hit_tick": 41,
+      "recovery_ticks": 36,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        9,
+        20
+      ]
+    }
+  },
+  "reiji_up": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 80,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 25,
+      "final_hit_tick": 42,
+      "recovery_ticks": 38,
+      "hit_gaps_ticks": [
+        17
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        9,
+        10,
+        9,
+        20
+      ]
+    }
+  },
+  "reiji_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 89,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 19,
+      "final_hit_tick": 48,
+      "recovery_ticks": 41,
+      "hit_gaps_ticks": [
+        29
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        18,
+        10,
+        9,
+        10,
+        12,
+        10,
+        20
+      ]
+    }
+  },
+  "reiji_right": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 78,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 33,
+      "final_hit_tick": 49,
+      "recovery_ticks": 29,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        10,
+        20
+      ]
+    }
+  },
+  "reiji_special_1": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 89,
+      "poses": 8,
+      "unique_poses": 5,
+      "hits": 4,
+      "first_hit_tick": 19,
+      "final_hit_tick": 43,
+      "recovery_ticks": 46,
+      "hit_gaps_ticks": [
+        8,
+        8,
+        8
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        18,
+        8,
+        8,
+        8,
+        8,
+        9,
+        8,
+        22
+      ]
+    }
+  },
+  "reiji_special_2": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 86,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 3,
+      "first_hit_tick": 27,
+      "final_hit_tick": 55,
+      "recovery_ticks": 31,
+      "hit_gaps_ticks": [
+        10,
+        18
+      ],
+      "gap_variation": 4.0,
+      "pose_ticks": [
+        18,
+        8,
+        10,
+        10,
+        8,
+        10,
+        22
+      ]
+    }
+  },
+  "reiji_ultimate": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Large empty interval between hits"
+    ],
+    "metrics": {
+      "duration": 279,
+      "poses": 14,
+      "unique_poses": 11,
+      "hits": 6,
+      "first_hit_tick": 49,
+      "final_hit_tick": 200,
+      "recovery_ticks": 79,
+      "hit_gaps_ticks": [
+        14,
+        69,
+        14,
+        36,
+        18
+      ],
+      "gap_variation": 21.04,
+      "pose_ticks": [
+        28,
+        20,
+        14,
+        14,
+        14,
+        25,
+        16,
+        14,
+        16,
+        20,
+        18,
+        18,
+        22,
+        40
+      ]
+    }
+  },
+  "xiaomu_left": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 76,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 25,
+      "final_hit_tick": 40,
+      "recovery_ticks": 36,
+      "hit_gaps_ticks": [
+        15
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        7,
+        9,
+        8,
+        20
+      ]
+    }
+  },
+  "xiaomu_up": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 87,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 2,
+      "first_hit_tick": 25,
+      "final_hit_tick": 41,
+      "recovery_ticks": 46,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        9,
+        8,
+        10,
+        20
+      ]
+    }
+  },
+  "xiaomu_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 89,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 51,
+      "recovery_ticks": 38,
+      "hit_gaps_ticks": [
+        25
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        9,
+        8,
+        8,
+        9,
+        9,
+        10,
+        20
+      ]
+    }
+  },
+  "xiaomu_right": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 79,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 17,
+      "final_hit_tick": 43,
+      "recovery_ticks": 36,
+      "hit_gaps_ticks": [
+        26
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        9,
+        8,
+        9,
+        8,
+        9,
+        20
+      ]
+    }
+  },
+  "xiaomu_special_1": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 96,
+      "poses": 9,
+      "unique_poses": 9,
+      "hits": 4,
+      "first_hit_tick": 27,
+      "final_hit_tick": 51,
+      "recovery_ticks": 45,
+      "hit_gaps_ticks": [
+        8,
+        8,
+        8
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        18,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        22
+      ]
+    }
+  },
+  "xiaomu_special_2": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 89,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 27,
+      "final_hit_tick": 46,
+      "recovery_ticks": 43,
+      "hit_gaps_ticks": [
+        19
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        18,
+        8,
+        10,
+        9,
+        10,
+        10,
+        24
+      ]
+    }
+  },
+  "xiaomu_ultimate": {
+    "errors": [],
+    "warnings": [
+      "Hit xiaomu_ultimate_6 on long held pose 11 (25 ticks)"
+    ],
+    "metrics": {
+      "duration": 271,
+      "poses": 13,
+      "unique_poses": 13,
+      "hits": 7,
+      "first_hit_tick": 83,
+      "final_hit_tick": 205,
+      "recovery_ticks": 66,
+      "hit_gaps_ticks": [
+        16,
+        15,
+        17,
+        17,
+        39,
+        18
+      ],
+      "gap_variation": 8.4,
+      "pose_ticks": [
+        28,
+        18,
+        16,
+        20,
+        16,
+        15,
+        17,
+        17,
+        19,
+        20,
+        18,
+        25,
+        42
+      ]
+    }
+  },
+  "morrigan_left": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 64,
+      "poses": 5,
+      "unique_poses": 3,
+      "hits": 2,
+      "first_hit_tick": 17,
+      "final_hit_tick": 35,
+      "recovery_ticks": 29,
+      "hit_gaps_ticks": [
+        18
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        10,
+        8,
+        10,
+        20
+      ]
+    }
+  },
+  "morrigan_up": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 96,
+      "poses": 9,
+      "unique_poses": 9,
+      "hits": 2,
+      "first_hit_tick": 33,
+      "final_hit_tick": 57,
+      "recovery_ticks": 39,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        10,
+        10,
+        20
+      ]
+    }
+  },
+  "morrigan_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 93,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 44,
+      "recovery_ticks": 49,
+      "hit_gaps_ticks": [
+        18
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        9,
+        9,
+        9,
+        10,
+        10,
+        10,
+        20
+      ]
+    }
+  },
+  "morrigan_right": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 95,
+      "poses": 9,
+      "unique_poses": 9,
+      "hits": 3,
+      "first_hit_tick": 25,
+      "final_hit_tick": 57,
+      "recovery_ticks": 38,
+      "hit_gaps_ticks": [
+        16,
+        16
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        9,
+        10,
+        20
+      ]
+    }
+  },
+  "morrigan_special_1": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence"
+    ],
+    "metrics": {
+      "duration": 84,
+      "poses": 7,
+      "unique_poses": 3,
+      "hits": 3,
+      "first_hit_tick": 19,
+      "final_hit_tick": 51,
+      "recovery_ticks": 33,
+      "hit_gaps_ticks": [
+        16,
+        16
+      ],
+      "gap_variation": 0.0,
+      "pose_ticks": [
+        18,
+        9,
+        7,
+        9,
+        7,
+        10,
+        24
+      ]
+    }
+  },
+  "morrigan_special_2": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 97,
+      "poses": 8,
+      "unique_poses": 8,
+      "hits": 2,
+      "first_hit_tick": 27,
+      "final_hit_tick": 54,
+      "recovery_ticks": 43,
+      "hit_gaps_ticks": [
+        27
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        18,
+        8,
+        9,
+        9,
+        9,
+        10,
+        10,
+        24
+      ]
+    }
+  },
+  "morrigan_ultimate": {
+    "errors": [],
+    "warnings": [
+      "Large empty interval between hits"
+    ],
+    "metrics": {
+      "duration": 304,
+      "poses": 16,
+      "unique_poses": 16,
+      "hits": 6,
+      "first_hit_tick": 79,
+      "final_hit_tick": 229,
+      "recovery_ticks": 75,
+      "hit_gaps_ticks": [
+        28,
+        16,
+        56,
+        18,
+        32
+      ],
+      "gap_variation": 14.31,
+      "pose_ticks": [
+        30,
+        18,
+        16,
+        14,
+        14,
+        14,
+        16,
+        18,
+        18,
+        20,
+        18,
+        16,
+        16,
+        18,
+        18,
+        40
+      ]
+    }
+  },
+  "t_elos_neutral": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "t_elos_left": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "t_elos_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "t_elos_assist": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "ryu_neutral": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "ryu_left": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "ryu_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 34,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "ryu_assist": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "ken_neutral": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "ken_left": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "ken_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 26,
+      "recovery_ticks": 38,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "ken_assist": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "sheath_neutral": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "sheath_left": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 42,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "sheath_down": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "sheath_assist": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 42,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "saya_neutral": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "saya_left": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 34,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "saya_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 34,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "saya_assist": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 34,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "dante_neutral": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "dante_left": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "dante_down": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "dante_assist": {
+    "errors": [],
+    "warnings": [
+      "Exact same pose PNG reused in sequence",
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "vergil_neutral": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "vergil_left": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "vergil_down": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "vergil_assist": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "captain_commando_neutral": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "captain_commando_left": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 58,
+      "recovery_ticks": 14,
+      "hit_gaps_ticks": [
+        40
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "captain_commando_down": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 56,
+      "poses": 5,
+      "unique_poses": 5,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 34,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "captain_commando_assist": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 58,
+      "recovery_ticks": 14,
+      "hit_gaps_ticks": [
+        40
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "natsu_neutral": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 34,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "natsu_left": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 56,
+      "poses": 5,
+      "unique_poses": 5,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 34,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "natsu_down": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 64,
+      "poses": 6,
+      "unique_poses": 6,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 42,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "natsu_assist": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 56,
+      "poses": 5,
+      "unique_poses": 5,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 34,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        16
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "juri_han_neutral": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 18,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "juri_han_left": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "juri_han_down": {
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 26,
+      "final_hit_tick": 50,
+      "recovery_ticks": 22,
+      "hit_gaps_ticks": [
+        24
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  },
+  "juri_han_assist": {
+    "errors": [],
+    "warnings": [
+      "Last hit occurs before 60% of duration (check recovery pacing)"
+    ],
+    "metrics": {
+      "duration": 72,
+      "poses": 7,
+      "unique_poses": 7,
+      "hits": 2,
+      "first_hit_tick": 34,
+      "final_hit_tick": 42,
+      "recovery_ticks": 30,
+      "hit_gaps_ticks": [
+        8
+      ],
+      "gap_variation": null,
+      "pose_ticks": [
+        16,
+        8,
+        8,
+        8,
+        8,
+        8,
+        16
+      ]
+    }
+  }
+}

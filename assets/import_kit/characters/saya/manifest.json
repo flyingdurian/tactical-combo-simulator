@@ -1,0 +1,2561 @@
+{
+  "character": "Saya",
+  "source_game": "Project X Zone 2",
+  "source_original_archive": "Project x Zone 2 - 10 character Sprite pack.zip",
+  "count_assembled_poses": 67,
+  "count_candidate_sequences": 5,
+  "state": "asset-import-candidate-not-runtime-verified",
+  "coordinate_convention": "0-based pixel x0/y0/x1/y1 inclusive",
+  "images": [
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c01",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2,
+        518,
+        153,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 1,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        33,
+        44,
+        105,
+        142
+      ],
+      "visible_pixels": 2922,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 625,
+        "red": 582,
+        "blue": 14,
+        "warm": 534,
+        "pixels": 2922
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c02",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        156,
+        518,
+        307,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 2,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        51,
+        44,
+        114,
+        142
+      ],
+      "visible_pixels": 2692,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 607,
+        "red": 498,
+        "blue": 24,
+        "warm": 490,
+        "pixels": 2692
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c03",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        310,
+        518,
+        461,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 3,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        119,
+        141
+      ],
+      "visible_pixels": 2867,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 520,
+        "red": 583,
+        "blue": 0,
+        "warm": 596,
+        "pixels": 2867
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c04",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        464,
+        518,
+        615,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 4,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        117,
+        141
+      ],
+      "visible_pixels": 2748,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 500,
+        "red": 596,
+        "blue": 0,
+        "warm": 592,
+        "pixels": 2748
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c05",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        618,
+        518,
+        769,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 5,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        119,
+        141
+      ],
+      "visible_pixels": 2866,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 520,
+        "red": 584,
+        "blue": 0,
+        "warm": 596,
+        "pixels": 2866
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c06",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        772,
+        518,
+        923,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 6,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        127,
+        141
+      ],
+      "visible_pixels": 2880,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 523,
+        "red": 592,
+        "blue": 0,
+        "warm": 602,
+        "pixels": 2880
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c07",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        926,
+        518,
+        1077,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 7,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        136,
+        141
+      ],
+      "visible_pixels": 2881,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 534,
+        "red": 598,
+        "blue": 0,
+        "warm": 587,
+        "pixels": 2881
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c08",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1080,
+        518,
+        1231,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 8,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        133,
+        141
+      ],
+      "visible_pixels": 2867,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 527,
+        "red": 608,
+        "blue": 0,
+        "warm": 608,
+        "pixels": 2867
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c09",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1234,
+        518,
+        1385,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 9,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        51,
+        44,
+        114,
+        142
+      ],
+      "visible_pixels": 2721,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 599,
+        "red": 521,
+        "blue": 24,
+        "warm": 478,
+        "pixels": 2721
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c10",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1388,
+        518,
+        1539,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 10,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        43,
+        47,
+        106,
+        138
+      ],
+      "visible_pixels": 2384,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 608,
+        "red": 383,
+        "blue": 6,
+        "warm": 411,
+        "pixels": 2384
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c11",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1542,
+        518,
+        1693,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 11,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        63,
+        51,
+        137,
+        139
+      ],
+      "visible_pixels": 2666,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 531,
+        "red": 287,
+        "blue": 48,
+        "warm": 331,
+        "pixels": 2666
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c12",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1696,
+        518,
+        1847,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 12,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        60,
+        51,
+        124,
+        135
+      ],
+      "visible_pixels": 2578,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 443,
+        "red": 326,
+        "blue": 88,
+        "warm": 372,
+        "pixels": 2578
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c13",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1850,
+        518,
+        2001,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 13,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        44,
+        36,
+        132,
+        129
+      ],
+      "visible_pixels": 2950,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 566,
+        "red": 485,
+        "blue": 96,
+        "warm": 500,
+        "pixels": 2950
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c14",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2004,
+        518,
+        2155,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 14,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        38,
+        49,
+        127,
+        127
+      ],
+      "visible_pixels": 2747,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 718,
+        "red": 519,
+        "blue": 38,
+        "warm": 493,
+        "pixels": 2747
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r001_c15",
+      "png": "frames/ect_x_zone_2_enemies_saya_r001_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2158,
+        518,
+        2309,
+        685
+      ],
+      "grid_row": 1,
+      "grid_column": 15,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        40,
+        49,
+        116,
+        135
+      ],
+      "visible_pixels": 2626,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 699,
+        "red": 511,
+        "blue": 30,
+        "warm": 571,
+        "pixels": 2626
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c01",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2,
+        688,
+        153,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 1,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        1,
+        34,
+        131,
+        149
+      ],
+      "visible_pixels": 3257,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 784,
+        "red": 616,
+        "blue": 36,
+        "warm": 574,
+        "pixels": 3257
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c02",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        156,
+        688,
+        307,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 2,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        39,
+        40,
+        109,
+        167
+      ],
+      "visible_pixels": 2957,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 675,
+        "red": 616,
+        "blue": 33,
+        "warm": 578,
+        "pixels": 2957
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c03",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        310,
+        688,
+        461,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 3,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        47,
+        69,
+        133,
+        144
+      ],
+      "visible_pixels": 2591,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 562,
+        "red": 468,
+        "blue": 28,
+        "warm": 473,
+        "pixels": 2591
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c04",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        464,
+        688,
+        615,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 4,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        26,
+        33,
+        133,
+        128
+      ],
+      "visible_pixels": 3254,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 688,
+        "red": 460,
+        "blue": 38,
+        "warm": 421,
+        "pixels": 3254
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c05",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        618,
+        688,
+        769,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 5,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        38,
+        48,
+        123,
+        118
+      ],
+      "visible_pixels": 2695,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 758,
+        "red": 369,
+        "blue": 55,
+        "warm": 334,
+        "pixels": 2695
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c06",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        772,
+        688,
+        923,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 6,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        19,
+        54,
+        126,
+        142
+      ],
+      "visible_pixels": 2761,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 612,
+        "red": 551,
+        "blue": 27,
+        "warm": 450,
+        "pixels": 2761
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c07",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        926,
+        688,
+        1077,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 7,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        51,
+        44,
+        114,
+        142
+      ],
+      "visible_pixels": 2764,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 611,
+        "red": 489,
+        "blue": 24,
+        "warm": 462,
+        "pixels": 2764
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c08",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1080,
+        688,
+        1231,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 8,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        110,
+        141
+      ],
+      "visible_pixels": 2703,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 562,
+        "red": 478,
+        "blue": 107,
+        "warm": 485,
+        "pixels": 2703
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c09",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1234,
+        688,
+        1385,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 9,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        118,
+        141
+      ],
+      "visible_pixels": 2749,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 545,
+        "red": 547,
+        "blue": 127,
+        "warm": 527,
+        "pixels": 2749
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c10",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1388,
+        688,
+        1539,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 10,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        19,
+        117,
+        141
+      ],
+      "visible_pixels": 3049,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 548,
+        "red": 587,
+        "blue": 127,
+        "warm": 579,
+        "pixels": 3049
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c11",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1542,
+        688,
+        1693,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 11,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        16,
+        132,
+        141
+      ],
+      "visible_pixels": 3006,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 546,
+        "red": 584,
+        "blue": 131,
+        "warm": 595,
+        "pixels": 3006
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c12",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1696,
+        688,
+        1847,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 12,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        44,
+        110,
+        141
+      ],
+      "visible_pixels": 2701,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 560,
+        "red": 480,
+        "blue": 108,
+        "warm": 485,
+        "pixels": 2701
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c13",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1850,
+        688,
+        2001,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 13,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        51,
+        44,
+        114,
+        142
+      ],
+      "visible_pixels": 2764,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 611,
+        "red": 489,
+        "blue": 24,
+        "warm": 462,
+        "pixels": 2764
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c14",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2004,
+        688,
+        2155,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 14,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        43,
+        47,
+        106,
+        138
+      ],
+      "visible_pixels": 2384,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 608,
+        "red": 383,
+        "blue": 6,
+        "warm": 411,
+        "pixels": 2384
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r002_c15",
+      "png": "frames/ect_x_zone_2_enemies_saya_r002_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2158,
+        688,
+        2309,
+        855
+      ],
+      "grid_row": 2,
+      "grid_column": 15,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        63,
+        51,
+        137,
+        139
+      ],
+      "visible_pixels": 2666,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 531,
+        "red": 287,
+        "blue": 48,
+        "warm": 331,
+        "pixels": 2666
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c01",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2,
+        858,
+        153,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 1,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        22,
+        46,
+        125,
+        127
+      ],
+      "visible_pixels": 2831,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 696,
+        "red": 536,
+        "blue": 28,
+        "warm": 459,
+        "pixels": 2831
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c02",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        156,
+        858,
+        307,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 2,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        56,
+        50,
+        136,
+        133
+      ],
+      "visible_pixels": 2809,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 554,
+        "red": 389,
+        "blue": 49,
+        "warm": 370,
+        "pixels": 2809
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c03",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        310,
+        858,
+        461,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 3,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        62,
+        50,
+        136,
+        133
+      ],
+      "visible_pixels": 2791,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 480,
+        "red": 588,
+        "blue": 32,
+        "warm": 568,
+        "pixels": 2791
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c04",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        464,
+        858,
+        615,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 4,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        62,
+        49,
+        136,
+        133
+      ],
+      "visible_pixels": 2761,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 528,
+        "red": 548,
+        "blue": 31,
+        "warm": 516,
+        "pixels": 2761
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c05",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        618,
+        858,
+        769,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 5,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        52,
+        46,
+        125,
+        129
+      ],
+      "visible_pixels": 2427,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 655,
+        "red": 476,
+        "blue": 27,
+        "warm": 367,
+        "pixels": 2427
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c06",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        772,
+        858,
+        923,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 6,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        39,
+        43,
+        150,
+        132
+      ],
+      "visible_pixels": 2817,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 786,
+        "red": 438,
+        "blue": 41,
+        "warm": 372,
+        "pixels": 2817
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c07",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        926,
+        858,
+        1077,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 7,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        39,
+        1,
+        129,
+        132
+      ],
+      "visible_pixels": 2959,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 780,
+        "red": 483,
+        "blue": 41,
+        "warm": 412,
+        "pixels": 2959
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c08",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1080,
+        858,
+        1231,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 8,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        11,
+        17,
+        129,
+        132
+      ],
+      "visible_pixels": 2984,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 798,
+        "red": 483,
+        "blue": 41,
+        "warm": 412,
+        "pixels": 2984
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c09",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1234,
+        858,
+        1385,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 9,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        7,
+        44,
+        129,
+        132
+      ],
+      "visible_pixels": 3021,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 822,
+        "red": 461,
+        "blue": 41,
+        "warm": 389,
+        "pixels": 3021
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c10",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1388,
+        858,
+        1539,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 10,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        49,
+        44,
+        129,
+        130
+      ],
+      "visible_pixels": 3029,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 765,
+        "red": 490,
+        "blue": 66,
+        "warm": 433,
+        "pixels": 3029
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c11",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1542,
+        858,
+        1693,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 11,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        61,
+        46,
+        128,
+        128
+      ],
+      "visible_pixels": 2119,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 367,
+        "red": 326,
+        "blue": 13,
+        "warm": 383,
+        "pixels": 2119
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c12",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1696,
+        858,
+        1847,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 12,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        54,
+        51,
+        132,
+        130
+      ],
+      "visible_pixels": 2703,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 467,
+        "red": 470,
+        "blue": 96,
+        "warm": 492,
+        "pixels": 2703
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c13",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1850,
+        858,
+        2001,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 13,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        53,
+        53,
+        127,
+        131
+      ],
+      "visible_pixels": 2648,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 632,
+        "red": 528,
+        "blue": 32,
+        "warm": 507,
+        "pixels": 2648
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c14",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2004,
+        858,
+        2155,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 14,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        56,
+        50,
+        124,
+        134
+      ],
+      "visible_pixels": 2319,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 581,
+        "red": 438,
+        "blue": 32,
+        "warm": 413,
+        "pixels": 2319
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r003_c15",
+      "png": "frames/ect_x_zone_2_enemies_saya_r003_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2158,
+        858,
+        2309,
+        1025
+      ],
+      "grid_row": 3,
+      "grid_column": 15,
+      "canvas_size": [
+        152,
+        168
+      ],
+      "bbox_inside_canvas": [
+        31,
+        50,
+        121,
+        130
+      ],
+      "visible_pixels": 2623,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 646,
+        "red": 478,
+        "blue": 27,
+        "warm": 400,
+        "pixels": 2623
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c01",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1200,
+        155,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 1,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        30,
+        24,
+        102,
+        122
+      ],
+      "visible_pixels": 2922,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 625,
+        "red": 582,
+        "blue": 14,
+        "warm": 534,
+        "pixels": 2922
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c02",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        158,
+        1200,
+        311,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 2,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        48,
+        24,
+        111,
+        122
+      ],
+      "visible_pixels": 2692,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 607,
+        "red": 498,
+        "blue": 24,
+        "warm": 490,
+        "pixels": 2692
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c03",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        314,
+        1200,
+        467,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 3,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        58,
+        24,
+        114,
+        121
+      ],
+      "visible_pixels": 2748,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 500,
+        "red": 596,
+        "blue": 0,
+        "warm": 592,
+        "pixels": 2748
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c04",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        470,
+        1200,
+        623,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 4,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        58,
+        24,
+        116,
+        121
+      ],
+      "visible_pixels": 2866,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 520,
+        "red": 584,
+        "blue": 0,
+        "warm": 596,
+        "pixels": 2866
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c05",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        626,
+        1200,
+        779,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 5,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        58,
+        24,
+        124,
+        121
+      ],
+      "visible_pixels": 2880,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 523,
+        "red": 592,
+        "blue": 0,
+        "warm": 602,
+        "pixels": 2880
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c06",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        782,
+        1200,
+        935,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 6,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        58,
+        24,
+        133,
+        121
+      ],
+      "visible_pixels": 2881,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 534,
+        "red": 598,
+        "blue": 0,
+        "warm": 587,
+        "pixels": 2881
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c07",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        938,
+        1200,
+        1091,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 7,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        58,
+        24,
+        130,
+        121
+      ],
+      "visible_pixels": 2867,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 527,
+        "red": 608,
+        "blue": 0,
+        "warm": 608,
+        "pixels": 2867
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c08",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1094,
+        1200,
+        1247,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 8,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        22,
+        27,
+        113,
+        120
+      ],
+      "visible_pixels": 2997,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 674,
+        "red": 594,
+        "blue": 32,
+        "warm": 547,
+        "pixels": 2997
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c09",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1250,
+        1200,
+        1403,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 9,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        28,
+        30,
+        110,
+        110
+      ],
+      "visible_pixels": 2654,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 637,
+        "red": 478,
+        "blue": 27,
+        "warm": 409,
+        "pixels": 2654
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c10",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1406,
+        1200,
+        1559,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 10,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        29,
+        39,
+        136,
+        120
+      ],
+      "visible_pixels": 3164,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 729,
+        "red": 589,
+        "blue": 117,
+        "warm": 638,
+        "pixels": 3164
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c11",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1562,
+        1200,
+        1715,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 11,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        36,
+        33,
+        119,
+        106
+      ],
+      "visible_pixels": 2509,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 690,
+        "red": 389,
+        "blue": 44,
+        "warm": 417,
+        "pixels": 2509
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c12",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1718,
+        1200,
+        1871,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 12,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        23,
+        42,
+        152,
+        102
+      ],
+      "visible_pixels": 2627,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 625,
+        "red": 539,
+        "blue": 26,
+        "warm": 497,
+        "pixels": 2627
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c13",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        1874,
+        1200,
+        2027,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 13,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        22,
+        35,
+        112,
+        118
+      ],
+      "visible_pixels": 2824,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 668,
+        "red": 681,
+        "blue": 27,
+        "warm": 596,
+        "pixels": 2824
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c14",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2030,
+        1200,
+        2183,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 14,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        57,
+        27,
+        121,
+        115
+      ],
+      "visible_pixels": 2481,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 391,
+        "red": 288,
+        "blue": 29,
+        "warm": 337,
+        "pixels": 2481
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c15",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2186,
+        1200,
+        2339,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 15,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        47,
+        23,
+        125,
+        120
+      ],
+      "visible_pixels": 2564,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 381,
+        "red": 321,
+        "blue": 43,
+        "warm": 336,
+        "pixels": 2564
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r004_c16",
+      "png": "frames/ect_x_zone_2_enemies_saya_r004_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2342,
+        1200,
+        2495,
+        1325
+      ],
+      "grid_row": 4,
+      "grid_column": 16,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        62,
+        15,
+        126,
+        115
+      ],
+      "visible_pixels": 2459,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 466,
+        "red": 431,
+        "blue": 37,
+        "warm": 463,
+        "pixels": 2459
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r005_c01",
+      "png": "frames/ect_x_zone_2_enemies_saya_r005_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1328,
+        155,
+        1453
+      ],
+      "grid_row": 5,
+      "grid_column": 1,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        29,
+        16,
+        92,
+        121
+      ],
+      "visible_pixels": 2672,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 655,
+        "red": 512,
+        "blue": 0,
+        "warm": 493,
+        "pixels": 2672
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r005_c02",
+      "png": "frames/ect_x_zone_2_enemies_saya_r005_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        158,
+        1328,
+        311,
+        1453
+      ],
+      "grid_row": 5,
+      "grid_column": 2,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        41,
+        26,
+        105,
+        124
+      ],
+      "visible_pixels": 2584,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 671,
+        "red": 506,
+        "blue": 28,
+        "warm": 409,
+        "pixels": 2584
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r005_c03",
+      "png": "frames/ect_x_zone_2_enemies_saya_r005_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        314,
+        1328,
+        467,
+        1453
+      ],
+      "grid_row": 5,
+      "grid_column": 3,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        18,
+        23,
+        103,
+        124
+      ],
+      "visible_pixels": 3104,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 685,
+        "red": 651,
+        "blue": 46,
+        "warm": 538,
+        "pixels": 3104
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r005_c04",
+      "png": "frames/ect_x_zone_2_enemies_saya_r005_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        470,
+        1328,
+        623,
+        1453
+      ],
+      "grid_row": 5,
+      "grid_column": 4,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        1,
+        27,
+        117,
+        125
+      ],
+      "visible_pixels": 3573,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 695,
+        "red": 787,
+        "blue": 26,
+        "warm": 746,
+        "pixels": 3573
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r005_c05",
+      "png": "frames/ect_x_zone_2_enemies_saya_r005_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        626,
+        1328,
+        779,
+        1453
+      ],
+      "grid_row": 5,
+      "grid_column": 5,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        1,
+        1,
+        136,
+        125
+      ],
+      "visible_pixels": 3810,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 718,
+        "red": 899,
+        "blue": 26,
+        "warm": 789,
+        "pixels": 3810
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_r005_c06",
+      "png": "frames/ect_x_zone_2_enemies_saya_r005_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Saya.png",
+      "crop_xyxy_inclusive": [
+        782,
+        1328,
+        935,
+        1453
+      ],
+      "grid_row": 5,
+      "grid_column": 6,
+      "canvas_size": [
+        154,
+        126
+      ],
+      "bbox_inside_canvas": [
+        1,
+        16,
+        95,
+        125
+      ],
+      "visible_pixels": 2961,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 652,
+        "red": 700,
+        "blue": 26,
+        "warm": 757,
+        "pixels": 2961
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    }
+  ],
+  "animations": [
+    {
+      "id": "ect_x_zone_2_enemies_saya_row001_take1",
+      "frames": [
+        "frames/ect_x_zone_2_enemies_saya_r001_c01.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c02.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c03.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c04.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c05.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c06.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c07.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c08.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c09.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c10.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c11.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c12.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c13.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c14.png",
+        "frames/ect_x_zone_2_enemies_saya_r001_c15.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_row": 1,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_row002_take1",
+      "frames": [
+        "frames/ect_x_zone_2_enemies_saya_r002_c01.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c02.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c03.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c04.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c05.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c06.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c07.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c08.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c09.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c10.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c11.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c12.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c13.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c14.png",
+        "frames/ect_x_zone_2_enemies_saya_r002_c15.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_row": 2,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_row003_take1",
+      "frames": [
+        "frames/ect_x_zone_2_enemies_saya_r003_c01.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c02.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c03.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c04.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c05.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c06.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c07.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c08.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c09.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c10.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c11.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c12.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c13.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c14.png",
+        "frames/ect_x_zone_2_enemies_saya_r003_c15.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_row": 3,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_row004_take1",
+      "frames": [
+        "frames/ect_x_zone_2_enemies_saya_r004_c01.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c02.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c03.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c04.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c05.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c06.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c07.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c08.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c09.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c10.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c11.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c12.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c13.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c14.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c15.png",
+        "frames/ect_x_zone_2_enemies_saya_r004_c16.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "source_row": 4,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "ect_x_zone_2_enemies_saya_row005_take1",
+      "frames": [
+        "frames/ect_x_zone_2_enemies_saya_r005_c01.png",
+        "frames/ect_x_zone_2_enemies_saya_r005_c02.png",
+        "frames/ect_x_zone_2_enemies_saya_r005_c03.png",
+        "frames/ect_x_zone_2_enemies_saya_r005_c04.png",
+        "frames/ect_x_zone_2_enemies_saya_r005_c05.png",
+        "frames/ect_x_zone_2_enemies_saya_r005_c06.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_row": 5,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    }
+  ],
+  "default_animation": "static_idle_placeholder",
+  "import_notes": [
+    "Use nearest pixel filtering. Use common canvas and explicit pivot for final runtime sequences.",
+    "Animation order/duration not embedded in PNG; groups provisional and must be reviewed.",
+    "Shared-sheet character identification uses color scoring. Review medium/low-confidence assignments.",
+    "Original source PNG retained separately and unchanged."
+  ],
+  "default_still_pose_png": "frames/ect_x_zone_2_enemies_saya_r001_c01.png",
+  "default_still_pose_selection": "first assembled-pose sequence, not first atlas cell; provisional static idle"
+}

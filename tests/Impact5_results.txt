@@ -1,0 +1,84 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+PASS bounded profile light
+PASS bounded profile heavy
+PASS bounded profile ballistic
+PASS bounded profile energy
+PASS bounded profile electrical
+PASS bounded profile launcher
+PASS bounded profile wall
+PASS bounded profile finisher
+PASS bounded profile ultimate
+PASS authored heavy contrast
+PASS ultimate starts / side false
+PASS cost once / duplicate input rejected
+PASS lower priority cannot steal camera
+PASS charge has no invisible damage or premature capture
+PASS capture requires real initial beam connection
+PASS capture owns motion; gravity and horizontal drift suspended
+PASS nine authored beam events / nine actual contacts
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS ultimate summary exactly matches actual damage
+PASS completion releases all owners
+PASS smooth camera return / global time unchanged
+PASS weapon/electric residue terminates
+PASS ultimate starts / side true
+PASS cost once / duplicate input rejected
+PASS lower priority cannot steal camera
+PASS charge has no invisible damage or premature capture
+PASS capture requires real initial beam connection
+PASS capture owns motion; gravity and horizontal drift suspended
+PASS nine authored beam events / nine actual contacts
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS impact belongs to clipped visible beam/hurt region
+PASS ultimate summary exactly matches actual damage
+PASS completion releases all owners
+PASS smooth camera return / global time unchanged
+PASS weapon/electric residue terminates
+PASS reset action/weapon stage 5
+PASS reset owner/audio stage 5
+PASS reset action/weapon stage 45
+PASS reset owner/audio stage 45
+PASS reset action/weapon stage 111
+PASS reset owner/audio stage 111
+PASS reset action/weapon stage 180
+PASS reset owner/audio stage 180
+PASS reset action/weapon stage 330
+PASS reset owner/audio stage 330
+PASS reset action/weapon stage 361
+PASS reset owner/audio stage 361
+PASS reset action/weapon stage 392
+PASS reset owner/audio stage 392
+PASS lethal opener latches defeat and reports actual one-point damage
+PASS lethal opener still completes weapon aftermath and cleanup
+PASS missed opening beam has no contact effects/damage/refund
+PASS whiff path stops future barrage and capture
+PASS zero shake/flash/density retains nine real contacts
+PASS shortened presentation preserves all events at faster tempo
+PASS capture atomically supersedes Cross
+PASS Cross cannot steal capture owner
+PASS wrong owner cannot release capture
+PASS capture watchdog releases abandoned state
+PASS electrical status cannot refresh indefinitely
+PASS launch and per-hit stun limits
+PASS bounded cumulative Cross suspension
+PASS electric arcs retain target anchor
+PASS electrical visuals/status end separately
+PASS observed effect budgets
+OBSERVED MAXIMA bursts=3 arcs=1 labels=3 beams=1
+IMPACT ACCEPTANCE: 80 checks / 0 failures

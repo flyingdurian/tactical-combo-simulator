@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "saya_assist"
+display_name = "Crimson Cover Support / prototype"
+character = "saya"
+role = "assist"
+category = "normal"
+purpose = "left"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/saya/frames/ect_x_zone_2_enemies_saya_r001_c01.png", "ticks": 16, "anchor": [76, 143], "native_facing": 1, "offset": [0, 0], "source_rectangle": [2, 518, 153, 685], "source_sheet": "3DS - Project X Zone 2 - Enemies - Saya.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/saya/frames/ect_x_zone_2_enemies_saya_r001_c03.png", "ticks": 8, "anchor": [76, 143], "native_facing": 1, "offset": [0, 0], "source_rectangle": [310, 518, 461, 685], "source_sheet": "3DS - Project X Zone 2 - Enemies - Saya.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/saya/frames/ect_x_zone_2_enemies_saya_r001_c05.png", "ticks": 8, "anchor": [76, 143], "native_facing": 1, "offset": [0, 0], "source_rectangle": [618, 518, 769, 685], "source_sheet": "3DS - Project X Zone 2 - Enemies - Saya.png", "mapping_status": "Prototype order and timing, not verified original move.", "anchors": {"muzzle": [117, 71]}}, {"path": "res://assets/import_kit/characters/saya/frames/ect_x_zone_2_enemies_saya_r001_c07.png", "ticks": 8, "anchor": [76, 143], "native_facing": 1, "offset": [0, 0], "source_rectangle": [926, 518, 1077, 685], "source_sheet": "3DS - Project X Zone 2 - Enemies - Saya.png", "mapping_status": "Prototype order and timing, not verified original move.", "anchors": {"muzzle": [117, 71]}}, {"path": "res://assets/import_kit/characters/saya/frames/ect_x_zone_2_enemies_saya_r001_c09.png", "ticks": 8, "anchor": [76, 143], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1234, 518, 1385, 685], "source_sheet": "3DS - Project X Zone 2 - Enemies - Saya.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/saya/frames/ect_x_zone_2_enemies_saya_r001_c11.png", "ticks": 16, "anchor": [76, 143], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1542, 518, 1693, 685], "source_sheet": "3DS - Project X Zone 2 - Enemies - Saya.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 64
+hit_events = Array[Dictionary]([{"id": "saya_left_0", "tick": 26, "end_tick": 28, "kind": "projectile", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/energy.tres", "origin_anchor": "muzzle", "origin": [69.7, -122.39999999999999], "speed": 1250, "flight_ticks": 35, "aim_snapshot": false, "visual": "bullet", "color": "#ff739f"}, {"id": "saya_left_1", "tick": 34, "end_tick": 36, "kind": "projectile", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/energy.tres", "origin_anchor": "muzzle", "origin": [69.7, -122.39999999999999], "speed": 1250, "flight_ticks": 35, "aim_snapshot": false, "visual": "bullet", "color": "#ff739f"}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "assist"}])
+chain_open = 50
+chain_close = 63
+cancel_open = 12
+cancel_close = 49
+staging = {"distance": 193, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 50, "exit_end": 64, "max_correction": 650, "alignment_limit": 20, "height_ratio": 0, "max_elevation": 0}

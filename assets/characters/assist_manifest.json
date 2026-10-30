@@ -1,0 +1,317 @@
+{
+  "source": "assets/characters/assist_source/ChunLi_Xiaoyu_original.png",
+  "sha256": "cbdf04dc48bb13cb5a673444db8e2a8e5eb1348750f75cec4f59ae5c049acd46",
+  "dimensions": [
+    2500,
+    7647
+  ],
+  "format": "PNG RGBA; no JPEG compression observed",
+  "method": "Edge-connected near-magenta (max difference 24) plus exact magenta only; no removal of black or non-background purple/pink. Assembled poses only.",
+  "notes": "Character identification visually reviewed: Chun-Li blue outfit/buns; Xiaoyu orange outfit/pigtails. Frame order and durations authored provisionally, not verified native animation order.",
+  "canvas": [
+    256,
+    196
+  ],
+  "pivot": [
+    128,
+    176
+  ],
+  "characters": {
+    "chunli": {
+      "idle": {
+        "path": "res://assets/characters/chunli/frames/idle.png",
+        "source_rectangle": [
+          818,
+          1344,
+          884,
+          1441
+        ],
+        "canvas_offset": [
+          95,
+          81
+        ],
+        "offset": [
+          0,
+          0
+        ],
+        "ticks": 60
+      },
+      "assist": [
+        {
+          "path": "res://assets/characters/chunli/frames/assist_00.png",
+          "source_rectangle": [
+            242,
+            1685,
+            360,
+            1803
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 14
+        },
+        {
+          "path": "res://assets/characters/chunli/frames/assist_01.png",
+          "source_rectangle": [
+            362,
+            1685,
+            480,
+            1803
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 10
+        },
+        {
+          "path": "res://assets/characters/chunli/frames/assist_02.png",
+          "source_rectangle": [
+            482,
+            1685,
+            600,
+            1803
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 6
+        },
+        {
+          "path": "res://assets/characters/chunli/frames/assist_03.png",
+          "source_rectangle": [
+            602,
+            1685,
+            720,
+            1803
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 6
+        },
+        {
+          "path": "res://assets/characters/chunli/frames/assist_04.png",
+          "source_rectangle": [
+            722,
+            1685,
+            840,
+            1803
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 6
+        },
+        {
+          "path": "res://assets/characters/chunli/frames/assist_05.png",
+          "source_rectangle": [
+            842,
+            1685,
+            960,
+            1803
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 8
+        },
+        {
+          "path": "res://assets/characters/chunli/frames/assist_06.png",
+          "source_rectangle": [
+            962,
+            1685,
+            1080,
+            1803
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 10
+        },
+        {
+          "path": "res://assets/characters/chunli/frames/assist_07.png",
+          "source_rectangle": [
+            1082,
+            1685,
+            1200,
+            1803
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 15
+        }
+      ]
+    },
+    "xiaoyu": {
+      "idle": {
+        "path": "res://assets/characters/xiaoyu/frames/idle.png",
+        "source_rectangle": [
+          2,
+          1344,
+          68,
+          1441
+        ],
+        "canvas_offset": [
+          95,
+          81
+        ],
+        "offset": [
+          0,
+          0
+        ],
+        "ticks": 60
+      },
+      "assist": [
+        {
+          "path": "res://assets/characters/xiaoyu/frames/assist_00.png",
+          "source_rectangle": [
+            242,
+            1445,
+            360,
+            1563
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 18
+        },
+        {
+          "path": "res://assets/characters/xiaoyu/frames/assist_01.png",
+          "source_rectangle": [
+            362,
+            1445,
+            480,
+            1563
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 12
+        },
+        {
+          "path": "res://assets/characters/xiaoyu/frames/assist_02.png",
+          "source_rectangle": [
+            482,
+            1445,
+            600,
+            1563
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 12
+        },
+        {
+          "path": "res://assets/characters/xiaoyu/frames/assist_03.png",
+          "source_rectangle": [
+            602,
+            1445,
+            720,
+            1563
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 6
+        },
+        {
+          "path": "res://assets/characters/xiaoyu/frames/assist_04.png",
+          "source_rectangle": [
+            722,
+            1445,
+            840,
+            1563
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 12
+        },
+        {
+          "path": "res://assets/characters/xiaoyu/frames/assist_05.png",
+          "source_rectangle": [
+            842,
+            1445,
+            960,
+            1563
+          ],
+          "canvas_offset": [
+            69,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "ticks": 25
+        }
+      ]
+    }
+  }
+}

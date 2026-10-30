@@ -1,0 +1,2830 @@
+{
+  "character": "Sheath",
+  "source_game": "Project X Zone 2",
+  "source_original_archive": "Project x Zone 2 - 10 character Sprite pack.zip",
+  "count_assembled_poses": 74,
+  "count_candidate_sequences": 6,
+  "state": "asset-import-candidate-not-runtime-verified",
+  "coordinate_convention": "0-based pixel x0/y0/x1/y1 inclusive",
+  "images": [
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c01",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1030,
+        175,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 1,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        66,
+        13,
+        130,
+        130
+      ],
+      "visible_pixels": 2944,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 339,
+        "red": 568,
+        "blue": 71,
+        "warm": 776,
+        "pixels": 2944
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c02",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        178,
+        1030,
+        351,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 2,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        67,
+        13,
+        126,
+        130
+      ],
+      "visible_pixels": 3049,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 375,
+        "red": 595,
+        "blue": 87,
+        "warm": 793,
+        "pixels": 3049
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c03",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        354,
+        1030,
+        527,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 3,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        59,
+        13,
+        130,
+        130
+      ],
+      "visible_pixels": 2896,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 342,
+        "red": 523,
+        "blue": 25,
+        "warm": 626,
+        "pixels": 2896
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c04",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        530,
+        1030,
+        703,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 4,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        49,
+        13,
+        125,
+        130
+      ],
+      "visible_pixels": 3252,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 500,
+        "red": 605,
+        "blue": 104,
+        "warm": 700,
+        "pixels": 3252
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c05",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        706,
+        1030,
+        879,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 5,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        26,
+        1,
+        126,
+        130
+      ],
+      "visible_pixels": 3509,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 460,
+        "red": 661,
+        "blue": 88,
+        "warm": 803,
+        "pixels": 3509
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c06",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        882,
+        1030,
+        1055,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 6,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        41,
+        36,
+        153,
+        111
+      ],
+      "visible_pixels": 2959,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 370,
+        "red": 560,
+        "blue": 130,
+        "warm": 408,
+        "pixels": 2959
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c07",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1058,
+        1030,
+        1231,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 7,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        42,
+        36,
+        155,
+        111
+      ],
+      "visible_pixels": 3152,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 378,
+        "red": 645,
+        "blue": 169,
+        "warm": 517,
+        "pixels": 3152
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c08",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1234,
+        1030,
+        1407,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 8,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        47,
+        13,
+        112,
+        124
+      ],
+      "visible_pixels": 2717,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 382,
+        "red": 484,
+        "blue": 123,
+        "warm": 399,
+        "pixels": 2717
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c09",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1410,
+        1030,
+        1583,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 9,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        62,
+        14,
+        128,
+        125
+      ],
+      "visible_pixels": 2518,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 334,
+        "red": 491,
+        "blue": 147,
+        "warm": 445,
+        "pixels": 2518
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c10",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1586,
+        1030,
+        1759,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 10,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        55,
+        16,
+        156,
+        120
+      ],
+      "visible_pixels": 3085,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 454,
+        "red": 490,
+        "blue": 51,
+        "warm": 641,
+        "pixels": 3085
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c11",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1762,
+        1030,
+        1935,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 11,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        7,
+        16,
+        135,
+        120
+      ],
+      "visible_pixels": 3387,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 499,
+        "red": 607,
+        "blue": 75,
+        "warm": 726,
+        "pixels": 3387
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c12",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1938,
+        1030,
+        2111,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 12,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        1,
+        15,
+        109,
+        128
+      ],
+      "visible_pixels": 3022,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 518,
+        "red": 442,
+        "blue": 89,
+        "warm": 567,
+        "pixels": 3022
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r001_c13",
+      "png": "frames/t_x_zone_2_enemies_sheath_r001_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2114,
+        1030,
+        2287,
+        1162
+      ],
+      "grid_row": 1,
+      "grid_column": 13,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        43,
+        20,
+        108,
+        129
+      ],
+      "visible_pixels": 2791,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 414,
+        "red": 356,
+        "blue": 82,
+        "warm": 432,
+        "pixels": 2791
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c01",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1165,
+        175,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 1,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        46,
+        30,
+        172,
+        115
+      ],
+      "visible_pixels": 3559,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 529,
+        "red": 547,
+        "blue": 194,
+        "warm": 538,
+        "pixels": 3559
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c02",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        178,
+        1165,
+        351,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 2,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        46,
+        31,
+        147,
+        118
+      ],
+      "visible_pixels": 3039,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 448,
+        "red": 426,
+        "blue": 157,
+        "warm": 438,
+        "pixels": 3039
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c03",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        354,
+        1165,
+        527,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 3,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        52,
+        15,
+        138,
+        119
+      ],
+      "visible_pixels": 2983,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 383,
+        "red": 471,
+        "blue": 86,
+        "warm": 625,
+        "pixels": 2983
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c04",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        530,
+        1165,
+        703,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 4,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        54,
+        13,
+        137,
+        130
+      ],
+      "visible_pixels": 3147,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 393,
+        "red": 536,
+        "blue": 107,
+        "warm": 675,
+        "pixels": 3147
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c05",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        706,
+        1165,
+        879,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 5,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        54,
+        13,
+        133,
+        130
+      ],
+      "visible_pixels": 3127,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 400,
+        "red": 544,
+        "blue": 101,
+        "warm": 707,
+        "pixels": 3127
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c06",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        882,
+        1165,
+        1055,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 6,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        66,
+        13,
+        128,
+        130
+      ],
+      "visible_pixels": 3130,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 419,
+        "red": 546,
+        "blue": 104,
+        "warm": 661,
+        "pixels": 3130
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c07",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1058,
+        1165,
+        1231,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 7,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        34,
+        17,
+        123,
+        130
+      ],
+      "visible_pixels": 3405,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 479,
+        "red": 603,
+        "blue": 80,
+        "warm": 721,
+        "pixels": 3405
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c08",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1234,
+        1165,
+        1407,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 8,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        50,
+        17,
+        155,
+        130
+      ],
+      "visible_pixels": 3640,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 508,
+        "red": 680,
+        "blue": 139,
+        "warm": 793,
+        "pixels": 3640
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c09",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1410,
+        1165,
+        1583,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 9,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        72,
+        17,
+        154,
+        129
+      ],
+      "visible_pixels": 2613,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 231,
+        "red": 379,
+        "blue": 119,
+        "warm": 477,
+        "pixels": 2613
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c10",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1586,
+        1165,
+        1759,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 10,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        57,
+        20,
+        128,
+        130
+      ],
+      "visible_pixels": 2756,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 323,
+        "red": 480,
+        "blue": 147,
+        "warm": 430,
+        "pixels": 2756
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c11",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1762,
+        1165,
+        1935,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 11,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        26,
+        21,
+        112,
+        130
+      ],
+      "visible_pixels": 2719,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 268,
+        "red": 460,
+        "blue": 108,
+        "warm": 555,
+        "pixels": 2719
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c12",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1938,
+        1165,
+        2111,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 12,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        48,
+        16,
+        127,
+        127
+      ],
+      "visible_pixels": 2724,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 370,
+        "red": 341,
+        "blue": 44,
+        "warm": 513,
+        "pixels": 2724
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r002_c13",
+      "png": "frames/t_x_zone_2_enemies_sheath_r002_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2114,
+        1165,
+        2287,
+        1297
+      ],
+      "grid_row": 2,
+      "grid_column": 13,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        44,
+        14,
+        128,
+        130
+      ],
+      "visible_pixels": 2666,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 346,
+        "red": 657,
+        "blue": 155,
+        "warm": 555,
+        "pixels": 2666
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r003_c01",
+      "png": "frames/t_x_zone_2_enemies_sheath_r003_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1300,
+        175,
+        1432
+      ],
+      "grid_row": 3,
+      "grid_column": 1,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        75,
+        13,
+        113,
+        129
+      ],
+      "visible_pixels": 2362,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 279,
+        "red": 513,
+        "blue": 75,
+        "warm": 470,
+        "pixels": 2362
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r003_c02",
+      "png": "frames/t_x_zone_2_enemies_sheath_r003_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        178,
+        1300,
+        351,
+        1432
+      ],
+      "grid_row": 3,
+      "grid_column": 2,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        75,
+        17,
+        116,
+        128
+      ],
+      "visible_pixels": 2142,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 238,
+        "red": 441,
+        "blue": 67,
+        "warm": 466,
+        "pixels": 2142
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r003_c03",
+      "png": "frames/t_x_zone_2_enemies_sheath_r003_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        354,
+        1300,
+        527,
+        1432
+      ],
+      "grid_row": 3,
+      "grid_column": 3,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        58,
+        21,
+        107,
+        129
+      ],
+      "visible_pixels": 2051,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 228,
+        "red": 442,
+        "blue": 58,
+        "warm": 326,
+        "pixels": 2051
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r003_c04",
+      "png": "frames/t_x_zone_2_enemies_sheath_r003_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        530,
+        1300,
+        703,
+        1432
+      ],
+      "grid_row": 3,
+      "grid_column": 4,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        53,
+        20,
+        105,
+        130
+      ],
+      "visible_pixels": 2414,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 241,
+        "red": 481,
+        "blue": 158,
+        "warm": 358,
+        "pixels": 2414
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r003_c05",
+      "png": "frames/t_x_zone_2_enemies_sheath_r003_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        706,
+        1300,
+        879,
+        1432
+      ],
+      "grid_row": 3,
+      "grid_column": 5,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        70,
+        21,
+        125,
+        129
+      ],
+      "visible_pixels": 2104,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 175,
+        "red": 467,
+        "blue": 106,
+        "warm": 396,
+        "pixels": 2104
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r003_c06",
+      "png": "frames/t_x_zone_2_enemies_sheath_r003_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        882,
+        1300,
+        1055,
+        1432
+      ],
+      "grid_row": 3,
+      "grid_column": 6,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        56,
+        12,
+        118,
+        132
+      ],
+      "visible_pixels": 2686,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 306,
+        "red": 738,
+        "blue": 35,
+        "warm": 683,
+        "pixels": 2686
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r003_c07",
+      "png": "frames/t_x_zone_2_enemies_sheath_r003_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1058,
+        1300,
+        1231,
+        1432
+      ],
+      "grid_row": 3,
+      "grid_column": 7,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        56,
+        12,
+        118,
+        132
+      ],
+      "visible_pixels": 2686,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 306,
+        "red": 738,
+        "blue": 35,
+        "warm": 683,
+        "pixels": 2686
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r003_c08",
+      "png": "frames/t_x_zone_2_enemies_sheath_r003_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1234,
+        1300,
+        1407,
+        1432
+      ],
+      "grid_row": 3,
+      "grid_column": 8,
+      "canvas_size": [
+        174,
+        133
+      ],
+      "bbox_inside_canvas": [
+        56,
+        12,
+        118,
+        132
+      ],
+      "visible_pixels": 2686,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 306,
+        "red": 738,
+        "blue": 35,
+        "warm": 683,
+        "pixels": 2686
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c01",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1437,
+        156,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 1,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        59,
+        20,
+        124,
+        123
+      ],
+      "visible_pixels": 2460,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 297,
+        "red": 440,
+        "blue": 169,
+        "warm": 536,
+        "pixels": 2460
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c02",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        159,
+        1437,
+        313,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 2,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        54,
+        24,
+        123,
+        134
+      ],
+      "visible_pixels": 2805,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 288,
+        "red": 494,
+        "blue": 168,
+        "warm": 596,
+        "pixels": 2805
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c03",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        316,
+        1437,
+        470,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 3,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        55,
+        37,
+        127,
+        133
+      ],
+      "visible_pixels": 2864,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 298,
+        "red": 461,
+        "blue": 160,
+        "warm": 623,
+        "pixels": 2864
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c04",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        473,
+        1437,
+        627,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 4,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        58,
+        20,
+        141,
+        132
+      ],
+      "visible_pixels": 2758,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 306,
+        "red": 453,
+        "blue": 125,
+        "warm": 566,
+        "pixels": 2758
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c05",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        630,
+        1437,
+        784,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 5,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        57,
+        17,
+        146,
+        134
+      ],
+      "visible_pixels": 3195,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 405,
+        "red": 664,
+        "blue": 99,
+        "warm": 815,
+        "pixels": 3195
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c06",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        787,
+        1437,
+        941,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 6,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        57,
+        17,
+        146,
+        134
+      ],
+      "visible_pixels": 3247,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 411,
+        "red": 672,
+        "blue": 65,
+        "warm": 815,
+        "pixels": 3247
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c07",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        944,
+        1437,
+        1098,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 7,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        36,
+        22,
+        145,
+        135
+      ],
+      "visible_pixels": 3408,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 403,
+        "red": 675,
+        "blue": 129,
+        "warm": 817,
+        "pixels": 3408
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c08",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1101,
+        1437,
+        1255,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 8,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        22,
+        22,
+        145,
+        135
+      ],
+      "visible_pixels": 3547,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 459,
+        "red": 697,
+        "blue": 133,
+        "warm": 823,
+        "pixels": 3547
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c09",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1258,
+        1437,
+        1412,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 9,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        23,
+        22,
+        145,
+        135
+      ],
+      "visible_pixels": 3539,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 460,
+        "red": 685,
+        "blue": 137,
+        "warm": 805,
+        "pixels": 3539
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c10",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1415,
+        1437,
+        1569,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 10,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        22,
+        22,
+        145,
+        135
+      ],
+      "visible_pixels": 3547,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 460,
+        "red": 691,
+        "blue": 137,
+        "warm": 813,
+        "pixels": 3547
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c11",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1572,
+        1437,
+        1726,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 11,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        39,
+        18,
+        145,
+        134
+      ],
+      "visible_pixels": 3511,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 459,
+        "red": 712,
+        "blue": 131,
+        "warm": 818,
+        "pixels": 3511
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r004_c14",
+      "png": "frames/t_x_zone_2_enemies_sheath_r004_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2043,
+        1437,
+        2197,
+        1573
+      ],
+      "grid_row": 4,
+      "grid_column": 14,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        63,
+        17,
+        138,
+        136
+      ],
+      "visible_pixels": 3403,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 480,
+        "red": 645,
+        "blue": 103,
+        "warm": 688,
+        "pixels": 3403
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c01",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1576,
+        156,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 1,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        44,
+        22,
+        149,
+        135
+      ],
+      "visible_pixels": 3640,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 508,
+        "red": 680,
+        "blue": 139,
+        "warm": 793,
+        "pixels": 3640
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c02",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        159,
+        1576,
+        313,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 2,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        66,
+        22,
+        148,
+        134
+      ],
+      "visible_pixels": 2613,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 231,
+        "red": 379,
+        "blue": 119,
+        "warm": 477,
+        "pixels": 2613
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c03",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        316,
+        1576,
+        470,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 3,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        51,
+        25,
+        122,
+        135
+      ],
+      "visible_pixels": 2756,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 323,
+        "red": 480,
+        "blue": 147,
+        "warm": 430,
+        "pixels": 2756
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c04",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        473,
+        1576,
+        627,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 4,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        20,
+        26,
+        106,
+        135
+      ],
+      "visible_pixels": 2719,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 268,
+        "red": 460,
+        "blue": 108,
+        "warm": 555,
+        "pixels": 2719
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c05",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        630,
+        1576,
+        784,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 5,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        42,
+        21,
+        121,
+        132
+      ],
+      "visible_pixels": 2724,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 370,
+        "red": 341,
+        "blue": 44,
+        "warm": 513,
+        "pixels": 2724
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c06",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        787,
+        1576,
+        941,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 6,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        38,
+        19,
+        122,
+        135
+      ],
+      "visible_pixels": 2666,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 346,
+        "red": 657,
+        "blue": 155,
+        "warm": 555,
+        "pixels": 2666
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c07",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        944,
+        1576,
+        1098,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 7,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        33,
+        16,
+        127,
+        136
+      ],
+      "visible_pixels": 2736,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 389,
+        "red": 670,
+        "blue": 155,
+        "warm": 563,
+        "pixels": 2736
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c08",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1101,
+        1576,
+        1255,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 8,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        37,
+        41,
+        144,
+        116
+      ],
+      "visible_pixels": 2620,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 276,
+        "red": 592,
+        "blue": 156,
+        "warm": 365,
+        "pixels": 2620
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c09",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1258,
+        1576,
+        1412,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 9,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        41,
+        25,
+        121,
+        119
+      ],
+      "visible_pixels": 2470,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 302,
+        "red": 566,
+        "blue": 113,
+        "warm": 462,
+        "pixels": 2470
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c10",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1415,
+        1576,
+        1569,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 10,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        46,
+        36,
+        139,
+        121
+      ],
+      "visible_pixels": 2665,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 341,
+        "red": 445,
+        "blue": 142,
+        "warm": 338,
+        "pixels": 2665
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c11",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1572,
+        1576,
+        1726,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 11,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        36,
+        153,
+        121
+      ],
+      "visible_pixels": 2895,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 367,
+        "red": 526,
+        "blue": 229,
+        "warm": 459,
+        "pixels": 2895
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c12",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1729,
+        1576,
+        1883,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 12,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        36,
+        153,
+        121
+      ],
+      "visible_pixels": 2895,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 367,
+        "red": 526,
+        "blue": 229,
+        "warm": 459,
+        "pixels": 2895
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c13",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1886,
+        1576,
+        2040,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 13,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        36,
+        153,
+        121
+      ],
+      "visible_pixels": 2895,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 367,
+        "red": 526,
+        "blue": 229,
+        "warm": 459,
+        "pixels": 2895
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r005_c14",
+      "png": "frames/t_x_zone_2_enemies_sheath_r005_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2043,
+        1576,
+        2197,
+        1712
+      ],
+      "grid_row": 5,
+      "grid_column": 14,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        36,
+        153,
+        121
+      ],
+      "visible_pixels": 2895,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 367,
+        "red": 526,
+        "blue": 229,
+        "warm": 459,
+        "pixels": 2895
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c01",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1715,
+        156,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 1,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        42,
+        22,
+        119,
+        124
+      ],
+      "visible_pixels": 2641,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 384,
+        "red": 669,
+        "blue": 112,
+        "warm": 585,
+        "pixels": 2641
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c02",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        159,
+        1715,
+        313,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 2,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        46,
+        20,
+        135,
+        124
+      ],
+      "visible_pixels": 2935,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 413,
+        "red": 676,
+        "blue": 113,
+        "warm": 561,
+        "pixels": 2935
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c03",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        316,
+        1715,
+        470,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 3,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        20,
+        149,
+        124
+      ],
+      "visible_pixels": 2964,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 441,
+        "red": 703,
+        "blue": 116,
+        "warm": 598,
+        "pixels": 2964
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c04",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        473,
+        1715,
+        627,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 4,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        20,
+        149,
+        124
+      ],
+      "visible_pixels": 2964,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 441,
+        "red": 703,
+        "blue": 116,
+        "warm": 598,
+        "pixels": 2964
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c05",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        630,
+        1715,
+        784,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 5,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        20,
+        149,
+        124
+      ],
+      "visible_pixels": 2964,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 441,
+        "red": 703,
+        "blue": 116,
+        "warm": 598,
+        "pixels": 2964
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c06",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        787,
+        1715,
+        941,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 6,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        20,
+        149,
+        124
+      ],
+      "visible_pixels": 2964,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 441,
+        "red": 703,
+        "blue": 116,
+        "warm": 598,
+        "pixels": 2964
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c07",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        944,
+        1715,
+        1098,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 7,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        45,
+        20,
+        149,
+        124
+      ],
+      "visible_pixels": 2964,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 441,
+        "red": 703,
+        "blue": 116,
+        "warm": 598,
+        "pixels": 2964
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c08",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1101,
+        1715,
+        1255,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 8,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        62,
+        34,
+        123,
+        121
+      ],
+      "visible_pixels": 2382,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 234,
+        "red": 502,
+        "blue": 132,
+        "warm": 437,
+        "pixels": 2382
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c09",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1258,
+        1715,
+        1412,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 9,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        56,
+        19,
+        122,
+        130
+      ],
+      "visible_pixels": 2518,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 334,
+        "red": 491,
+        "blue": 147,
+        "warm": 445,
+        "pixels": 2518
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c10",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1415,
+        1715,
+        1569,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 10,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        49,
+        21,
+        150,
+        125
+      ],
+      "visible_pixels": 3085,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 454,
+        "red": 490,
+        "blue": 51,
+        "warm": 641,
+        "pixels": 3085
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c11",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1572,
+        1715,
+        1726,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 11,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        1,
+        21,
+        129,
+        125
+      ],
+      "visible_pixels": 3387,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 499,
+        "red": 607,
+        "blue": 75,
+        "warm": 726,
+        "pixels": 3387
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c12",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1729,
+        1715,
+        1883,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 12,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        16,
+        4,
+        116,
+        133
+      ],
+      "visible_pixels": 3509,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 460,
+        "red": 661,
+        "blue": 88,
+        "warm": 803,
+        "pixels": 3509
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c13",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        1886,
+        1715,
+        2040,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 13,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        46,
+        20,
+        132,
+        107
+      ],
+      "visible_pixels": 3228,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 473,
+        "red": 514,
+        "blue": 130,
+        "warm": 542,
+        "pixels": 3228
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_r006_c14",
+      "png": "frames/t_x_zone_2_enemies_sheath_r006_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Sheath.png",
+      "crop_xyxy_inclusive": [
+        2043,
+        1715,
+        2197,
+        1851
+      ],
+      "grid_row": 6,
+      "grid_column": 14,
+      "canvas_size": [
+        155,
+        137
+      ],
+      "bbox_inside_canvas": [
+        39,
+        15,
+        110,
+        135
+      ],
+      "visible_pixels": 3113,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 467,
+        "red": 599,
+        "blue": 98,
+        "warm": 578,
+        "pixels": 3113
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    }
+  ],
+  "animations": [
+    {
+      "id": "t_x_zone_2_enemies_sheath_row001_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_sheath_r001_c01.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c02.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c03.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c04.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c05.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c06.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c07.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c08.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c09.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c10.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c11.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c12.png",
+        "frames/t_x_zone_2_enemies_sheath_r001_c13.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_row": 1,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_row002_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_sheath_r002_c01.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c02.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c03.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c04.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c05.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c06.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c07.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c08.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c09.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c10.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c11.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c12.png",
+        "frames/t_x_zone_2_enemies_sheath_r002_c13.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_row": 2,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_row003_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_sheath_r003_c01.png",
+        "frames/t_x_zone_2_enemies_sheath_r003_c02.png",
+        "frames/t_x_zone_2_enemies_sheath_r003_c03.png",
+        "frames/t_x_zone_2_enemies_sheath_r003_c04.png",
+        "frames/t_x_zone_2_enemies_sheath_r003_c05.png",
+        "frames/t_x_zone_2_enemies_sheath_r003_c06.png",
+        "frames/t_x_zone_2_enemies_sheath_r003_c07.png",
+        "frames/t_x_zone_2_enemies_sheath_r003_c08.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source_row": 3,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_row004_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_sheath_r004_c01.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c02.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c03.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c04.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c05.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c06.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c07.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c08.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c09.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c10.png",
+        "frames/t_x_zone_2_enemies_sheath_r004_c11.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source_row": 4,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_row005_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_sheath_r005_c01.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c02.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c03.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c04.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c05.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c06.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c07.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c08.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c09.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c10.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c11.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c12.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c13.png",
+        "frames/t_x_zone_2_enemies_sheath_r005_c14.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "source_row": 5,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "t_x_zone_2_enemies_sheath_row006_take1",
+      "frames": [
+        "frames/t_x_zone_2_enemies_sheath_r006_c01.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c02.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c03.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c04.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c05.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c06.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c07.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c08.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c09.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c10.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c11.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c12.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c13.png",
+        "frames/t_x_zone_2_enemies_sheath_r006_c14.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "source_row": 6,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    }
+  ],
+  "default_animation": "static_idle_placeholder",
+  "import_notes": [
+    "Use nearest pixel filtering. Use common canvas and explicit pivot for final runtime sequences.",
+    "Animation order/duration not embedded in PNG; groups provisional and must be reviewed.",
+    "Shared-sheet character identification uses color scoring. Review medium/low-confidence assignments.",
+    "Original source PNG retained separately and unchanged."
+  ],
+  "default_still_pose_png": "frames/t_x_zone_2_enemies_sheath_r001_c01.png",
+  "default_still_pose_selection": "first assembled-pose sequence, not first atlas cell; provisional static idle"
+}

@@ -1,0 +1,2261 @@
+{
+  "character": "Captain Commando",
+  "source_game": "Project X Zone 2",
+  "source_original_archive": "Project x Zone 2 - 10 character Sprite pack.zip",
+  "count_assembled_poses": 59,
+  "count_candidate_sequences": 5,
+  "state": "asset-import-candidate-not-runtime-verified",
+  "coordinate_convention": "0-based pixel x0/y0/x1/y1 inclusive",
+  "images": [
+    {
+      "id": "aracters_captain_commando_r001_c01",
+      "png": "frames/aracters_captain_commando_r001_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1354,
+        145,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 1,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        63,
+        57,
+        113,
+        118
+      ],
+      "visible_pixels": 1969,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 0,
+        "red": 406,
+        "blue": 0,
+        "warm": 0,
+        "pixels": 1969
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c02",
+      "png": "frames/aracters_captain_commando_r001_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        148,
+        1354,
+        291,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 2,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        68,
+        59,
+        127,
+        106
+      ],
+      "visible_pixels": 1976,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 2,
+        "red": 425,
+        "blue": 0,
+        "warm": 0,
+        "pixels": 1976
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c04",
+      "png": "frames/aracters_captain_commando_r001_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        440,
+        1354,
+        583,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 4,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        40,
+        32,
+        114,
+        128
+      ],
+      "visible_pixels": 2877,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 330,
+        "red": 360,
+        "blue": 1813,
+        "warm": 460,
+        "pixels": 2877
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c05",
+      "png": "frames/aracters_captain_commando_r001_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        586,
+        1354,
+        729,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 5,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        41,
+        33,
+        132,
+        128
+      ],
+      "visible_pixels": 2932,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 345,
+        "red": 456,
+        "blue": 1703,
+        "warm": 557,
+        "pixels": 2932
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c06",
+      "png": "frames/aracters_captain_commando_r001_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        732,
+        1354,
+        875,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 6,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        42,
+        25,
+        121,
+        121
+      ],
+      "visible_pixels": 2903,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 309,
+        "red": 413,
+        "blue": 1790,
+        "warm": 522,
+        "pixels": 2903
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c07",
+      "png": "frames/aracters_captain_commando_r001_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        878,
+        1354,
+        1021,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 7,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        47,
+        29,
+        120,
+        121
+      ],
+      "visible_pixels": 2212,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 190,
+        "red": 316,
+        "blue": 1413,
+        "warm": 399,
+        "pixels": 2212
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c08",
+      "png": "frames/aracters_captain_commando_r001_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1024,
+        1354,
+        1167,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 8,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        16,
+        33,
+        123,
+        119
+      ],
+      "visible_pixels": 2523,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 307,
+        "red": 328,
+        "blue": 1479,
+        "warm": 409,
+        "pixels": 2523
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c09",
+      "png": "frames/aracters_captain_commando_r001_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1170,
+        1354,
+        1313,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 9,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        29,
+        26,
+        114,
+        124
+      ],
+      "visible_pixels": 2892,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 376,
+        "red": 385,
+        "blue": 1734,
+        "warm": 496,
+        "pixels": 2892
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c10",
+      "png": "frames/aracters_captain_commando_r001_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1316,
+        1354,
+        1459,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 10,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        27,
+        120,
+        128
+      ],
+      "visible_pixels": 3176,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 356,
+        "red": 425,
+        "blue": 1927,
+        "warm": 538,
+        "pixels": 3176
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c11",
+      "png": "frames/aracters_captain_commando_r001_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1462,
+        1354,
+        1605,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 11,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        24,
+        115,
+        128
+      ],
+      "visible_pixels": 2993,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 331,
+        "red": 312,
+        "blue": 1719,
+        "warm": 438,
+        "pixels": 2993
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c12",
+      "png": "frames/aracters_captain_commando_r001_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1608,
+        1354,
+        1751,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 12,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        12,
+        129,
+        128
+      ],
+      "visible_pixels": 3711,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 586,
+        "red": 262,
+        "blue": 1848,
+        "warm": 329,
+        "pixels": 3711
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c13",
+      "png": "frames/aracters_captain_commando_r001_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1754,
+        1354,
+        1897,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 13,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        44,
+        1,
+        117,
+        128
+      ],
+      "visible_pixels": 3558,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 655,
+        "red": 170,
+        "blue": 1763,
+        "warm": 247,
+        "pixels": 3558
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c14",
+      "png": "frames/aracters_captain_commando_r001_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1900,
+        1354,
+        2043,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 14,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        40,
+        28,
+        117,
+        128
+      ],
+      "visible_pixels": 3142,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 455,
+        "red": 319,
+        "blue": 1359,
+        "warm": 402,
+        "pixels": 3142
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c15",
+      "png": "frames/aracters_captain_commando_r001_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2046,
+        1354,
+        2189,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 15,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        30,
+        117,
+        128
+      ],
+      "visible_pixels": 3293,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 503,
+        "red": 272,
+        "blue": 1464,
+        "warm": 362,
+        "pixels": 3293
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r001_c16",
+      "png": "frames/aracters_captain_commando_r001_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2192,
+        1354,
+        2335,
+        1491
+      ],
+      "grid_row": 1,
+      "grid_column": 16,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        26,
+        118,
+        128
+      ],
+      "visible_pixels": 3308,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 529,
+        "red": 245,
+        "blue": 1465,
+        "warm": 348,
+        "pixels": 3308
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c01",
+      "png": "frames/aracters_captain_commando_r002_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1494,
+        145,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 1,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        30,
+        117,
+        128
+      ],
+      "visible_pixels": 2812,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 281,
+        "red": 475,
+        "blue": 1631,
+        "warm": 578,
+        "pixels": 2812
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c02",
+      "png": "frames/aracters_captain_commando_r002_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        148,
+        1494,
+        291,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 2,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        30,
+        118,
+        128
+      ],
+      "visible_pixels": 2847,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 284,
+        "red": 472,
+        "blue": 1657,
+        "warm": 592,
+        "pixels": 2847
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c03",
+      "png": "frames/aracters_captain_commando_r002_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        294,
+        1494,
+        437,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 3,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        42,
+        33,
+        117,
+        126
+      ],
+      "visible_pixels": 2734,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 302,
+        "red": 409,
+        "blue": 1570,
+        "warm": 532,
+        "pixels": 2734
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c04",
+      "png": "frames/aracters_captain_commando_r002_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        440,
+        1494,
+        583,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 4,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        33,
+        118,
+        128
+      ],
+      "visible_pixels": 2355,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 150,
+        "red": 399,
+        "blue": 1428,
+        "warm": 491,
+        "pixels": 2355
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c05",
+      "png": "frames/aracters_captain_commando_r002_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        586,
+        1494,
+        729,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 5,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        32,
+        117,
+        127
+      ],
+      "visible_pixels": 2773,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 349,
+        "red": 373,
+        "blue": 1622,
+        "warm": 478,
+        "pixels": 2773
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c06",
+      "png": "frames/aracters_captain_commando_r002_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        732,
+        1494,
+        875,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 6,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        35,
+        118,
+        126
+      ],
+      "visible_pixels": 2374,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 177,
+        "red": 366,
+        "blue": 1527,
+        "warm": 465,
+        "pixels": 2374
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c07",
+      "png": "frames/aracters_captain_commando_r002_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        878,
+        1494,
+        1021,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 7,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        34,
+        37,
+        118,
+        127
+      ],
+      "visible_pixels": 2837,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 330,
+        "red": 426,
+        "blue": 1713,
+        "warm": 540,
+        "pixels": 2837
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c08",
+      "png": "frames/aracters_captain_commando_r002_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1024,
+        1494,
+        1167,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 8,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        57,
+        27,
+        92,
+        122
+      ],
+      "visible_pixels": 1859,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 106,
+        "red": 343,
+        "blue": 1138,
+        "warm": 433,
+        "pixels": 1859
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c09",
+      "png": "frames/aracters_captain_commando_r002_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1170,
+        1494,
+        1313,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 9,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        49,
+        30,
+        124,
+        129
+      ],
+      "visible_pixels": 2796,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 313,
+        "red": 411,
+        "blue": 1648,
+        "warm": 511,
+        "pixels": 2796
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c10",
+      "png": "frames/aracters_captain_commando_r002_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1316,
+        1494,
+        1459,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 10,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        52,
+        26,
+        100,
+        113
+      ],
+      "visible_pixels": 2096,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 159,
+        "red": 344,
+        "blue": 1349,
+        "warm": 434,
+        "pixels": 2096
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c11",
+      "png": "frames/aracters_captain_commando_r002_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1462,
+        1494,
+        1605,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 11,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        39,
+        24,
+        105,
+        118
+      ],
+      "visible_pixels": 2371,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 348,
+        "red": 287,
+        "blue": 1354,
+        "warm": 369,
+        "pixels": 2371
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c12",
+      "png": "frames/aracters_captain_commando_r002_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1608,
+        1494,
+        1751,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 12,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        60,
+        24,
+        124,
+        117
+      ],
+      "visible_pixels": 2735,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 421,
+        "red": 325,
+        "blue": 1600,
+        "warm": 419,
+        "pixels": 2735
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c13",
+      "png": "frames/aracters_captain_commando_r002_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1754,
+        1494,
+        1897,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 13,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        50,
+        33,
+        106,
+        116
+      ],
+      "visible_pixels": 2163,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 337,
+        "red": 252,
+        "blue": 1316,
+        "warm": 333,
+        "pixels": 2163
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c14",
+      "png": "frames/aracters_captain_commando_r002_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1900,
+        1494,
+        2043,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 14,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        15,
+        34,
+        100,
+        91
+      ],
+      "visible_pixels": 2119,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 238,
+        "red": 92,
+        "blue": 1517,
+        "warm": 116,
+        "pixels": 2119
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c15",
+      "png": "frames/aracters_captain_commando_r002_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2046,
+        1494,
+        2189,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 15,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        39,
+        30,
+        122,
+        125
+      ],
+      "visible_pixels": 2885,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 275,
+        "red": 391,
+        "blue": 1783,
+        "warm": 497,
+        "pixels": 2885
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r002_c16",
+      "png": "frames/aracters_captain_commando_r002_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2192,
+        1494,
+        2335,
+        1631
+      ],
+      "grid_row": 2,
+      "grid_column": 16,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        40,
+        34,
+        123,
+        125
+      ],
+      "visible_pixels": 2458,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 137,
+        "red": 350,
+        "blue": 1631,
+        "warm": 450,
+        "pixels": 2458
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c01",
+      "png": "frames/aracters_captain_commando_r003_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1634,
+        145,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 1,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        40,
+        35,
+        123,
+        125
+      ],
+      "visible_pixels": 2533,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 298,
+        "red": 227,
+        "blue": 1615,
+        "warm": 323,
+        "pixels": 2533
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c02",
+      "png": "frames/aracters_captain_commando_r003_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        148,
+        1634,
+        291,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 2,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        43,
+        31,
+        122,
+        123
+      ],
+      "visible_pixels": 2716,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 239,
+        "red": 456,
+        "blue": 1642,
+        "warm": 527,
+        "pixels": 2716
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c03",
+      "png": "frames/aracters_captain_commando_r003_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        294,
+        1634,
+        437,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 3,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        36,
+        37,
+        121,
+        125
+      ],
+      "visible_pixels": 2599,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 280,
+        "red": 384,
+        "blue": 1569,
+        "warm": 477,
+        "pixels": 2599
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c04",
+      "png": "frames/aracters_captain_commando_r003_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        440,
+        1634,
+        583,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 4,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        34,
+        51,
+        121,
+        135
+      ],
+      "visible_pixels": 2935,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 487,
+        "red": 350,
+        "blue": 1638,
+        "warm": 466,
+        "pixels": 2935
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c05",
+      "png": "frames/aracters_captain_commando_r003_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        586,
+        1634,
+        729,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 5,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        28,
+        29,
+        108,
+        111
+      ],
+      "visible_pixels": 2509,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 299,
+        "red": 347,
+        "blue": 1501,
+        "warm": 438,
+        "pixels": 2509
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c09",
+      "png": "frames/aracters_captain_commando_r003_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1170,
+        1634,
+        1313,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 9,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        40,
+        31,
+        125,
+        118
+      ],
+      "visible_pixels": 2574,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 147,
+        "red": 734,
+        "blue": 1206,
+        "warm": 752,
+        "pixels": 2574
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c10",
+      "png": "frames/aracters_captain_commando_r003_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1316,
+        1634,
+        1459,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 10,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        44,
+        27,
+        107,
+        132
+      ],
+      "visible_pixels": 2956,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 201,
+        "red": 786,
+        "blue": 1498,
+        "warm": 763,
+        "pixels": 2956
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c11",
+      "png": "frames/aracters_captain_commando_r003_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1462,
+        1634,
+        1605,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 11,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        26,
+        32,
+        111,
+        132
+      ],
+      "visible_pixels": 3029,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 295,
+        "red": 784,
+        "blue": 1305,
+        "warm": 828,
+        "pixels": 3029
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c12",
+      "png": "frames/aracters_captain_commando_r003_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1608,
+        1634,
+        1751,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 12,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        30,
+        38,
+        114,
+        136
+      ],
+      "visible_pixels": 3088,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 307,
+        "red": 723,
+        "blue": 1387,
+        "warm": 791,
+        "pixels": 3088
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c13",
+      "png": "frames/aracters_captain_commando_r003_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1754,
+        1634,
+        1897,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 13,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        41,
+        31,
+        124,
+        116
+      ],
+      "visible_pixels": 2621,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 150,
+        "red": 727,
+        "blue": 1294,
+        "warm": 770,
+        "pixels": 2621
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c14",
+      "png": "frames/aracters_captain_commando_r003_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1900,
+        1634,
+        2043,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 14,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        45,
+        16,
+        124,
+        123
+      ],
+      "visible_pixels": 2558,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 83,
+        "red": 833,
+        "blue": 1169,
+        "warm": 854,
+        "pixels": 2558
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c15",
+      "png": "frames/aracters_captain_commando_r003_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2046,
+        1634,
+        2189,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 15,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        42,
+        21,
+        127,
+        118
+      ],
+      "visible_pixels": 2532,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 113,
+        "red": 834,
+        "blue": 1135,
+        "warm": 872,
+        "pixels": 2532
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r003_c16",
+      "png": "frames/aracters_captain_commando_r003_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2192,
+        1634,
+        2335,
+        1771
+      ],
+      "grid_row": 3,
+      "grid_column": 16,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        30,
+        31,
+        131,
+        118
+      ],
+      "visible_pixels": 2409,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 138,
+        "red": 628,
+        "blue": 1293,
+        "warm": 629,
+        "pixels": 2409
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c01",
+      "png": "frames/aracters_captain_commando_r004_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1774,
+        145,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 1,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        30,
+        30,
+        130,
+        120
+      ],
+      "visible_pixels": 2574,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 119,
+        "red": 724,
+        "blue": 1358,
+        "warm": 709,
+        "pixels": 2574
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c02",
+      "png": "frames/aracters_captain_commando_r004_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        148,
+        1774,
+        291,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 2,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        39,
+        22,
+        129,
+        120
+      ],
+      "visible_pixels": 2440,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 93,
+        "red": 913,
+        "blue": 980,
+        "warm": 922,
+        "pixels": 2440
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c03",
+      "png": "frames/aracters_captain_commando_r004_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        294,
+        1774,
+        437,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 3,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        40,
+        31,
+        94,
+        137
+      ],
+      "visible_pixels": 2448,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 143,
+        "red": 725,
+        "blue": 1184,
+        "warm": 745,
+        "pixels": 2448
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c04",
+      "png": "frames/aracters_captain_commando_r004_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        440,
+        1774,
+        583,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 4,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        1,
+        20,
+        141,
+        101
+      ],
+      "visible_pixels": 3768,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 423,
+        "red": 1634,
+        "blue": 1492,
+        "warm": 1089,
+        "pixels": 3768
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c05",
+      "png": "frames/aracters_captain_commando_r004_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        586,
+        1774,
+        729,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 5,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        26,
+        13,
+        142,
+        126
+      ],
+      "visible_pixels": 3500,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 316,
+        "red": 1651,
+        "blue": 1289,
+        "warm": 1107,
+        "pixels": 3500
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c06",
+      "png": "frames/aracters_captain_commando_r004_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        732,
+        1774,
+        875,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 6,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        12,
+        7,
+        129,
+        124
+      ],
+      "visible_pixels": 4125,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 410,
+        "red": 1842,
+        "blue": 1633,
+        "warm": 1373,
+        "pixels": 4125
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c07",
+      "png": "frames/aracters_captain_commando_r004_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        878,
+        1774,
+        1021,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 7,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        12,
+        17,
+        137,
+        123
+      ],
+      "visible_pixels": 3880,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 316,
+        "red": 1937,
+        "blue": 1345,
+        "warm": 1474,
+        "pixels": 3880
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c08",
+      "png": "frames/aracters_captain_commando_r004_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1024,
+        1774,
+        1167,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 8,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        12,
+        17,
+        137,
+        123
+      ],
+      "visible_pixels": 3864,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 316,
+        "red": 1935,
+        "blue": 1339,
+        "warm": 1471,
+        "pixels": 3864
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c09",
+      "png": "frames/aracters_captain_commando_r004_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1170,
+        1774,
+        1313,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 9,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        12,
+        26,
+        138,
+        124
+      ],
+      "visible_pixels": 3941,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 152,
+        "red": 2276,
+        "blue": 1182,
+        "warm": 1804,
+        "pixels": 3941
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c10",
+      "png": "frames/aracters_captain_commando_r004_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1316,
+        1774,
+        1459,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 10,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        12,
+        27,
+        115,
+        123
+      ],
+      "visible_pixels": 4115,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 158,
+        "red": 2172,
+        "blue": 1458,
+        "warm": 1714,
+        "pixels": 4115
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c11",
+      "png": "frames/aracters_captain_commando_r004_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1462,
+        1774,
+        1605,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 11,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        12,
+        30,
+        118,
+        123
+      ],
+      "visible_pixels": 3540,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 128,
+        "red": 1908,
+        "blue": 1141,
+        "warm": 1453,
+        "pixels": 3540
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c12",
+      "png": "frames/aracters_captain_commando_r004_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1608,
+        1774,
+        1751,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 12,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        12,
+        30,
+        122,
+        123
+      ],
+      "visible_pixels": 3523,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 169,
+        "red": 1801,
+        "blue": 1261,
+        "warm": 1342,
+        "pixels": 3523
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c13",
+      "png": "frames/aracters_captain_commando_r004_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1754,
+        1774,
+        1897,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 13,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        12,
+        26,
+        127,
+        124
+      ],
+      "visible_pixels": 3593,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 177,
+        "red": 1918,
+        "blue": 1149,
+        "warm": 1449,
+        "pixels": 3593
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c14",
+      "png": "frames/aracters_captain_commando_r004_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        1900,
+        1774,
+        2043,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 14,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        63,
+        57,
+        113,
+        118
+      ],
+      "visible_pixels": 1969,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 681,
+        "red": 406,
+        "blue": 244,
+        "warm": 0,
+        "pixels": 1969
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "aracters_captain_commando_r004_c15",
+      "png": "frames/aracters_captain_commando_r004_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png",
+      "crop_xyxy_inclusive": [
+        2046,
+        1774,
+        2189,
+        1911
+      ],
+      "grid_row": 4,
+      "grid_column": 15,
+      "canvas_size": [
+        144,
+        138
+      ],
+      "bbox_inside_canvas": [
+        61,
+        66,
+        124,
+        112
+      ],
+      "visible_pixels": 1995,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 679,
+        "red": 345,
+        "blue": 260,
+        "warm": 0,
+        "pixels": 1995
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    }
+  ],
+  "animations": [
+    {
+      "id": "aracters_captain_commando_row001_take2",
+      "frames": [
+        "frames/aracters_captain_commando_r001_c04.png",
+        "frames/aracters_captain_commando_r001_c05.png",
+        "frames/aracters_captain_commando_r001_c06.png",
+        "frames/aracters_captain_commando_r001_c07.png",
+        "frames/aracters_captain_commando_r001_c08.png",
+        "frames/aracters_captain_commando_r001_c09.png",
+        "frames/aracters_captain_commando_r001_c10.png",
+        "frames/aracters_captain_commando_r001_c11.png",
+        "frames/aracters_captain_commando_r001_c12.png",
+        "frames/aracters_captain_commando_r001_c13.png",
+        "frames/aracters_captain_commando_r001_c14.png",
+        "frames/aracters_captain_commando_r001_c15.png",
+        "frames/aracters_captain_commando_r001_c16.png"
+      ],
+      "source_columns": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "source_row": 1,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "aracters_captain_commando_row002_take1",
+      "frames": [
+        "frames/aracters_captain_commando_r002_c01.png",
+        "frames/aracters_captain_commando_r002_c02.png",
+        "frames/aracters_captain_commando_r002_c03.png",
+        "frames/aracters_captain_commando_r002_c04.png",
+        "frames/aracters_captain_commando_r002_c05.png",
+        "frames/aracters_captain_commando_r002_c06.png",
+        "frames/aracters_captain_commando_r002_c07.png",
+        "frames/aracters_captain_commando_r002_c08.png",
+        "frames/aracters_captain_commando_r002_c09.png",
+        "frames/aracters_captain_commando_r002_c10.png",
+        "frames/aracters_captain_commando_r002_c11.png",
+        "frames/aracters_captain_commando_r002_c12.png",
+        "frames/aracters_captain_commando_r002_c13.png",
+        "frames/aracters_captain_commando_r002_c14.png",
+        "frames/aracters_captain_commando_r002_c15.png",
+        "frames/aracters_captain_commando_r002_c16.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "source_row": 2,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "aracters_captain_commando_row003_take1",
+      "frames": [
+        "frames/aracters_captain_commando_r003_c01.png",
+        "frames/aracters_captain_commando_r003_c02.png",
+        "frames/aracters_captain_commando_r003_c03.png",
+        "frames/aracters_captain_commando_r003_c04.png",
+        "frames/aracters_captain_commando_r003_c05.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source_row": 3,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "aracters_captain_commando_row003_take2",
+      "frames": [
+        "frames/aracters_captain_commando_r003_c09.png",
+        "frames/aracters_captain_commando_r003_c10.png",
+        "frames/aracters_captain_commando_r003_c11.png",
+        "frames/aracters_captain_commando_r003_c12.png",
+        "frames/aracters_captain_commando_r003_c13.png",
+        "frames/aracters_captain_commando_r003_c14.png",
+        "frames/aracters_captain_commando_r003_c15.png",
+        "frames/aracters_captain_commando_r003_c16.png"
+      ],
+      "source_columns": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "source_row": 3,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "aracters_captain_commando_row004_take1",
+      "frames": [
+        "frames/aracters_captain_commando_r004_c01.png",
+        "frames/aracters_captain_commando_r004_c02.png",
+        "frames/aracters_captain_commando_r004_c03.png",
+        "frames/aracters_captain_commando_r004_c04.png",
+        "frames/aracters_captain_commando_r004_c05.png",
+        "frames/aracters_captain_commando_r004_c06.png",
+        "frames/aracters_captain_commando_r004_c07.png",
+        "frames/aracters_captain_commando_r004_c08.png",
+        "frames/aracters_captain_commando_r004_c09.png",
+        "frames/aracters_captain_commando_r004_c10.png",
+        "frames/aracters_captain_commando_r004_c11.png",
+        "frames/aracters_captain_commando_r004_c12.png",
+        "frames/aracters_captain_commando_r004_c13.png",
+        "frames/aracters_captain_commando_r004_c14.png",
+        "frames/aracters_captain_commando_r004_c15.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_row": 4,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    }
+  ],
+  "default_animation": "static_idle_placeholder",
+  "import_notes": [
+    "Use nearest pixel filtering. Use common canvas and explicit pivot for final runtime sequences.",
+    "Animation order/duration not embedded in PNG; groups provisional and must be reviewed.",
+    "Shared-sheet character identification uses color scoring. Review medium/low-confidence assignments.",
+    "Original source PNG retained separately and unchanged."
+  ],
+  "default_still_pose_png": "frames/aracters_captain_commando_r001_c04.png",
+  "default_still_pose_selection": "first assembled-pose sequence, not first atlas cell; provisional static idle"
+}

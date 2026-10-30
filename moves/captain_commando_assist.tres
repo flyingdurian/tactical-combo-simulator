@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "captain_commando_assist"
+display_name = "Powered Fist Cadence Support / prototype"
+character = "captain_commando"
+role = "assist"
+category = "normal"
+purpose = "left"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r001_c04.png", "ticks": 16, "anchor": [80, 129], "native_facing": -1, "offset": [0, 0], "source_rectangle": [440, 1354, 583, 1491], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r001_c06.png", "ticks": 8, "anchor": [80, 129], "native_facing": -1, "offset": [0, 0], "source_rectangle": [732, 1354, 875, 1491], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r001_c07.png", "ticks": 8, "anchor": [80, 129], "native_facing": -1, "offset": [0, 0], "source_rectangle": [878, 1354, 1021, 1491], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r001_c09.png", "ticks": 8, "anchor": [80, 129], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1170, 1354, 1313, 1491], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r002_c03.png", "ticks": 8, "anchor": [80, 129], "native_facing": -1, "offset": [0, 0], "source_rectangle": [294, 1494, 437, 1631], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r002_c05.png", "ticks": 8, "anchor": [80, 129], "native_facing": -1, "offset": [0, 0], "source_rectangle": [586, 1494, 729, 1631], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r002_c07.png", "ticks": 16, "anchor": [80, 129], "native_facing": -1, "offset": [0, 0], "source_rectangle": [878, 1494, 1021, 1631], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 72
+hit_events = Array[Dictionary]([{"id": "captain_commando_left_0", "tick": 18, "end_tick": 20, "kind": "melee", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/light.tres", "region": [62.2, -127.8, 32, 38]}, {"id": "captain_commando_left_1", "tick": 58, "end_tick": 60, "kind": "melee", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/light.tres", "region": [53.7, -129.5, 32, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "assist"}])
+chain_open = 58
+chain_close = 71
+cancel_open = 12
+cancel_close = 57
+staging = {"distance": 92, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 58, "exit_end": 72, "max_correction": 650, "alignment_limit": 20, "height_ratio": 0.8, "max_elevation": 130}

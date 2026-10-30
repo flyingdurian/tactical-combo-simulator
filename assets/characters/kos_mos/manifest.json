@@ -1,0 +1,1792 @@
+{
+  "source": "assets/characters/kos_mos/source/KOS-MOS_Fiora_original_2500x11188.png",
+  "source_sha256": "72733da56a9ccf7b2dc192c9328f097bde947823db289cdd25432d3bcfc65d74",
+  "original_dimensions": [
+    2500,
+    11188
+  ],
+  "source_format": "PNG RGBA",
+  "notes": [
+    "Atlas has changing cell width, mixed assembled and disassembled poses; only assembled frames selected.",
+    "Frames presented in visual source order by local sequence. No native animation metadata or timing was supplied. All attack orders and timings are provisional until compared with reference footage.",
+    "Transparent removal is background-connected near-magenta flood fill, with exact-magenta removal for enclosed empty holes. No global black removal.",
+    "A single fixed 256x196 canvas with art-space foot pivot (128,176) avoids per-frame box centering. Grounded idle/aiming stays aligned; airborne poses keep source-relative height.",
+    "source crop is half-open [left,top,right,bottom]. Each frame stores original tile and placing offset. PNGs are deterministic."
+  ],
+  "config": {
+    "background_rgb": [
+      255,
+      0,
+      255
+    ],
+    "background_connected_max_channel_difference": 24,
+    "canvas": [
+      256,
+      196
+    ],
+    "ground_pivot": [
+      128,
+      176
+    ]
+  },
+  "animations": {
+    "idle": {
+      "fps": 9,
+      "loop": true,
+      "confidence": "high (neutral poses, subtle changes)",
+      "frames": [
+        {
+          "file": "frames/idle_00.png",
+          "source_crop": [
+            902,
+            2453,
+            1049,
+            2559
+          ],
+          "slot_column": 6,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            71,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_01.png",
+          "source_crop": [
+            1052,
+            2453,
+            1199,
+            2559
+          ],
+          "slot_column": 7,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            72,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_02.png",
+          "source_crop": [
+            1202,
+            2453,
+            1349,
+            2559
+          ],
+          "slot_column": 8,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            72,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_03.png",
+          "source_crop": [
+            1352,
+            2453,
+            1499,
+            2559
+          ],
+          "slot_column": 9,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            72,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_04.png",
+          "source_crop": [
+            1502,
+            2453,
+            1649,
+            2559
+          ],
+          "slot_column": 10,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            72,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_05.png",
+          "source_crop": [
+            1652,
+            2453,
+            1799,
+            2559
+          ],
+          "slot_column": 11,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            72,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_06.png",
+          "source_crop": [
+            1802,
+            2453,
+            1949,
+            2559
+          ],
+          "slot_column": 12,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            72,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_07.png",
+          "source_crop": [
+            1952,
+            2453,
+            2099,
+            2559
+          ],
+          "slot_column": 13,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            71,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_08.png",
+          "source_crop": [
+            2102,
+            2453,
+            2249,
+            2559
+          ],
+          "slot_column": 14,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            71,
+            148,
+            177
+          ]
+        },
+        {
+          "file": "frames/idle_09.png",
+          "source_crop": [
+            2252,
+            2453,
+            2399,
+            2559
+          ],
+          "slot_column": 15,
+          "slot_row_y": 2452,
+          "canvas_offset": [
+            54,
+            71
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            106,
+            71,
+            148,
+            177
+          ]
+        }
+      ]
+    },
+    "attack_1": {
+      "fps": 17,
+      "loop": false,
+      "confidence": "medium (consecutive sword poses, end transition provisional)",
+      "frames": [
+        {
+          "file": "frames/attack_1_00.png",
+          "source_crop": [
+            2,
+            2986,
+            198,
+            3137
+          ],
+          "slot_column": 0,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            112,
+            72,
+            198,
+            161
+          ]
+        },
+        {
+          "file": "frames/attack_1_01.png",
+          "source_crop": [
+            201,
+            2986,
+            397,
+            3137
+          ],
+          "slot_column": 1,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            112,
+            75,
+            190,
+            164
+          ]
+        },
+        {
+          "file": "frames/attack_1_02.png",
+          "source_crop": [
+            400,
+            2986,
+            596,
+            3137
+          ],
+          "slot_column": 2,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            80,
+            75,
+            183,
+            171
+          ]
+        },
+        {
+          "file": "frames/attack_1_03.png",
+          "source_crop": [
+            599,
+            2986,
+            795,
+            3137
+          ],
+          "slot_column": 3,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            116,
+            40,
+            177,
+            174
+          ]
+        },
+        {
+          "file": "frames/attack_1_04.png",
+          "source_crop": [
+            798,
+            2986,
+            994,
+            3137
+          ],
+          "slot_column": 4,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            126,
+            40,
+            189,
+            174
+          ]
+        },
+        {
+          "file": "frames/attack_1_05.png",
+          "source_crop": [
+            997,
+            2986,
+            1193,
+            3137
+          ],
+          "slot_column": 5,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            117,
+            69,
+            225,
+            174
+          ]
+        },
+        {
+          "file": "frames/attack_1_06.png",
+          "source_crop": [
+            1196,
+            2986,
+            1392,
+            3137
+          ],
+          "slot_column": 6,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            113,
+            69,
+            225,
+            174
+          ]
+        },
+        {
+          "file": "frames/attack_1_07.png",
+          "source_crop": [
+            1395,
+            2986,
+            1591,
+            3137
+          ],
+          "slot_column": 7,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            117,
+            69,
+            225,
+            174
+          ]
+        },
+        {
+          "file": "frames/attack_1_08.png",
+          "source_crop": [
+            1594,
+            2986,
+            1790,
+            3137
+          ],
+          "slot_column": 8,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            126,
+            64,
+            209,
+            174
+          ]
+        },
+        {
+          "file": "frames/attack_1_09.png",
+          "source_crop": [
+            1793,
+            2986,
+            1989,
+            3137
+          ],
+          "slot_column": 9,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            126,
+            33,
+            185,
+            168
+          ]
+        },
+        {
+          "file": "frames/attack_1_10.png",
+          "source_crop": [
+            1992,
+            2986,
+            2188,
+            3137
+          ],
+          "slot_column": 10,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            66,
+            75,
+            193,
+            162
+          ]
+        },
+        {
+          "file": "frames/attack_1_11.png",
+          "source_crop": [
+            2191,
+            2986,
+            2387,
+            3137
+          ],
+          "slot_column": 11,
+          "slot_row_y": 2985,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            111,
+            62,
+            190,
+            184
+          ]
+        },
+        {
+          "file": "frames/attack_1_12.png",
+          "source_crop": [
+            2,
+            3141,
+            198,
+            3292
+          ],
+          "slot_column": 0,
+          "slot_row_y": 3140,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            93,
+            69,
+            190,
+            184
+          ]
+        },
+        {
+          "file": "frames/attack_1_13.png",
+          "source_crop": [
+            201,
+            3141,
+            397,
+            3292
+          ],
+          "slot_column": 1,
+          "slot_row_y": 3140,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            93,
+            69,
+            202,
+            155
+          ]
+        },
+        {
+          "file": "frames/attack_1_14.png",
+          "source_crop": [
+            400,
+            3141,
+            596,
+            3292
+          ],
+          "slot_column": 2,
+          "slot_row_y": 3140,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            107,
+            85,
+            202,
+            155
+          ]
+        },
+        {
+          "file": "frames/attack_1_15.png",
+          "source_crop": [
+            599,
+            3141,
+            795,
+            3292
+          ],
+          "slot_column": 3,
+          "slot_row_y": 3140,
+          "canvas_offset": [
+            30,
+            33
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            116,
+            89,
+            181,
+            164
+          ]
+        }
+      ]
+    },
+    "attack_2": {
+      "fps": 18,
+      "loop": false,
+      "confidence": "medium-high (connected kick poses)",
+      "frames": [
+        {
+          "file": "frames/attack_2_00.png",
+          "source_crop": [
+            2,
+            3972,
+            205,
+            4141
+          ],
+          "slot_column": 0,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            119,
+            59,
+            161,
+            166
+          ]
+        },
+        {
+          "file": "frames/attack_2_01.png",
+          "source_crop": [
+            208,
+            3972,
+            411,
+            4141
+          ],
+          "slot_column": 1,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            110,
+            58,
+            165,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_02.png",
+          "source_crop": [
+            414,
+            3972,
+            617,
+            4141
+          ],
+          "slot_column": 2,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            112,
+            58,
+            170,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_03.png",
+          "source_crop": [
+            620,
+            3972,
+            823,
+            4141
+          ],
+          "slot_column": 3,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            109,
+            66,
+            200,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_04.png",
+          "source_crop": [
+            826,
+            3972,
+            1029,
+            4141
+          ],
+          "slot_column": 4,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            87,
+            66,
+            202,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_05.png",
+          "source_crop": [
+            1032,
+            3972,
+            1235,
+            4141
+          ],
+          "slot_column": 5,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            82,
+            66,
+            202,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_06.png",
+          "source_crop": [
+            1238,
+            3972,
+            1441,
+            4141
+          ],
+          "slot_column": 6,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            90,
+            66,
+            202,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_07.png",
+          "source_crop": [
+            1444,
+            3972,
+            1647,
+            4141
+          ],
+          "slot_column": 7,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            116,
+            66,
+            189,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_08.png",
+          "source_crop": [
+            1650,
+            3972,
+            1853,
+            4141
+          ],
+          "slot_column": 8,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            97,
+            66,
+            181,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_09.png",
+          "source_crop": [
+            1856,
+            3972,
+            2059,
+            4141
+          ],
+          "slot_column": 9,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            90,
+            66,
+            178,
+            167
+          ]
+        },
+        {
+          "file": "frames/attack_2_10.png",
+          "source_crop": [
+            2062,
+            3972,
+            2265,
+            4141
+          ],
+          "slot_column": 10,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            91,
+            65,
+            176,
+            166
+          ]
+        },
+        {
+          "file": "frames/attack_2_11.png",
+          "source_crop": [
+            2268,
+            3972,
+            2471,
+            4141
+          ],
+          "slot_column": 11,
+          "slot_row_y": 3971,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            91,
+            53,
+            199,
+            166
+          ]
+        },
+        {
+          "file": "frames/attack_2_12.png",
+          "source_crop": [
+            2,
+            4145,
+            205,
+            4314
+          ],
+          "slot_column": 0,
+          "slot_row_y": 4144,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            91,
+            61,
+            202,
+            166
+          ]
+        },
+        {
+          "file": "frames/attack_2_13.png",
+          "source_crop": [
+            208,
+            4145,
+            411,
+            4314
+          ],
+          "slot_column": 1,
+          "slot_row_y": 4144,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            91,
+            65,
+            197,
+            166
+          ]
+        },
+        {
+          "file": "frames/attack_2_14.png",
+          "source_crop": [
+            414,
+            4145,
+            617,
+            4314
+          ],
+          "slot_column": 2,
+          "slot_row_y": 4144,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            91,
+            65,
+            197,
+            166
+          ]
+        },
+        {
+          "file": "frames/attack_2_15.png",
+          "source_crop": [
+            620,
+            4145,
+            823,
+            4314
+          ],
+          "slot_column": 3,
+          "slot_row_y": 4144,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            91,
+            65,
+            184,
+            166
+          ]
+        },
+        {
+          "file": "frames/attack_2_16.png",
+          "source_crop": [
+            826,
+            4145,
+            1029,
+            4314
+          ],
+          "slot_column": 4,
+          "slot_row_y": 4144,
+          "canvas_offset": [
+            26,
+            15
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            108,
+            62,
+            170,
+            158
+          ]
+        }
+      ]
+    },
+    "attack_3": {
+      "fps": 15,
+      "loop": false,
+      "confidence": "medium (bow drawing/aiming, firing timing provisional)",
+      "frames": [
+        {
+          "file": "frames/attack_3_00.png",
+          "source_crop": [
+            1202,
+            4813,
+            1399,
+            4969
+          ],
+          "slot_column": 6,
+          "slot_row_y": 4812,
+          "canvas_offset": [
+            29,
+            24
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            93,
+            51,
+            154,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_01.png",
+          "source_crop": [
+            1402,
+            4813,
+            1599,
+            4969
+          ],
+          "slot_column": 7,
+          "slot_row_y": 4812,
+          "canvas_offset": [
+            29,
+            29
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            82,
+            63,
+            151,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_02.png",
+          "source_crop": [
+            1602,
+            4813,
+            1799,
+            4969
+          ],
+          "slot_column": 8,
+          "slot_row_y": 4812,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            59,
+            60,
+            145,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_03.png",
+          "source_crop": [
+            1802,
+            4813,
+            1999,
+            4969
+          ],
+          "slot_column": 9,
+          "slot_row_y": 4812,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            60,
+            56,
+            146,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_04.png",
+          "source_crop": [
+            2002,
+            4813,
+            2199,
+            4969
+          ],
+          "slot_column": 10,
+          "slot_row_y": 4812,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            57,
+            44,
+            151,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_05.png",
+          "source_crop": [
+            2202,
+            4813,
+            2399,
+            4969
+          ],
+          "slot_column": 11,
+          "slot_row_y": 4812,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            60,
+            41,
+            151,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_06.png",
+          "source_crop": [
+            2,
+            4973,
+            199,
+            5129
+          ],
+          "slot_column": 0,
+          "slot_row_y": 4972,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            57,
+            44,
+            154,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_07.png",
+          "source_crop": [
+            202,
+            4973,
+            399,
+            5129
+          ],
+          "slot_column": 1,
+          "slot_row_y": 4972,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            57,
+            44,
+            170,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_08.png",
+          "source_crop": [
+            402,
+            4973,
+            599,
+            5129
+          ],
+          "slot_column": 2,
+          "slot_row_y": 4972,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            57,
+            44,
+            170,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_09.png",
+          "source_crop": [
+            602,
+            4973,
+            799,
+            5129
+          ],
+          "slot_column": 3,
+          "slot_row_y": 4972,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            57,
+            44,
+            171,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_10.png",
+          "source_crop": [
+            802,
+            4973,
+            999,
+            5129
+          ],
+          "slot_column": 4,
+          "slot_row_y": 4972,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            57,
+            44,
+            164,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_11.png",
+          "source_crop": [
+            1002,
+            4973,
+            1199,
+            5129
+          ],
+          "slot_column": 5,
+          "slot_row_y": 4972,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            57,
+            44,
+            162,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_12.png",
+          "source_crop": [
+            1202,
+            4973,
+            1399,
+            5129
+          ],
+          "slot_column": 6,
+          "slot_row_y": 4972,
+          "canvas_offset": [
+            29,
+            21
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            57,
+            44,
+            155,
+            177
+          ]
+        },
+        {
+          "file": "frames/attack_3_13.png",
+          "source_crop": [
+            1402,
+            4973,
+            1599,
+            5129
+          ],
+          "slot_column": 7,
+          "slot_row_y": 4972,
+          "canvas_offset": [
+            29,
+            22
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            75,
+            63,
+            148,
+            177
+          ]
+        }
+      ]
+    },
+    "special": {
+      "fps": 17,
+      "loop": false,
+      "confidence": "medium (blaster / raised weapon poses)",
+      "frames": [
+        {
+          "file": "frames/special_00.png",
+          "source_crop": [
+            1862,
+            5920,
+            2045,
+            6071
+          ],
+          "slot_column": 10,
+          "slot_row_y": 5919,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            119,
+            71,
+            172,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_01.png",
+          "source_crop": [
+            2048,
+            5920,
+            2231,
+            6071
+          ],
+          "slot_column": 11,
+          "slot_row_y": 5919,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            90,
+            71,
+            172,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_02.png",
+          "source_crop": [
+            2234,
+            5920,
+            2417,
+            6071
+          ],
+          "slot_column": 12,
+          "slot_row_y": 5919,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            61,
+            72,
+            180,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_03.png",
+          "source_crop": [
+            2,
+            6075,
+            185,
+            6226
+          ],
+          "slot_column": 0,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            58,
+            72,
+            183,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_04.png",
+          "source_crop": [
+            188,
+            6075,
+            371,
+            6226
+          ],
+          "slot_column": 1,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            58,
+            72,
+            180,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_05.png",
+          "source_crop": [
+            374,
+            6075,
+            557,
+            6226
+          ],
+          "slot_column": 2,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            58,
+            72,
+            180,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_06.png",
+          "source_crop": [
+            560,
+            6075,
+            743,
+            6226
+          ],
+          "slot_column": 3,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            114,
+            34,
+            183,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_07.png",
+          "source_crop": [
+            746,
+            6075,
+            929,
+            6226
+          ],
+          "slot_column": 4,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            114,
+            34,
+            185,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_08.png",
+          "source_crop": [
+            932,
+            6075,
+            1115,
+            6226
+          ],
+          "slot_column": 5,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            124,
+            26,
+            185,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_09.png",
+          "source_crop": [
+            1118,
+            6075,
+            1301,
+            6226
+          ],
+          "slot_column": 6,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            124,
+            26,
+            180,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_10.png",
+          "source_crop": [
+            1304,
+            6075,
+            1487,
+            6226
+          ],
+          "slot_column": 7,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            124,
+            26,
+            181,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_11.png",
+          "source_crop": [
+            1490,
+            6075,
+            1673,
+            6226
+          ],
+          "slot_column": 8,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            124,
+            26,
+            183,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_12.png",
+          "source_crop": [
+            1676,
+            6075,
+            1859,
+            6226
+          ],
+          "slot_column": 9,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            124,
+            26,
+            180,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_13.png",
+          "source_crop": [
+            1862,
+            6075,
+            2045,
+            6226
+          ],
+          "slot_column": 10,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            124,
+            26,
+            180,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_14.png",
+          "source_crop": [
+            2048,
+            6075,
+            2231,
+            6226
+          ],
+          "slot_column": 11,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            124,
+            26,
+            183,
+            177
+          ]
+        },
+        {
+          "file": "frames/special_15.png",
+          "source_crop": [
+            2234,
+            6075,
+            2417,
+            6226
+          ],
+          "slot_column": 12,
+          "slot_row_y": 6074,
+          "canvas_offset": [
+            36,
+            26
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            113,
+            46,
+            180,
+            177
+          ]
+        }
+      ]
+    },
+    "hurt": {
+      "fps": 11,
+      "loop": false,
+      "confidence": "low-medium (recoil and tumble-looking poses; provisional)",
+      "frames": [
+        {
+          "file": "frames/hurt_00.png",
+          "source_crop": [
+            1738,
+            6476,
+            1952,
+            6594
+          ],
+          "slot_column": 8,
+          "slot_row_y": 6475,
+          "canvas_offset": [
+            21,
+            66
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            93,
+            96,
+            144,
+            179
+          ]
+        },
+        {
+          "file": "frames/hurt_01.png",
+          "source_crop": [
+            1955,
+            6476,
+            2169,
+            6594
+          ],
+          "slot_column": 9,
+          "slot_row_y": 6475,
+          "canvas_offset": [
+            21,
+            66
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            95,
+            89,
+            151,
+            167
+          ]
+        },
+        {
+          "file": "frames/hurt_02.png",
+          "source_crop": [
+            2172,
+            6476,
+            2386,
+            6594
+          ],
+          "slot_column": 10,
+          "slot_row_y": 6475,
+          "canvas_offset": [
+            21,
+            66
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            103,
+            79,
+            146,
+            184
+          ]
+        },
+        {
+          "file": "frames/hurt_03.png",
+          "source_crop": [
+            2,
+            6598,
+            216,
+            6716
+          ],
+          "slot_column": 0,
+          "slot_row_y": 6597,
+          "canvas_offset": [
+            21,
+            66
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            86,
+            100,
+            164,
+            168
+          ]
+        },
+        {
+          "file": "frames/hurt_04.png",
+          "source_crop": [
+            219,
+            6598,
+            433,
+            6716
+          ],
+          "slot_column": 1,
+          "slot_row_y": 6597,
+          "canvas_offset": [
+            21,
+            66
+          ],
+          "duration_weight": 1.0,
+          "nontransparent_bbox": [
+            69,
+            108,
+            164,
+            153
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,986 @@
+{
+  "format_version": 1,
+  "status": "design-templates-unbound",
+  "characters": {
+    "T-elos": {
+      "asset_root": "characters/t_elos",
+      "spriteframes_resource": "characters/t_elos/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/t_x_zone_2_enemies_t_elos_r001_c01.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "t_x_zone_2_enemies_t_elos_row006_take1",
+          "frames": 24,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "t_x_zone_2_enemies_t_elos_row001_take1",
+          "frames": 15,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "t_x_zone_2_enemies_t_elos_row002_take1",
+          "frames": 15,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "t_x_zone_2_enemies_t_elos_row003_take1",
+          "frames": 15,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "mechanical rush / short launcher",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "arm weapon burst",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "T-Skylla charged finisher",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "U-Teneritas wide-area cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Ryu": {
+      "asset_root": "characters/ryu",
+      "spriteframes_resource": "characters/ryu/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/ryu_ken_r002_c07.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "ryu_ken_row021_take1",
+          "frames": 25,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ryu_ken_row025_take1",
+          "frames": 21,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ryu_ken_row005_take1",
+          "frames": 20,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ryu_ken_row013_take1",
+          "frames": 20,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "grounded hadoken zoning",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "close jab/low to tatsumaki",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Shoryuken anti-air launcher",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Metsu Hadoken cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Ken": {
+      "asset_root": "characters/ken",
+      "spriteframes_resource": "characters/ken/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/ryu_ken_r001_c01.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "ryu_ken_row027_take1",
+          "frames": 26,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ryu_ken_row008_take1",
+          "frames": 21,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ryu_ken_row023_take1",
+          "frames": 21,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ryu_ken_row001_take1",
+          "frames": 20,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "rushdown kick chain",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "step-in uppercut",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Shoryu Reppa juggle finisher",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Guren Senpu Kyaku cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Sheath": {
+      "asset_root": "characters/sheath",
+      "spriteframes_resource": "characters/sheath/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/t_x_zone_2_enemies_sheath_r001_c01.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "t_x_zone_2_enemies_sheath_row005_take1",
+          "frames": 14,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "t_x_zone_2_enemies_sheath_row006_take1",
+          "frames": 14,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "t_x_zone_2_enemies_sheath_row001_take1",
+          "frames": 13,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "t_x_zone_2_enemies_sheath_row002_take1",
+          "frames": 13,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "Flame Blade / Draft Knife mixup",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "Flood Gun midrange volley",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Earth Clock beam and clone feint",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Late For The Wonder cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Saya": {
+      "asset_root": "characters/saya",
+      "spriteframes_resource": "characters/saya/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/ect_x_zone_2_enemies_saya_r001_c01.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "ect_x_zone_2_enemies_saya_row004_take1",
+          "frames": 16,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ect_x_zone_2_enemies_saya_row001_take1",
+          "frames": 15,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ect_x_zone_2_enemies_saya_row002_take1",
+          "frames": 15,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "ect_x_zone_2_enemies_saya_row003_take1",
+          "frames": 15,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "blade+gun chain",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "low evasive slash",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Shunka Shuto poison-finisher",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Hyakki Yako area cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Dante": {
+      "asset_root": "characters/dante",
+      "spriteframes_resource": "characters/dante/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/dante_vergil_r001_c07.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "dante_vergil_row051_take1",
+          "frames": 13,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "dante_vergil_row052_take1",
+          "frames": 13,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "dante_vergil_row019_take1",
+          "frames": 12,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "dante_vergil_row020_take1",
+          "frames": 12,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "Ebony & Ivory aerial gun juggle",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "Stinger to High Time",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Round Trip and fireworks sequence",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Devil Trigger / Double Jackpot cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Vergil": {
+      "asset_root": "characters/vergil",
+      "spriteframes_resource": "characters/vergil/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/dante_vergil_r001_c01.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "dante_vergil_row015_take1",
+          "frames": 12,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "dante_vergil_row016_take1",
+          "frames": 12,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "dante_vergil_row028_take1",
+          "frames": 12,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "dante_vergil_row010_take1",
+          "frames": 11,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "Yamato quick-draw chain",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "Rapid Slash cross-through",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Summoned Swords juggle",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Dimension Slash cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Captain Commando": {
+      "asset_root": "characters/captain_commando",
+      "spriteframes_resource": "characters/captain_commando/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/aracters_captain_commando_r001_c01.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "aracters_captain_commando_row002_take1",
+          "frames": 16,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "aracters_captain_commando_row004_take1",
+          "frames": 15,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "aracters_captain_commando_row001_take2",
+          "frames": 13,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "aracters_captain_commando_row003_take2",
+          "frames": 8,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "electric boxing chain",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "Captain Corridor lightning uppercut",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Captain Fire area burst",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Captain Storm team cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Natsu": {
+      "asset_root": "characters/natsu",
+      "spriteframes_resource": "characters/natsu/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/playable_characters_natsu_r001_c01.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "playable_characters_natsu_row001_take1",
+          "frames": 17,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "playable_characters_natsu_row002_take1",
+          "frames": 17,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "playable_characters_natsu_row003_take1",
+          "frames": 17,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "playable_characters_natsu_row004_take1",
+          "frames": 17,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "kunai/short blade strike series",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "Weasel Run evasive dash",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Possession Rush launcher",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Great Curse of Arahabaki special",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    },
+    "Juri Han": {
+      "asset_root": "characters/juri_han",
+      "spriteframes_resource": "characters/juri_han/generated_spriteframes.tres",
+      "idle": {
+        "animation": "idle",
+        "source_png": "frames/x_zone_2_enemies_juri_han_r001_c01.png",
+        "status": "single-pose placeholder; review and replace"
+      },
+      "review_candidates": [
+        {
+          "animation": "x_zone_2_enemies_juri_han_row001_take1",
+          "frames": 18,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "x_zone_2_enemies_juri_han_row002_take1",
+          "frames": 18,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "x_zone_2_enemies_juri_han_row004_take1",
+          "frames": 18,
+          "confidence": "unverified"
+        },
+        {
+          "animation": "x_zone_2_enemies_juri_han_row003_take1",
+          "frames": 14,
+          "confidence": "unverified"
+        }
+      ],
+      "moves": [
+        {
+          "slot": "1",
+          "proposed_name": "agile kick chain",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "2",
+          "proposed_name": "spin kick launcher",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "3",
+          "proposed_name": "Fuhajin wheel pressure",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        },
+        {
+          "slot": "4",
+          "proposed_name": "Kaisen Dankairaku cinematic",
+          "animation_candidate": null,
+          "animation_binding_verified": false,
+          "duration_seconds": null,
+          "hit_events": [],
+          "camera_events": [],
+          "voice_events": [],
+          "sfx_events": [],
+          "vfx_events": [],
+          "notes": "Choreography, contact and hit count must be authored in simulator; do not infer gameplay hits from sprite count."
+        }
+      ],
+      "audio_bus_defaults": {
+        "voice": "Voice",
+        "sfx": "SFX",
+        "music": "Music"
+      },
+      "voice_rules": {
+        "max_simultaneous": 1,
+        "cooldown_ms": 850,
+        "no_voice_per_hit": true
+      },
+      "engine_authoritative_timing": true,
+      "facing": "mirror visual only, never physics or labels",
+      "scale_and_offset": "to calibrate against the latest Battle Simulator build"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "captain_commando_down"
+display_name = "Ground Breaker / prototype"
+character = "captain_commando"
+role = "main"
+category = "normal"
+purpose = "down"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r003_c01.png", "ticks": 16, "anchor": [80, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [2, 1634, 145, 1771], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r003_c02.png", "ticks": 8, "anchor": [80, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [148, 1634, 291, 1771], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r003_c03.png", "ticks": 8, "anchor": [80, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [294, 1634, 437, 1771], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r003_c04.png", "ticks": 8, "anchor": [80, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [440, 1634, 583, 1771], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/captain_commando/frames/aracters_captain_commando_r003_c05.png", "ticks": 16, "anchor": [80, 126], "native_facing": -1, "offset": [0, 0], "source_rectangle": [586, 1634, 729, 1771], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Captain Commando.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 56
+hit_events = Array[Dictionary]([{"id": "captain_commando_down_0", "tick": 26, "end_tick": 28, "kind": "melee", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 0, "knockback": 0, "xp": 7, "reaction": "ground", "impact_profile": "res://impacts/light.tres", "region": [-2.4000000000000004, -78.5, 32, 38]}, {"id": "captain_commando_down_1", "tick": 34, "end_tick": 36, "kind": "melee", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 0, "knockback": 0, "xp": 7, "reaction": "finish", "impact_profile": "res://impacts/finisher.tres", "region": [11.2, -30.9, 32, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "attack"}])
+chain_open = 42
+chain_close = 55
+cancel_open = 12
+cancel_close = 41
+staging = {"distance": 39, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 42, "exit_end": 56, "max_correction": 850, "alignment_limit": 20, "height_ratio": 0.8, "max_elevation": 130}

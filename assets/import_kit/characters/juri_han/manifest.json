@@ -1,0 +1,3079 @@
+{
+  "character": "Juri Han",
+  "source_game": "Project X Zone 2",
+  "source_original_archive": "Project x Zone 2 - 10 character Sprite pack.zip",
+  "count_assembled_poses": 81,
+  "count_candidate_sequences": 5,
+  "state": "asset-import-candidate-not-runtime-verified",
+  "coordinate_convention": "0-based pixel x0/y0/x1/y1 inclusive",
+  "images": [
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c01",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1030,
+        128,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 1,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        31,
+        12,
+        103,
+        109
+      ],
+      "visible_pixels": 2726,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 924,
+        "red": 771,
+        "blue": 250,
+        "warm": 493,
+        "pixels": 2726
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c02",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        131,
+        1030,
+        257,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 2,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        40,
+        12,
+        93,
+        111
+      ],
+      "visible_pixels": 2699,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 789,
+        "red": 799,
+        "blue": 310,
+        "warm": 464,
+        "pixels": 2699
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c03",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        260,
+        1030,
+        386,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 3,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        42,
+        23,
+        89,
+        112
+      ],
+      "visible_pixels": 2317,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 649,
+        "red": 616,
+        "blue": 381,
+        "warm": 319,
+        "pixels": 2317
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c04",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        389,
+        1030,
+        515,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 4,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        43,
+        25,
+        94,
+        102
+      ],
+      "visible_pixels": 2074,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 392,
+        "red": 629,
+        "blue": 483,
+        "warm": 372,
+        "pixels": 2074
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c05",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        518,
+        1030,
+        644,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 5,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        26,
+        35,
+        87,
+        103
+      ],
+      "visible_pixels": 1979,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 370,
+        "red": 614,
+        "blue": 482,
+        "warm": 266,
+        "pixels": 1979
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c06",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        647,
+        1030,
+        773,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 6,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        15,
+        32,
+        119,
+        90
+      ],
+      "visible_pixels": 2592,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 767,
+        "red": 721,
+        "blue": 292,
+        "warm": 417,
+        "pixels": 2592
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c07",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        776,
+        1030,
+        902,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 7,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        30,
+        30,
+        110,
+        87
+      ],
+      "visible_pixels": 1910,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 333,
+        "red": 726,
+        "blue": 175,
+        "warm": 437,
+        "pixels": 1910
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c08",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        905,
+        1030,
+        1031,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 8,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        17,
+        31,
+        108,
+        84
+      ],
+      "visible_pixels": 2247,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 374,
+        "red": 893,
+        "blue": 374,
+        "warm": 490,
+        "pixels": 2247
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c09",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1034,
+        1030,
+        1160,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 9,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        8,
+        39,
+        100,
+        92
+      ],
+      "visible_pixels": 2328,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 482,
+        "red": 815,
+        "blue": 519,
+        "warm": 371,
+        "pixels": 2328
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c10",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1163,
+        1030,
+        1289,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 10,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        1,
+        40,
+        102,
+        94
+      ],
+      "visible_pixels": 2196,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 659,
+        "red": 652,
+        "blue": 418,
+        "warm": 296,
+        "pixels": 2196
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c11",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1292,
+        1030,
+        1418,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 11,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        8,
+        42,
+        105,
+        91
+      ],
+      "visible_pixels": 2015,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 484,
+        "red": 624,
+        "blue": 521,
+        "warm": 299,
+        "pixels": 2015
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c12",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1421,
+        1030,
+        1547,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 12,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        40,
+        53,
+        120,
+        124
+      ],
+      "visible_pixels": 2033,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 346,
+        "red": 690,
+        "blue": 377,
+        "warm": 388,
+        "pixels": 2033
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c13",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1550,
+        1030,
+        1676,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 13,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        18,
+        53,
+        92,
+        125
+      ],
+      "visible_pixels": 2558,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 538,
+        "red": 798,
+        "blue": 572,
+        "warm": 394,
+        "pixels": 2558
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c14",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1679,
+        1030,
+        1805,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 14,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        8,
+        49,
+        87,
+        122
+      ],
+      "visible_pixels": 2380,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 877,
+        "red": 674,
+        "blue": 447,
+        "warm": 287,
+        "pixels": 2380
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c15",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1808,
+        1030,
+        1934,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 15,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        33,
+        48,
+        107,
+        122
+      ],
+      "visible_pixels": 2704,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 923,
+        "red": 814,
+        "blue": 486,
+        "warm": 490,
+        "pixels": 2704
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c16",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1937,
+        1030,
+        2063,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 16,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        41,
+        16,
+        123,
+        122
+      ],
+      "visible_pixels": 2890,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 731,
+        "red": 882,
+        "blue": 491,
+        "warm": 466,
+        "pixels": 2890
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c17",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2066,
+        1030,
+        2192,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 17,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        13,
+        13,
+        91,
+        120
+      ],
+      "visible_pixels": 2594,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 555,
+        "red": 824,
+        "blue": 502,
+        "warm": 478,
+        "pixels": 2594
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r001_c18",
+      "png": "frames/x_zone_2_enemies_juri_han_r001_c18.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2195,
+        1030,
+        2321,
+        1155
+      ],
+      "grid_row": 1,
+      "grid_column": 18,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        13,
+        4,
+        73,
+        123
+      ],
+      "visible_pixels": 2850,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 687,
+        "red": 889,
+        "blue": 538,
+        "warm": 462,
+        "pixels": 2850
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c01",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1158,
+        128,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 1,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        45,
+        1,
+        76,
+        117
+      ],
+      "visible_pixels": 2284,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 962,
+        "red": 437,
+        "blue": 334,
+        "warm": 196,
+        "pixels": 2284
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c02",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        131,
+        1158,
+        257,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 2,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        32,
+        6,
+        78,
+        114
+      ],
+      "visible_pixels": 2631,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 764,
+        "red": 672,
+        "blue": 354,
+        "warm": 351,
+        "pixels": 2631
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c03",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        260,
+        1158,
+        386,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 3,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        23,
+        23,
+        113,
+        119
+      ],
+      "visible_pixels": 2689,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 827,
+        "red": 670,
+        "blue": 440,
+        "warm": 432,
+        "pixels": 2689
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c04",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        389,
+        1158,
+        515,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 4,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        11,
+        27,
+        83,
+        124
+      ],
+      "visible_pixels": 2482,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 730,
+        "red": 741,
+        "blue": 311,
+        "warm": 478,
+        "pixels": 2482
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c05",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        518,
+        1158,
+        644,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 5,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        7,
+        3,
+        93,
+        99
+      ],
+      "visible_pixels": 2668,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 644,
+        "red": 814,
+        "blue": 414,
+        "warm": 418,
+        "pixels": 2668
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c06",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        647,
+        1158,
+        773,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 6,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        12,
+        3,
+        93,
+        99
+      ],
+      "visible_pixels": 2679,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 644,
+        "red": 812,
+        "blue": 427,
+        "warm": 411,
+        "pixels": 2679
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c07",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        776,
+        1158,
+        902,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 7,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        20,
+        3,
+        93,
+        99
+      ],
+      "visible_pixels": 2686,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 644,
+        "red": 825,
+        "blue": 433,
+        "warm": 412,
+        "pixels": 2686
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c08",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        905,
+        1158,
+        1031,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 8,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        17,
+        27,
+        107,
+        107
+      ],
+      "visible_pixels": 2315,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 574,
+        "red": 698,
+        "blue": 282,
+        "warm": 468,
+        "pixels": 2315
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c09",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1034,
+        1158,
+        1160,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 9,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        5,
+        37,
+        94,
+        97
+      ],
+      "visible_pixels": 2166,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 422,
+        "red": 750,
+        "blue": 251,
+        "warm": 473,
+        "pixels": 2166
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c10",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1163,
+        1158,
+        1289,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 10,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        17,
+        17,
+        103,
+        91
+      ],
+      "visible_pixels": 2527,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 719,
+        "red": 705,
+        "blue": 215,
+        "warm": 385,
+        "pixels": 2527
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c11",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1292,
+        1158,
+        1418,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 11,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        43,
+        21,
+        91,
+        108
+      ],
+      "visible_pixels": 2190,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 680,
+        "red": 615,
+        "blue": 249,
+        "warm": 346,
+        "pixels": 2190
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c12",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1421,
+        1158,
+        1547,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 12,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        46,
+        21,
+        93,
+        110
+      ],
+      "visible_pixels": 2317,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 649,
+        "red": 616,
+        "blue": 381,
+        "warm": 319,
+        "pixels": 2317
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c13",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1550,
+        1158,
+        1676,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 13,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        23,
+        37,
+        113,
+        110
+      ],
+      "visible_pixels": 2345,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 644,
+        "red": 706,
+        "blue": 319,
+        "warm": 408,
+        "pixels": 2345
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c14",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1679,
+        1158,
+        1805,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 14,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        21,
+        21,
+        102,
+        122
+      ],
+      "visible_pixels": 2711,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 630,
+        "red": 887,
+        "blue": 337,
+        "warm": 385,
+        "pixels": 2711
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c15",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1808,
+        1158,
+        1934,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 15,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        21,
+        21,
+        102,
+        125
+      ],
+      "visible_pixels": 2653,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 559,
+        "red": 863,
+        "blue": 379,
+        "warm": 359,
+        "pixels": 2653
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c16",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1937,
+        1158,
+        2063,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 16,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        21,
+        21,
+        102,
+        122
+      ],
+      "visible_pixels": 2696,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 509,
+        "red": 903,
+        "blue": 406,
+        "warm": 381,
+        "pixels": 2696
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c17",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2066,
+        1158,
+        2192,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 17,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        21,
+        21,
+        102,
+        122
+      ],
+      "visible_pixels": 2745,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 597,
+        "red": 896,
+        "blue": 373,
+        "warm": 394,
+        "pixels": 2745
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r002_c18",
+      "png": "frames/x_zone_2_enemies_juri_han_r002_c18.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2195,
+        1158,
+        2321,
+        1283
+      ],
+      "grid_row": 2,
+      "grid_column": 18,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        34,
+        14,
+        125,
+        119
+      ],
+      "visible_pixels": 2597,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 519,
+        "red": 769,
+        "blue": 461,
+        "warm": 391,
+        "pixels": 2597
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c01",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1286,
+        128,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 1,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        34,
+        14,
+        96,
+        119
+      ],
+      "visible_pixels": 2484,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 525,
+        "red": 786,
+        "blue": 402,
+        "warm": 442,
+        "pixels": 2484
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c02",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        131,
+        1286,
+        257,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 2,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        35,
+        11,
+        91,
+        121
+      ],
+      "visible_pixels": 2572,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 613,
+        "red": 774,
+        "blue": 381,
+        "warm": 376,
+        "pixels": 2572
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c03",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        260,
+        1286,
+        386,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 3,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        40,
+        8,
+        89,
+        120
+      ],
+      "visible_pixels": 2463,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 820,
+        "red": 721,
+        "blue": 333,
+        "warm": 305,
+        "pixels": 2463
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c04",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        389,
+        1286,
+        515,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 4,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        32,
+        5,
+        88,
+        119
+      ],
+      "visible_pixels": 2518,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 887,
+        "red": 716,
+        "blue": 245,
+        "warm": 309,
+        "pixels": 2518
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c05",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        518,
+        1286,
+        644,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 5,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        31,
+        6,
+        95,
+        114
+      ],
+      "visible_pixels": 2802,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 767,
+        "red": 890,
+        "blue": 347,
+        "warm": 439,
+        "pixels": 2802
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c06",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        647,
+        1286,
+        773,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 6,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        25,
+        5,
+        89,
+        114
+      ],
+      "visible_pixels": 2844,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 744,
+        "red": 872,
+        "blue": 421,
+        "warm": 430,
+        "pixels": 2844
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c07",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        776,
+        1286,
+        902,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 7,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        26,
+        13,
+        94,
+        114
+      ],
+      "visible_pixels": 2770,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 756,
+        "red": 765,
+        "blue": 412,
+        "warm": 393,
+        "pixels": 2770
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c08",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        905,
+        1286,
+        1031,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 8,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        23,
+        16,
+        113,
+        114
+      ],
+      "visible_pixels": 3087,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 829,
+        "red": 874,
+        "blue": 497,
+        "warm": 488,
+        "pixels": 3087
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c09",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1034,
+        1286,
+        1160,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 9,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        13,
+        20,
+        111,
+        98
+      ],
+      "visible_pixels": 2995,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 936,
+        "red": 758,
+        "blue": 351,
+        "warm": 428,
+        "pixels": 2995
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c10",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1163,
+        1286,
+        1289,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 10,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        20,
+        20,
+        111,
+        98
+      ],
+      "visible_pixels": 2948,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 930,
+        "red": 757,
+        "blue": 307,
+        "warm": 428,
+        "pixels": 2948
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c11",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1292,
+        1286,
+        1418,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 11,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        22,
+        20,
+        111,
+        98
+      ],
+      "visible_pixels": 2943,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 930,
+        "red": 737,
+        "blue": 326,
+        "warm": 428,
+        "pixels": 2943
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c12",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1421,
+        1286,
+        1547,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 12,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        18,
+        20,
+        111,
+        98
+      ],
+      "visible_pixels": 2827,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 922,
+        "red": 724,
+        "blue": 234,
+        "warm": 428,
+        "pixels": 2827
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c13",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1550,
+        1286,
+        1676,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 13,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        22,
+        20,
+        111,
+        98
+      ],
+      "visible_pixels": 2908,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 932,
+        "red": 723,
+        "blue": 316,
+        "warm": 428,
+        "pixels": 2908
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r003_c14",
+      "png": "frames/x_zone_2_enemies_juri_han_r003_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1679,
+        1286,
+        1805,
+        1411
+      ],
+      "grid_row": 3,
+      "grid_column": 14,
+      "canvas_size": [
+        127,
+        126
+      ],
+      "bbox_inside_canvas": [
+        40,
+        12,
+        93,
+        111
+      ],
+      "visible_pixels": 2699,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 789,
+        "red": 799,
+        "blue": 310,
+        "warm": 464,
+        "pixels": 2699
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c01",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1416,
+        127,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 1,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        8,
+        23,
+        100,
+        80
+      ],
+      "visible_pixels": 2598,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 630,
+        "red": 778,
+        "blue": 366,
+        "warm": 422,
+        "pixels": 2598
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c02",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        130,
+        1416,
+        255,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 2,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        25,
+        23,
+        106,
+        88
+      ],
+      "visible_pixels": 2026,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 355,
+        "red": 712,
+        "blue": 451,
+        "warm": 393,
+        "pixels": 2026
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c03",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        258,
+        1416,
+        383,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 3,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        20,
+        26,
+        97,
+        101
+      ],
+      "visible_pixels": 2611,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 645,
+        "red": 772,
+        "blue": 477,
+        "warm": 366,
+        "pixels": 2611
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c04",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        386,
+        1416,
+        511,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 4,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        15,
+        20,
+        107,
+        108
+      ],
+      "visible_pixels": 2654,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 622,
+        "red": 796,
+        "blue": 366,
+        "warm": 384,
+        "pixels": 2654
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c05",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        514,
+        1416,
+        639,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 5,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        8,
+        13,
+        124,
+        97
+      ],
+      "visible_pixels": 2797,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 497,
+        "red": 926,
+        "blue": 531,
+        "warm": 465,
+        "pixels": 2797
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c06",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        642,
+        1416,
+        767,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 6,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        2,
+        6,
+        93,
+        106
+      ],
+      "visible_pixels": 2767,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 550,
+        "red": 850,
+        "blue": 536,
+        "warm": 416,
+        "pixels": 2767
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c07",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        770,
+        1416,
+        895,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 7,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        24,
+        4,
+        83,
+        107
+      ],
+      "visible_pixels": 2286,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 361,
+        "red": 747,
+        "blue": 427,
+        "warm": 451,
+        "pixels": 2286
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c08",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        898,
+        1416,
+        1023,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 8,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        22,
+        12,
+        108,
+        88
+      ],
+      "visible_pixels": 2616,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 805,
+        "red": 758,
+        "blue": 414,
+        "warm": 371,
+        "pixels": 2616
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c09",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1026,
+        1416,
+        1151,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 9,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        14,
+        22,
+        118,
+        80
+      ],
+      "visible_pixels": 2592,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 767,
+        "red": 721,
+        "blue": 292,
+        "warm": 417,
+        "pixels": 2592
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c10",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1154,
+        1416,
+        1279,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 10,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        17,
+        6,
+        103,
+        80
+      ],
+      "visible_pixels": 2527,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 719,
+        "red": 705,
+        "blue": 215,
+        "warm": 385,
+        "pixels": 2527
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c11",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1282,
+        1416,
+        1407,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 11,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        43,
+        10,
+        91,
+        97
+      ],
+      "visible_pixels": 2190,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 680,
+        "red": 615,
+        "blue": 249,
+        "warm": 346,
+        "pixels": 2190
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c12",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1410,
+        1416,
+        1535,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 12,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        45,
+        12,
+        89,
+        100
+      ],
+      "visible_pixels": 2106,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 338,
+        "red": 785,
+        "blue": 412,
+        "warm": 426,
+        "pixels": 2106
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c13",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1538,
+        1416,
+        1663,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 13,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        26,
+        24,
+        87,
+        92
+      ],
+      "visible_pixels": 1979,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 370,
+        "red": 614,
+        "blue": 482,
+        "warm": 266,
+        "pixels": 1979
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c14",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c14.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1666,
+        1416,
+        1791,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 14,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        43,
+        14,
+        94,
+        91
+      ],
+      "visible_pixels": 2074,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 392,
+        "red": 629,
+        "blue": 483,
+        "warm": 372,
+        "pixels": 2074
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c15",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c15.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1794,
+        1416,
+        1919,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 15,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        15,
+        21,
+        119,
+        79
+      ],
+      "visible_pixels": 2592,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 767,
+        "red": 721,
+        "blue": 292,
+        "warm": 417,
+        "pixels": 2592
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c16",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c16.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1922,
+        1416,
+        2047,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 16,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        30,
+        19,
+        110,
+        76
+      ],
+      "visible_pixels": 1910,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 333,
+        "red": 726,
+        "blue": 175,
+        "warm": 437,
+        "pixels": 1910
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c17",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c17.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2050,
+        1416,
+        2175,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 17,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        17,
+        20,
+        108,
+        73
+      ],
+      "visible_pixels": 2247,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 374,
+        "red": 893,
+        "blue": 374,
+        "warm": 490,
+        "pixels": 2247
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r004_c18",
+      "png": "frames/x_zone_2_enemies_juri_han_r004_c18.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2178,
+        1416,
+        2303,
+        1530
+      ],
+      "grid_row": 4,
+      "grid_column": 18,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        8,
+        28,
+        100,
+        81
+      ],
+      "visible_pixels": 2328,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 482,
+        "red": 815,
+        "blue": 519,
+        "warm": 371,
+        "pixels": 2328
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c01",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c01.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        2,
+        1533,
+        127,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 1,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        8,
+        31,
+        105,
+        80
+      ],
+      "visible_pixels": 2015,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 484,
+        "red": 624,
+        "blue": 521,
+        "warm": 299,
+        "pixels": 2015
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c02",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c02.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        130,
+        1533,
+        255,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 2,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        28,
+        11,
+        95,
+        94
+      ],
+      "visible_pixels": 2153,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 480,
+        "red": 619,
+        "blue": 333,
+        "warm": 340,
+        "pixels": 2153
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c03",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c03.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        258,
+        1533,
+        383,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 3,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        38,
+        7,
+        113,
+        109
+      ],
+      "visible_pixels": 2647,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 790,
+        "red": 704,
+        "blue": 412,
+        "warm": 366,
+        "pixels": 2647
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c04",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c04.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        386,
+        1533,
+        511,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 4,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        40,
+        6,
+        105,
+        114
+      ],
+      "visible_pixels": 2557,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 818,
+        "red": 675,
+        "blue": 351,
+        "warm": 414,
+        "pixels": 2557
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c05",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c05.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        514,
+        1533,
+        639,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 5,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        28,
+        1,
+        76,
+        110
+      ],
+      "visible_pixels": 2119,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 417,
+        "red": 674,
+        "blue": 405,
+        "warm": 372,
+        "pixels": 2119
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c06",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c06.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        642,
+        1533,
+        767,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 6,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        26,
+        1,
+        96,
+        108
+      ],
+      "visible_pixels": 2792,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 387,
+        "red": 976,
+        "blue": 632,
+        "warm": 565,
+        "pixels": 2792
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c07",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c07.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        770,
+        1533,
+        895,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 7,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        25,
+        6,
+        84,
+        109
+      ],
+      "visible_pixels": 2330,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 361,
+        "red": 769,
+        "blue": 442,
+        "warm": 467,
+        "pixels": 2330
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c08",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c08.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        898,
+        1533,
+        1023,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 8,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        22,
+        12,
+        108,
+        88
+      ],
+      "visible_pixels": 2616,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 805,
+        "red": 758,
+        "blue": 414,
+        "warm": 371,
+        "pixels": 2616
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c09",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c09.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1026,
+        1533,
+        1151,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 9,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        14,
+        22,
+        118,
+        80
+      ],
+      "visible_pixels": 2592,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 767,
+        "red": 721,
+        "blue": 292,
+        "warm": 417,
+        "pixels": 2592
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c10",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c10.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1154,
+        1533,
+        1279,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 10,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        17,
+        6,
+        103,
+        80
+      ],
+      "visible_pixels": 2527,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 719,
+        "red": 705,
+        "blue": 215,
+        "warm": 385,
+        "pixels": 2527
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c11",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c11.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1282,
+        1533,
+        1407,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 11,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        21,
+        17,
+        110,
+        80
+      ],
+      "visible_pixels": 2388,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 716,
+        "red": 684,
+        "blue": 197,
+        "warm": 384,
+        "pixels": 2388
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c12",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c12.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1410,
+        1533,
+        1535,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 12,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        43,
+        9,
+        102,
+        94
+      ],
+      "visible_pixels": 2360,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 769,
+        "red": 627,
+        "blue": 105,
+        "warm": 402,
+        "pixels": 2360
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_r005_c13",
+      "png": "frames/x_zone_2_enemies_juri_han_r005_c13.png",
+      "source_file": "3DS - Project X Zone 2 - Enemies - Juri Han.png",
+      "crop_xyxy_inclusive": [
+        1538,
+        1533,
+        1663,
+        1647
+      ],
+      "grid_row": 5,
+      "grid_column": 13,
+      "canvas_size": [
+        126,
+        115
+      ],
+      "bbox_inside_canvas": [
+        40,
+        1,
+        93,
+        100
+      ],
+      "visible_pixels": 2699,
+      "speaker": null,
+      "character_assignment_confidence": "high",
+      "classification_features": {
+        "white": 789,
+        "red": 799,
+        "blue": 310,
+        "warm": 464,
+        "pixels": 2699
+      },
+      "foot_anchor_norm": null,
+      "ground_anchor_status": "requires visual calibration; not measured from source"
+    }
+  ],
+  "animations": [
+    {
+      "id": "x_zone_2_enemies_juri_han_row001_take1",
+      "frames": [
+        "frames/x_zone_2_enemies_juri_han_r001_c01.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c02.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c03.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c04.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c05.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c06.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c07.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c08.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c09.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c10.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c11.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c12.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c13.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c14.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c15.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c16.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c17.png",
+        "frames/x_zone_2_enemies_juri_han_r001_c18.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "source_row": 1,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_row002_take1",
+      "frames": [
+        "frames/x_zone_2_enemies_juri_han_r002_c01.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c02.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c03.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c04.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c05.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c06.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c07.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c08.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c09.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c10.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c11.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c12.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c13.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c14.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c15.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c16.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c17.png",
+        "frames/x_zone_2_enemies_juri_han_r002_c18.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "source_row": 2,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_row003_take1",
+      "frames": [
+        "frames/x_zone_2_enemies_juri_han_r003_c01.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c02.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c03.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c04.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c05.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c06.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c07.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c08.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c09.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c10.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c11.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c12.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c13.png",
+        "frames/x_zone_2_enemies_juri_han_r003_c14.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "source_row": 3,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_row004_take1",
+      "frames": [
+        "frames/x_zone_2_enemies_juri_han_r004_c01.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c02.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c03.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c04.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c05.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c06.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c07.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c08.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c09.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c10.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c11.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c12.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c13.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c14.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c15.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c16.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c17.png",
+        "frames/x_zone_2_enemies_juri_han_r004_c18.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "source_row": 4,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    },
+    {
+      "id": "x_zone_2_enemies_juri_han_row005_take1",
+      "frames": [
+        "frames/x_zone_2_enemies_juri_han_r005_c01.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c02.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c03.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c04.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c05.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c06.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c07.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c08.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c09.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c10.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c11.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c12.png",
+        "frames/x_zone_2_enemies_juri_han_r005_c13.png"
+      ],
+      "source_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_row": 5,
+      "frame_order_confidence": "provisional-sheet-order",
+      "preview_fps": 10,
+      "loop": false,
+      "notes": "Original atlas order only. Not verified against PXZ2 gameplay. Inspect before animation binding."
+    }
+  ],
+  "default_animation": "static_idle_placeholder",
+  "import_notes": [
+    "Use nearest pixel filtering. Use common canvas and explicit pivot for final runtime sequences.",
+    "Animation order/duration not embedded in PNG; groups provisional and must be reviewed.",
+    "Shared-sheet character identification uses color scoring. Review medium/low-confidence assignments.",
+    "Original source PNG retained separately and unchanged."
+  ],
+  "default_still_pose_png": "frames/x_zone_2_enemies_juri_han_r001_c01.png",
+  "default_still_pose_selection": "first assembled-pose sequence, not first atlas cell; provisional static idle"
+}

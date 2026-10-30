@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "sheath_down"
+display_name = "Twin Edge Verdict / prototype"
+character = "sheath"
+role = "main"
+category = "normal"
+purpose = "down"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c01.png", "ticks": 16, "anchor": [95, 130], "native_facing": 1, "offset": [0, 0], "source_rectangle": [2, 1030, 175, 1162], "source_sheet": "3DS - Project X Zone 2 - Enemies - Sheath.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c04.png", "ticks": 8, "anchor": [95, 130], "native_facing": -1, "offset": [0, 0], "source_rectangle": [530, 1030, 703, 1162], "source_sheet": "3DS - Project X Zone 2 - Enemies - Sheath.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c06.png", "ticks": 8, "anchor": [95, 130], "native_facing": 1, "offset": [0, 0], "source_rectangle": [882, 1030, 1055, 1162], "source_sheet": "3DS - Project X Zone 2 - Enemies - Sheath.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c08.png", "ticks": 8, "anchor": [95, 130], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1234, 1030, 1407, 1162], "source_sheet": "3DS - Project X Zone 2 - Enemies - Sheath.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c10.png", "ticks": 8, "anchor": [95, 130], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1586, 1030, 1759, 1162], "source_sheet": "3DS - Project X Zone 2 - Enemies - Sheath.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c11.png", "ticks": 8, "anchor": [95, 130], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1762, 1030, 1935, 1162], "source_sheet": "3DS - Project X Zone 2 - Enemies - Sheath.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/sheath/frames/t_x_zone_2_enemies_sheath_r001_c13.png", "ticks": 16, "anchor": [95, 130], "native_facing": -1, "offset": [0, 0], "source_rectangle": [2114, 1030, 2287, 1162], "source_sheet": "3DS - Project X Zone 2 - Enemies - Sheath.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 72
+hit_events = Array[Dictionary]([{"id": "sheath_down_0", "tick": 26, "end_tick": 28, "kind": "melee", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 0, "knockback": 0, "xp": 7, "reaction": "ground", "impact_profile": "res://impacts/light.tres", "region": [48.599999999999994, -115.89999999999999, 32, 38]}, {"id": "sheath_down_1", "tick": 50, "end_tick": 52, "kind": "melee", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 0, "knockback": 0, "xp": 7, "reaction": "finish", "impact_profile": "res://impacts/finisher.tres", "region": [84.3, -146.5, 32, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "attack"}])
+chain_open = 58
+chain_close = 71
+cancel_open = 12
+cancel_close = 57
+staging = {"distance": 100, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 58, "exit_end": 72, "max_correction": 850, "alignment_limit": 20, "height_ratio": 0.8, "max_elevation": 130}

@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ReactionProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/ReactionProfile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+profile_id = "horizontal_launch"
+recoil = 7
+recoil_ticks = 14
+tilt = 0.1
+squash = 0.05
+electrical_ticks = 0

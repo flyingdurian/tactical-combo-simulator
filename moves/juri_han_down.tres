@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "juri_han_down"
+display_name = "Falling Scythe / prototype"
+character = "juri_han"
+role = "main"
+category = "normal"
+purpose = "down"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r001_c03.png", "ticks": 16, "anchor": [64, 118], "native_facing": 1, "offset": [0, 0], "source_rectangle": [260, 1030, 386, 1155], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r001_c06.png", "ticks": 8, "anchor": [64, 118], "native_facing": 1, "offset": [0, 0], "source_rectangle": [647, 1030, 773, 1155], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r001_c08.png", "ticks": 8, "anchor": [64, 118], "native_facing": 1, "offset": [0, 0], "source_rectangle": [905, 1030, 1031, 1155], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r001_c11.png", "ticks": 8, "anchor": [64, 118], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1292, 1030, 1418, 1155], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r001_c13.png", "ticks": 8, "anchor": [64, 118], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1550, 1030, 1676, 1155], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r001_c16.png", "ticks": 8, "anchor": [64, 118], "native_facing": 1, "offset": [0, 0], "source_rectangle": [1937, 1030, 2063, 1155], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/juri_han/frames/x_zone_2_enemies_juri_han_r001_c18.png", "ticks": 16, "anchor": [64, 118], "native_facing": 1, "offset": [0, 0], "source_rectangle": [2195, 1030, 2321, 1155], "source_sheet": "3DS - Project X Zone 2 - Enemies - Juri Han.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 72
+hit_events = Array[Dictionary]([{"id": "juri_han_down_0", "tick": 26, "end_tick": 28, "kind": "melee", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 0, "knockback": 0, "xp": 7, "reaction": "ground", "impact_profile": "res://impacts/light.tres", "region": [67.3, -85.3, 32, 38]}, {"id": "juri_han_down_1", "tick": 50, "end_tick": 52, "kind": "melee", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 0, "knockback": 0, "xp": 7, "reaction": "finish", "impact_profile": "res://impacts/finisher.tres", "region": [29.9, -148.2, 32, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "attack"}])
+chain_open = 58
+chain_close = 71
+cancel_open = 12
+cancel_close = 57
+staging = {"distance": 83, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 58, "exit_end": 72, "max_correction": 850, "alignment_limit": 20, "height_ratio": 0.8, "max_elevation": 130}

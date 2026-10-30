@@ -1,0 +1,22 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "reiji_assist"
+display_name = "Cross-Draw Support / prototype"
+character = "reiji"
+role = "assist"
+category = "normal"
+purpose = "assist"
+duration_ticks = 61
+poses = Array[Dictionary]([{"path": "res://assets/characters/reiji/frames/d_4_8.png", "ticks": 16, "anchor": [128, 158], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [1722, 3163, 1935, 3323], "canvas_offset": [20, 16], "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/reiji/frames/d_5_5.png", "ticks": 9, "anchor": [128, 158], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [1077, 3325, 1290, 3485], "canvas_offset": [20, 16], "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/reiji/frames/d_6_6.png", "ticks": 8, "anchor": [128, 158], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [1292, 3487, 1505, 3647], "canvas_offset": [20, 16], "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/reiji/frames/d_6_8.png", "ticks": 10, "anchor": [128, 158], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [1722, 3487, 1935, 3647], "canvas_offset": [20, 16], "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}, {"path": "res://assets/characters/reiji/frames/d_9_3.png", "ticks": 18, "anchor": [128, 158], "native_facing": -1, "attack_direction": -1, "offset": [0, 0], "source_rectangle": [647, 3973, 860, 4133], "canvas_offset": [20, 16], "source_sheet": "assets/characters/roster_source/Reiji_Xiaomu_original.png", "anchors": {}, "mapping_status": "Provisional authored order; inspected assembled character pose."}])
+hit_events = Array[Dictionary]([{"id": "reiji_assist_0", "tick": 17, "end_tick": 19, "kind": "melee", "damage": 10, "hitstun": 42, "launch": 90, "reaction": "sustain", "knockback": 0, "xp": 6, "impact_profile": "res://impacts/light.tres", "reaction_profile": "res://reactions/light_stagger.tres", "region": [45, -86, 55, 42]}, {"id": "reiji_assist_1", "tick": 34, "end_tick": 36, "kind": "melee", "damage": 10, "hitstun": 42, "launch": 90, "reaction": "sustain", "knockback": 0, "xp": 6, "impact_profile": "res://impacts/light.tres", "reaction_profile": "res://reactions/light_stagger.tres", "region": [65, -96, 55, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 4, "effect": "trail"}, {"tick": 1, "sound_event": "assist"}])
+chain_open = 46
+chain_close = 60
+cancel_open = 12
+cancel_close = 41
+resource_cost = 0
+staging = {"distance": 104, "entry_offset": 145, "approach_start": 2, "approach_end": 15, "commit_tick": 12, "exit_start": 47, "exit_end": 61, "max_correction": 650, "alignment_limit": 22, "height_ratio": 0.85, "max_elevation": 140}
+cinematic_spec = {}

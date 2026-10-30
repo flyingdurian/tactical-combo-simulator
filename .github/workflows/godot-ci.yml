@@ -1,0 +1,78 @@
+name: Godot Combat & Choreography CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: godot-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  static-director:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate choreography Director without writing to the game
+        run: |
+          python -m unittest discover -s tests -p 'test_director_*.py' -v
+          python tools/choreography_director.py --audit-all --output /tmp/director-audit
+      - name: Save audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: director-audit
+          path: /tmp/director-audit/full_roster_audit.json
+          if-no-files-found: ignore
+
+  godot-headless:
+    needs: static-director
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      GODOT_VERSION: 4.4.1
+      GODOT_ARCHIVE: Godot_v4.4.1-stable_linux.x86_64.zip
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download pinned official Godot editor
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 3 --output "$RUNNER_TEMP/$GODOT_ARCHIVE" \
+            "https://github.com/godotengine/godot-builds/releases/download/${GODOT_VERSION}-stable/${GODOT_ARCHIVE}"
+          echo 'd6e382fb531019f85630c1f485a561a0d20c4a2344b6c3847735cfee7da812aa  '"$RUNNER_TEMP/$GODOT_ARCHIVE" | sha256sum --check
+          unzip -q "$RUNNER_TEMP/$GODOT_ARCHIVE" -d "$RUNNER_TEMP"
+          mv "$RUNNER_TEMP/Godot_v${GODOT_VERSION}-stable_linux.x86_64" "$RUNNER_TEMP/godot"
+          chmod +x "$RUNNER_TEMP/godot"
+          "$RUNNER_TEMP/godot" --version
+      - name: Import project resources (headless)
+        shell: bash
+        run: |
+          set -euo pipefail
+          timeout 600s "$RUNNER_TEMP/godot" --headless --path . --import 2>&1 | tee godot-import.log
+      - name: Run existing simulation test suites
+        shell: bash
+        run: |
+          set -euo pipefail
+          for suite in RosterAcceptance RosterSafety VersusAcceptance; do
+            echo "::group::$suite"
+            timeout 600s "$RUNNER_TEMP/godot" --headless --path . --script "res://tests/${suite}.gd" \
+              2>&1 | tee "godot-${suite}.log"
+            echo "::endgroup::"
+          done
+      - name: Upload engine logs (no source archives)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: godot-validation-logs
+          path: godot-*.log
+          if-no-files-found: ignore
+          retention-days: 7

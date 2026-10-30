@@ -1,0 +1,87 @@
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+
+PASS repeat grounded kosmos_assist side=false 2/2
+PASS repeat grounded kosmos_assist side=false 2/2
+PASS repeat grounded kosmos_assist side=false 2/2
+PASS juggle opportunity kosmos_assist
+PASS late falling target escapes committed height kosmos_assist
+PASS exit cleanup kosmos_assist
+PASS assist reset kosmos_assist
+PASS repeat grounded kosmos_assist side=true 2/2
+PASS repeat grounded kosmos_assist side=true 2/2
+PASS repeat grounded kosmos_assist side=true 2/2
+PASS juggle opportunity kosmos_assist
+PASS late falling target escapes committed height kosmos_assist
+PASS exit cleanup kosmos_assist
+PASS assist reset kosmos_assist
+PASS repeat grounded chunli_assist side=false 3/3
+PASS repeat grounded chunli_assist side=false 3/3
+PASS repeat grounded chunli_assist side=false 3/3
+PASS juggle opportunity chunli_assist
+PASS late falling target escapes committed height chunli_assist
+PASS exit cleanup chunli_assist
+PASS assist reset chunli_assist
+PASS repeat grounded chunli_assist side=true 3/3
+PASS repeat grounded chunli_assist side=true 3/3
+PASS repeat grounded chunli_assist side=true 3/3
+PASS juggle opportunity chunli_assist
+PASS late falling target escapes committed height chunli_assist
+PASS exit cleanup chunli_assist
+PASS assist reset chunli_assist
+PASS repeat grounded xiaoyu_assist side=false 2/2
+PASS repeat grounded xiaoyu_assist side=false 2/2
+PASS repeat grounded xiaoyu_assist side=false 2/2
+PASS juggle opportunity xiaoyu_assist
+PASS late falling target escapes committed height xiaoyu_assist
+PASS exit cleanup xiaoyu_assist
+PASS assist reset xiaoyu_assist
+PASS repeat grounded xiaoyu_assist side=true 2/2
+PASS repeat grounded xiaoyu_assist side=true 2/2
+PASS repeat grounded xiaoyu_assist side=true 2/2
+PASS juggle opportunity xiaoyu_assist
+PASS late falling target escapes committed height xiaoyu_assist
+PASS exit cleanup xiaoyu_assist
+PASS assist reset xiaoyu_assist
+PASS repeat grounded reiji_assist side=false 2/2
+PASS repeat grounded reiji_assist side=false 2/2
+PASS repeat grounded reiji_assist side=false 2/2
+PASS juggle opportunity reiji_assist
+PASS late falling target escapes committed height reiji_assist
+PASS exit cleanup reiji_assist
+PASS assist reset reiji_assist
+PASS repeat grounded reiji_assist side=true 2/2
+PASS repeat grounded reiji_assist side=true 2/2
+PASS repeat grounded reiji_assist side=true 2/2
+PASS juggle opportunity reiji_assist
+PASS late falling target escapes committed height reiji_assist
+PASS exit cleanup reiji_assist
+PASS assist reset reiji_assist
+PASS repeat grounded xiaomu_assist side=false 2/2
+PASS repeat grounded xiaomu_assist side=false 2/2
+PASS repeat grounded xiaomu_assist side=false 2/2
+PASS juggle opportunity xiaomu_assist
+PASS late falling target escapes committed height xiaomu_assist
+PASS exit cleanup xiaomu_assist
+PASS assist reset xiaomu_assist
+PASS repeat grounded xiaomu_assist side=true 2/2
+PASS repeat grounded xiaomu_assist side=true 2/2
+PASS repeat grounded xiaomu_assist side=true 2/2
+PASS juggle opportunity xiaomu_assist
+PASS late falling target escapes committed height xiaomu_assist
+PASS exit cleanup xiaomu_assist
+PASS assist reset xiaomu_assist
+PASS repeat grounded morrigan_assist side=false 2/2
+PASS repeat grounded morrigan_assist side=false 2/2
+PASS repeat grounded morrigan_assist side=false 2/2
+PASS juggle opportunity morrigan_assist
+PASS late falling target escapes committed height morrigan_assist
+PASS exit cleanup morrigan_assist
+PASS assist reset morrigan_assist
+PASS repeat grounded morrigan_assist side=true 2/2
+PASS repeat grounded morrigan_assist side=true 2/2
+PASS repeat grounded morrigan_assist side=true 2/2
+PASS juggle opportunity morrigan_assist
+PASS late falling target escapes committed height morrigan_assist
+PASS exit cleanup morrigan_assist
+PASS assist reset morrigan_assist
+ASSIST ROSTER: 84 checks / 0 failures

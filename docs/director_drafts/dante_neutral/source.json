@@ -1,0 +1,224 @@
+{
+  "sequence_id": "dante_neutral",
+  "display_name": "Redline Thrust / prototype",
+  "character": "dante",
+  "role": "main",
+  "category": "normal",
+  "purpose": "neutral",
+  "poses": [
+    {
+      "path": "res://assets/import_kit/characters/dante/frames/dante_vergil_r006_c02.png",
+      "ticks": 16,
+      "anchor": [
+        125,
+        145
+      ],
+      "native_facing": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        219,
+        3265,
+        433,
+        3451
+      ],
+      "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png",
+      "mapping_status": "Prototype order and timing, not verified original move."
+    },
+    {
+      "path": "res://assets/import_kit/characters/dante/frames/dante_vergil_r006_c03.png",
+      "ticks": 8,
+      "anchor": [
+        125,
+        145
+      ],
+      "native_facing": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        436,
+        3265,
+        650,
+        3451
+      ],
+      "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png",
+      "mapping_status": "Prototype order and timing, not verified original move."
+    },
+    {
+      "path": "res://assets/import_kit/characters/dante/frames/dante_vergil_r006_c04.png",
+      "ticks": 8,
+      "anchor": [
+        125,
+        145
+      ],
+      "native_facing": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        653,
+        3265,
+        867,
+        3451
+      ],
+      "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png",
+      "mapping_status": "Prototype order and timing, not verified original move."
+    },
+    {
+      "path": "res://assets/import_kit/characters/dante/frames/dante_vergil_r006_c05.png",
+      "ticks": 8,
+      "anchor": [
+        125,
+        145
+      ],
+      "native_facing": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        870,
+        3265,
+        1084,
+        3451
+      ],
+      "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png",
+      "mapping_status": "Prototype order and timing, not verified original move."
+    },
+    {
+      "path": "res://assets/import_kit/characters/dante/frames/dante_vergil_r006_c07.png",
+      "ticks": 8,
+      "anchor": [
+        125,
+        145
+      ],
+      "native_facing": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1304,
+        3265,
+        1518,
+        3451
+      ],
+      "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png",
+      "mapping_status": "Prototype order and timing, not verified original move."
+    },
+    {
+      "path": "res://assets/import_kit/characters/dante/frames/dante_vergil_r006_c08.png",
+      "ticks": 8,
+      "anchor": [
+        125,
+        145
+      ],
+      "native_facing": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        1521,
+        3265,
+        1735,
+        3451
+      ],
+      "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png",
+      "mapping_status": "Prototype order and timing, not verified original move."
+    },
+    {
+      "path": "res://assets/import_kit/characters/dante/frames/dante_vergil_r007_c01.png",
+      "ticks": 16,
+      "anchor": [
+        125,
+        145
+      ],
+      "native_facing": -1,
+      "offset": [
+        0,
+        0
+      ],
+      "source_rectangle": [
+        2,
+        3454,
+        216,
+        3640
+      ],
+      "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png",
+      "mapping_status": "Prototype order and timing, not verified original move."
+    }
+  ],
+  "duration_ticks": 72,
+  "hit_events": [
+    {
+      "id": "dante_neutral_0",
+      "tick": 34,
+      "end_tick": 36,
+      "kind": "melee",
+      "damage": 13,
+      "hitstun": 45,
+      "hitstop": 3,
+      "launch": 0,
+      "knockback": 0,
+      "xp": 7,
+      "reaction": "ground",
+      "impact_profile": "res://impacts/light.tres",
+      "region": [
+        101.3,
+        -136.3,
+        32,
+        38
+      ]
+    },
+    {
+      "id": "dante_neutral_1",
+      "tick": 50,
+      "end_tick": 52,
+      "kind": "melee",
+      "damage": 19,
+      "hitstun": 45,
+      "hitstop": 5,
+      "launch": 75,
+      "knockback": 0,
+      "xp": 7,
+      "reaction": "sustain",
+      "impact_profile": "res://impacts/light.tres",
+      "region": [
+        101.3,
+        -136.3,
+        32,
+        38
+      ]
+    }
+  ],
+  "movement": [],
+  "cues": [
+    {
+      "tick": 1,
+      "sound_event": "attack"
+    }
+  ],
+  "chain_open": 58,
+  "chain_close": 71,
+  "cancel_open": 12,
+  "cancel_close": 57,
+  "staging": {
+    "distance": 135,
+    "entry_offset": 130,
+    "approach_start": 2,
+    "approach_end": 14,
+    "commit_tick": 12,
+    "exit_start": 58,
+    "exit_end": 72,
+    "max_correction": 850,
+    "alignment_limit": 20,
+    "height_ratio": 0.8,
+    "max_elevation": 130
+  }
+}

@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="SequenceData" load_steps=2 format=3]
+[ext_resource type="Script" path="res://battle/SequenceData.gd" id="1"]
+[resource]
+script = ExtResource("1")
+sequence_id = "vergil_neutral"
+display_name = "Blue Draw / prototype"
+character = "vergil"
+role = "main"
+category = "normal"
+purpose = "neutral"
+poses = Array[Dictionary]([{"path": "res://assets/import_kit/characters/vergil/frames/dante_vergil_r002_c01.png", "ticks": 16, "anchor": [135, 156], "native_facing": -1, "offset": [0, 0], "source_rectangle": [2, 2509, 216, 2695], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/vergil/frames/dante_vergil_r002_c02.png", "ticks": 8, "anchor": [135, 156], "native_facing": -1, "offset": [0, 0], "source_rectangle": [219, 2509, 433, 2695], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/vergil/frames/dante_vergil_r002_c04.png", "ticks": 8, "anchor": [135, 156], "native_facing": -1, "offset": [0, 0], "source_rectangle": [653, 2509, 867, 2695], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/vergil/frames/dante_vergil_r002_c06.png", "ticks": 8, "anchor": [135, 156], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1087, 2509, 1301, 2695], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/vergil/frames/dante_vergil_r002_c07.png", "ticks": 8, "anchor": [135, 156], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1304, 2509, 1518, 2695], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png", "mapping_status": "Prototype order and timing, not verified original move."}, {"path": "res://assets/import_kit/characters/vergil/frames/dante_vergil_r002_c10.png", "ticks": 16, "anchor": [135, 156], "native_facing": -1, "offset": [0, 0], "source_rectangle": [1955, 2509, 2169, 2695], "source_sheet": "3DS - Project X Zone 2 - Playable Characters - Dante & Vergil.png", "mapping_status": "Prototype order and timing, not verified original move."}])
+duration_ticks = 64
+hit_events = Array[Dictionary]([{"id": "vergil_neutral_0", "tick": 26, "end_tick": 28, "kind": "melee", "damage": 13, "hitstun": 45, "hitstop": 3, "launch": 0, "knockback": 0, "xp": 7, "reaction": "ground", "impact_profile": "res://impacts/light.tres", "region": [92.8, -98.89999999999999, 32, 38]}, {"id": "vergil_neutral_1", "tick": 42, "end_tick": 44, "kind": "melee", "damage": 19, "hitstun": 45, "hitstop": 5, "launch": 75, "knockback": 0, "xp": 7, "reaction": "sustain", "impact_profile": "res://impacts/light.tres", "region": [94.5, -98.89999999999999, 32, 38]}])
+movement = Array[Dictionary]([])
+cues = Array[Dictionary]([{"tick": 1, "sound_event": "attack"}])
+chain_open = 50
+chain_close = 63
+cancel_open = 12
+cancel_close = 49
+staging = {"distance": 128, "entry_offset": 130, "approach_start": 2, "approach_end": 14, "commit_tick": 12, "exit_start": 50, "exit_end": 64, "max_correction": 850, "alignment_limit": 20, "height_ratio": 0.8, "max_elevation": 130}
