@@ -27,6 +27,7 @@ jobs:
           python -m unittest discover -s tests -p 'test_director_*.py' -v
           python tools/choreography_director.py --audit-all --output /tmp/director-audit
           python tools/director_beat_composer.py --out docs/director_beats
+          python tools/director_contact_lab.py --out /tmp/director-contact
       - name: Save audit report
         if: always()
         uses: actions/upload-artifact@v4
@@ -34,6 +35,15 @@ jobs:
           name: director-audit
           path: /tmp/director-audit/full_roster_audit.json
           if-no-files-found: ignore
+
+      - name: Upload contact-review images (private CI artifact)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: director-contact-review
+          path: /tmp/director-contact/
+          if-no-files-found: ignore
+          retention-days: 7
 
   godot-headless:
     needs: static-director
