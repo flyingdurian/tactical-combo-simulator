@@ -29,6 +29,7 @@ jobs:
           python tools/director_beat_composer.py --out docs/director_beats
           python tools/director_contact_lab.py --out /tmp/director-contact
           python tools/director_role_phrases.py --out /tmp/director-role
+          python tools/director_transition_quality.py --source /tmp/director-role --out /tmp/director-transition
       - name: Save audit report
         if: always()
         uses: actions/upload-artifact@v4
@@ -52,6 +53,15 @@ jobs:
         with:
           name: director-role-storyboards
           path: /tmp/director-role/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Upload animation-join diagnostics (private)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: director-transition-quality
+          path: /tmp/director-transition/
           if-no-files-found: ignore
           retention-days: 7
 
