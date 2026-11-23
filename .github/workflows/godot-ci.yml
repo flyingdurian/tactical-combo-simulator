@@ -8,6 +8,9 @@ on:
 permissions:
   contents: read
 
+# GitHub Actions artifacts from public repositories are not private.
+# Upload sprite-derived review material only after repository visibility is private.
+
 concurrency:
   group: godot-${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -44,7 +47,7 @@ jobs:
           retention-days: 7
 
       - name: Upload 16-character repertoire identity review
-        if: always()
+        if: ${{ always() && github.event.repository.private == true }}
         uses: actions/upload-artifact@v4
         with:
           name: director-repertoire-16
@@ -60,8 +63,8 @@ jobs:
           path: /tmp/director-audit/full_roster_audit.json
           if-no-files-found: ignore
 
-      - name: Upload contact-review images (private CI artifact)
-        if: always()
+      - name: Upload contact-review images (private-repository only)
+        if: ${{ always() && github.event.repository.private == true }}
         uses: actions/upload-artifact@v4
         with:
           name: director-contact-review
@@ -69,8 +72,8 @@ jobs:
           if-no-files-found: ignore
           retention-days: 7
 
-      - name: Upload role-aware storyboards (private CI artifact)
-        if: always()
+      - name: Upload role-aware storyboards (private-repository only)
+        if: ${{ always() && github.event.repository.private == true }}
         uses: actions/upload-artifact@v4
         with:
           name: director-role-storyboards
@@ -78,8 +81,8 @@ jobs:
           if-no-files-found: ignore
           retention-days: 7
 
-      - name: Upload animation-join diagnostics (private)
-        if: always()
+      - name: Upload animation-join diagnostics (private-repository only)
+        if: ${{ always() && github.event.repository.private == true }}
         uses: actions/upload-artifact@v4
         with:
           name: director-transition-quality
@@ -87,8 +90,8 @@ jobs:
           if-no-files-found: ignore
           retention-days: 7
 
-      - name: Upload 16-fighter pose vocabulary (private)
-        if: always()
+      - name: Upload 16-fighter pose vocabulary (private-repository only)
+        if: ${{ always() && github.event.repository.private == true }}
         uses: actions/upload-artifact@v4
         with:
           name: director-pose-vocabulary
@@ -96,8 +99,8 @@ jobs:
           if-no-files-found: ignore
           retention-days: 7
 
-      - name: Upload offline 16-fighter sprite review studio (private)
-        if: always()
+      - name: Upload offline 16-fighter sprite review studio (private-repository only)
+        if: ${{ always() && github.event.repository.private == true }}
         uses: actions/upload-artifact@v4
         with:
           name: director-pose-review-studio

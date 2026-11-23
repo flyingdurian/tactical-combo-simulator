@@ -16,7 +16,7 @@
 
 Inspect `/tmp/director-repertoire/review.html` for 16 characters, and the full `/tmp/director-repertoire/repertoire.json` for provenance and missing roles.
 
-GitHub Actions stores a private 7-day `director-repertoire-16` artifact. Do not publish it outside the private repository: it refers to third-party sprite work.
+GitHub Actions uploads the 7-day `director-repertoire-16` artifact **only when GitHub reports the repository as private**. Artifacts in a public repository must not be described as private. See `docs/ASSET_PUBLICATION_SAFETY.md` for the third-party sprite-rights and historical-artifact review gate.
 
 ## Required future gates
 1. Curate each fighter's pose vocabulary based on actual readable sprite frames, move references and confidence. Unreferenced PNGs are candidates for review, not automatically valid attack frames.
